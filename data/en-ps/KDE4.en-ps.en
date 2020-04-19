@@ -1,0 +1,3377 @@
+Size & & Orientation
+Graphics Adaptor
+3D Options
+Monitor Gamma
+Multiple Monitors
+Power Control
+Change your Face
+(Custom)
+There was an error loading the image.
+There was an error saving the image: %1
+Choose Image
+Change & Password...
+Password & User Information
+(C) 2002, Braden MacDonald, (C) 2004 Ravikiran Rajagopal
+Frans Englich
+Maintainer
+Ravikiran Rajagopal
+Michael Häckel
+Braden MacDonald
+Face editor
+Geert Jansen
+Password changer
+Daniel Molkentin
+Alex Zepeda
+Hans Karlsson
+Icons
+Hermann Thomas
+Please enter your password in order to save your settings:
+You must enter your password in order to change your information.
+You must enter a correct password.
+There was an error saving the image: %1
+Select a new face:
+Custom Image...
+The size of login images
+The default image file
+The filename of the user's custom image file
+The user's login image
+Click to change your image
+Change Password...
+User Information
+& Name:
+& Organization:
+& Email address:
+& SMTP server:
+User ID:
+At Password Prompt
+Show one bullet for each letter
+Show three bullets for each letter
+Show nothing
+Your names
+Your emails
+Instant Messenger with a D-Bus interface
+Instant Messenger
+The instant messenger allows two-way chat between individuals and groups.
+Text-to-Speech Service with a D-Bus interface
+Embedded Text Editor
+The text editor service provides applications with a text viewer and editor. KDE applications that provide text editing facilities should use this service.
+Embeddable Text Editor Component (with Doc/ View Separation)
+KTextEditor load/ save filter/ check plugin
+KTextEditor Plugin
+Embedded Advanced Text Editor
+Autobookmarker
+Set bookmarks on lines matching a pattern when documents are loaded
+AutoBrace
+Insert closing braces on pressing Enter
+Exporter
+Export highlighted document to HTML
+Insert File
+Insert any readable file at cursor position
+Data Tools
+Enable data tools like thesaurus and spell check (if installed)
+Python encoding checker/ adder
+While saving check encoding of python files and add an encoding line
+Format of Time & Date insertion
+Time & Date
+Insert current Time & Date
+Afar
+Abkhazian
+Avestan
+Afrikaans
+Amharic
+Arabic
+Assamese
+Asturian
+Aymara
+Azerbaijani
+Bashkir
+Belarusian
+Belarusian (Latin)
+Bulgarian
+Bihari
+Bislama
+Bengali
+Bengali (India)
+Tibetan
+Breton
+Bosnian
+Catalan
+Valencian (southern Catalan)
+Chechen
+Chamorro
+Corsican
+Crimean Tatar
+Czech
+Kashubian
+Church Slavic
+Chuvash
+Welsh
+Danish
+German
+Lower Sorbian
+Dzongkha
+Greek
+English
+British English
+American English
+Esperanto
+Spanish
+Estonian
+Basque
+Farsi (Persian)
+Finnish
+Fijian
+Faroese
+French
+Frisian
+Irish Gaelic
+Gaelic
+Galician
+Guarani
+Gujarati
+Manx
+Hausa
+Hebrew
+Hindi
+Chhattisgarhi
+Hiri Motu
+Croatian
+Upper Sorbian
+Hungarian
+Armenian
+Herero
+Interlingua
+Indonesian
+Interlingue
+Inupiaq
+Ido
+Icelandic
+Italian
+Inuktitut
+Japanese
+Javanese
+Georgian
+Kikuyu
+Kazakh
+Kalaallisut
+Khmer
+Kannada
+Korean
+Kashmiri
+Kurdish
+Komi
+Cornish
+Kirghiz
+Latin
+Luxembourgish
+Limburgan
+Lingala
+Lao
+Lithuanian
+Latvian
+Maithili
+Malagasy
+Marshallese
+Maori
+Macedonian
+Malayalam
+Mongolian
+Moldavian
+Marathi
+Malay
+Maltese
+Burmese
+Nauru
+Norwegian Bokmål
+Ndebele, North
+Low Saxon
+Nepali
+Ndonga
+Dutch
+Norwegian Nynorsk
+Ndebele, South
+Northern Sotho
+Navajo
+Chichewa
+Occitan
+Oromo
+Oriya
+Ossetian
+Punjabi/ Panjabi
+Pali
+Polish
+Pushto
+Portuguese
+Brazilian Portuguese
+Quechua
+Rundi
+Romanian
+Romany
+Russian
+Kinyarwanda
+Sanskrit
+Sardinian
+Sindhi
+Northern Sami
+Sango
+Sinhala
+Slovak
+Slovenian
+Samoan
+Shona
+Somali
+Albanian
+Serbian
+Serbian Ijekavian
+Serbian Ijekavian Latin
+Serbian Latin
+Swati
+Sotho, Southern
+Sundanese
+Swedish
+Swahili
+Tamil
+Telugu
+Tajik
+Thai
+Tigrinya
+Turkmen
+Tswana
+Tonga
+Turkish
+Tsonga
+Tatar
+Twi
+Tahitian
+Uighur
+Ukrainian
+Urdu
+Uzbek
+Uzbek (Cyrillic)
+Venda
+Vietnamese
+Volapük
+Walloon
+Wolof
+Xhosa
+Yiddish
+Yoruba
+Zhuang
+Chinese
+Chinese Simplified
+Chinese (Hong Kong)
+Chinese Traditional
+Zulu
+Storage backend for KConfig
+KSSL Daemon Module
+KSSL daemon module for KDED
+KDE Plugin Information
+Sonnet Spell Client
+KDED Module
+KFileModule
+The default KDE file module providing the standard file dialog
+Embedded Java Applet Viewer
+KHTML Extension Adaptor
+Embeddable HTML viewing component
+KHTML
+Embeddable Image Viewing Component
+Embeddable Image Viewer
+Embeddable Component for multipart/ mixed
+BMP
+DDS
+EPS
+EXR
+GIF
+HDR
+ICO
+JP2
+JPEG
+MNG
+PBM
+PCX
+PGM
+PNG
+PNM
+PPM
+PSD
+QImageIOHandler plugin
+RGB
+TGA
+TIFF
+XBM
+XCF
+XPM
+XV
+Application
+A kioslave for data URIs (rfc2397)
+KDE Configuration Module
+KDE Configuration Initialization
+KDE Data Tool
+filemodule
+KIO File Module
+Plugin for the Properties Dialog
+KFile Meta Data Plugin
+KFileWrite plugin
+KScan
+Enhanced Browsing Plugin
+Proxy Scout
+Automatic proxy configuration
+Automatic Proxy Configuration
+Invalid Proxy Script
+The downloaded proxy configuration script is invalid
+Script Download Error
+The proxy configuration script could not be downloaded
+Script Evaluation Error
+There was an error executing the proxy configuration script
+Microsoft Media Server Protocol
+Plugin for the Rename Dialog
+HTTP Cache Cleaner
+Cleans up old entries from the HTTP cache
+KDED Cookie Jar Module
+Keeps track of all cookies in the system
+Dummy Meta
+Test for Knotify
+Group
+The group
+Online
+The contact is now connected
+Message Received
+A Message has been received
+Browser View
+KDE Component
+Notepad (example)
+Adium Emoticons Theme
+Library to use Adium emoticons theme
+Kde Emoticons Theme
+Library to use KDE emoticons theme
+Pidgin Emoticons Theme
+Library to use Pidgin emoticons theme
+XMPP Emoticons Theme
+Library to use XMPP emoticons theme
+Plasma Animation Engine
+Plasma applet
+Collection
+Plasma scripting popup applet
+Plasma ContainmentActions
+Plasma applet container and background painter
+Plasma Data Engine
+Plasma package structure definition
+KRunner plugin
+Scripting language extension for Plasma
+Plasma wallpaper
+Save remote widgets policies
+Prevents the system from saving plasma remote widgets policies
+Package metadata test file
+A test desktop file to test the PackageMetaData class.
+Test Data Engine
+Crypto
+Configure SSL, manage certificates, and other cryptography settings
+Embeddable Personal Certificate Manager
+KCertPart
+ASpell
+Enchant
+HSpell
+Hunspell
+Long action
+Plasma
+Directional or popup-based completion from words in the document
+Afrikaans
+Arabic
+Assamese
+Asturian
+Belarusian Latin
+Belarusian
+Bulgarian
+Bengali (India)
+Bengali
+Breton
+Catalan
+Catalan (Valencian)
+Crimean Tatar
+Kashubian
+Czech
+Welsh
+Danish
+German
+Kontact Administration
+KDE SVN Build
+KOffice
+Greek
+British English
+Esperanto
+Spanish
+Estonian
+Basque
+Farsi
+Finnish
+French
+Frisian
+Irish
+Galician
+Gujarati
+Hausa
+Hebrew
+Hindi
+Chhattisgarhi
+Croatian
+Upper Sorbian
+Hungarian
+Armenian
+Indonesian
+Icelandic
+Italian
+Japanese
+Georgian
+Kazakh
+Khmer
+Kannada
+Korean
+Kurdish
+Luxembourgish
+Lithuanian
+Latvian
+Maithili
+Macedonian
+Malayalam
+Marathi
+Malay
+Norwegian Bokmål
+Low Saxon
+Nepali
+Dutch
+Norwegian Nynorsk
+Oriya
+Punjabi
+Polish
+Pashto
+Brazil portuguese
+Portuguese
+Romanian
+Russian
+Northern Sami
+Sinhala
+Slovak
+Slovenian
+Serbian Ijekavian Latin
+Serbian Ijekavian
+Serbian Latin
+Serbian
+Swedish
+Tamil
+Telugu
+Tajik
+Thai
+Turkish
+Ukrainian
+Uzbek (Cyrillic)
+Uzbek
+Vietnamese
+Walloon
+Xhosa
+KDE Test Language
+Simplified Chinese
+Chinese (Hong Kong)
+Traditional Chinese
+Chinese
+& Certificate
+Your names
+Your emails
+Format
+& Netscape
+& Text
+Filename:
+& Export
+& Cancel
+Internal error. Please report to kfm-devel@kde. org.
+SSL
+Error opening file for output.
+(c) 2000 - 2001 George Staikos
+George Staikos
+Enable All
+& Test
+Use EGD
+Path to EGD:
+Common Name
+Email Address
+Import...
+& Export...
+Remove
+& Unlock
+Change Password...
+Valid from:
+Valid until:
+The certificate is valid until this date.
+On SSL Connection...
+& Use default certificate
+& Do not use certificates
+Default Action
+& Send
+& Prompt
+Do & not send
+Default certificate:
+Host authentication:
+Host
+Certificate
+Policy
+Host:
+Certificate:
+Action
+Send
+Prompt
+Do not send
+New
+& Remove
+& Verify
+Cache
+Permanently
+& Until
+Accept
+Reject
+Select this to always accept this certificate.
+Select this to always reject this certificate.
+Restore
+& Add
+OpenSSL
+Your Certificates
+Authentication
+SSL Signers
+Validation Options
+Certificate Password
+Certificate password
+The certificate file could not be loaded. Try a different password?
+Try
+Do Not Try
+Replace
+Enter the certificate password:
+Password For '%1 '
+Export failed.
+Make Available
+Do Not Make Available
+OpenSSL was successfully loaded.
+Personal SSL
+Server SSL
+S/ MIME
+PGP
+GPG
+SSL Personal Request
+SSL Server Request
+Netscape SSL
+Server CA
+Personal CA
+S/ MIME CA
+None
+Date & Time Selector
+Hour:
+Minute:
+Second:
+Certificate type:
+Passphrase:
+Country code:
+State or province (in full):
+City:
+Full hostname of the server:
+Email address:
+Days valid:
+Self sign
+Bit strength:
+Your names
+Your emails
+Do n't Send
+of Jan
+of Feb
+of Mar
+of Apr
+of May
+of Jun
+of Jul
+of Aug
+of Sep
+of Oct
+of Nov
+of Dec
+of January
+of February
+of March
+of April
+of June
+of July
+of August
+of September
+of October
+of November
+of December
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+of Cha
+of Vai
+of Jya
+of Ā sh
+of Shr
+of Bh ā
+of Ā sw
+of Kā r
+of Agr
+of Pau
+of M ā g
+of Ph ā
+of Chaitra
+of Vaishā kh
+of Jyaishtha
+of Ā shā dha
+of Shrā vana
+of Bh ā drapad
+of Ā shwin
+of Kā rtik
+of Agrahayana
+of Paush
+of Mā gh
+of Phā lgun
+Cha
+Vai
+Jya
+Ā sh
+Shr
+Bh ā
+Ā sw
+K ā r
+Agr
+Pau
+M ā g
+Ph ā
+Chaitra
+Vaishā kh
+Jyaishtha
+Ā shā dha
+Shrā vana
+Bh ā drapad
+Ā shwin
+Kā rtik
+Agrahayana
+Paush
+Mā gh
+Phā lgun
+Som
+Mañ
+Bud
+Gur
+Suk
+San
+Rav
+Somavãra
+Mañgalvã
+Budhavãra
+Guruvãra
+Sukravãra
+Sanivãra
+of Muharram
+of Safar
+of R. Awal
+of R. Thaani
+of J. Awal
+of J. Thaani
+of Rajab
+of Sha`ban
+of Ramadan
+of Shawwal
+of Qi`dah
+of Hijjah
+of Rabi ` al-Awal
+of Rabi ` al-Thaani
+of Jumaada al-Awal
+of Jumaada al-Thaani
+of Thu al-Qi`dah
+of Thu al-Hijjah
+Muharram
+Safar
+R. Awal
+R. Thaani
+J. Awal
+J. Thaani
+Rajab
+Sha`ban
+Ramadan
+Shawwal
+Qi`dah
+Hijjah
+Rabi ` al-Awal
+Rabi ` al-Thaani
+Jumaada al-Awal
+Jumaada al-Thaani
+Thu al-Qi`dah
+Thu al-Hijjah
+Ith
+Thl
+Arb
+Kha
+Jum
+Sab
+Ahd
+Yaum al-Ithnain
+Yau al-Thulatha
+Yaum al-Arbi'a
+Yaum al-Khamees
+Yaum al-Jumma
+Yaum al-Sabt
+Yaum al-Ahad
+of Far
+of Ord
+of Kho
+of Tir
+of Mor
+of Sha
+of Meh
+of Aba
+of Aza
+of Dei
+of Bah
+of Esf
+Far
+Ord
+Kho
+Tir
+Mor
+Sha
+Meh
+Aba
+Aza
+Dei
+Bah
+Esf
+of Farvardin
+of Ordibehesht
+of Khordad
+of Mordad
+of Shahrivar
+of Mehr
+of Aban
+of Azar
+of Bahman
+of Esfand
+Farvardin
+Ordibehesht
+Khordad
+Mordad
+Shahrivar
+Mehr
+Aban
+Azar
+Bahman
+Esfand
+2sh
+3sh
+4sh
+5sh
+Jom
+shn
+1sh
+Do shanbe
+Se shanbe
+Chahar shanbe
+Panj shanbe
+Jumee
+Shanbe
+Yek-shanbe
+of Tishrey
+of Heshvan
+of Kislev
+of Tevet
+of Shvat
+of Adar
+of Nisan
+of Iyar
+of Sivan
+of Tamuz
+of Av
+of Elul
+of Adar I
+of Adar II
+Tishrey
+Heshvan
+Kislev
+Tevet
+Shvat
+Adar
+Nisan
+Iyar
+Sivan
+Tamuz
+Av
+Elul
+Adar I
+Adar II
+Coptic
+Ethiopian
+Gregorian
+Gregorian (Proleptic)
+Hebrew
+Hijri
+Indian National
+Jalali
+Julian
+Invalid Calendar Type
+Today
+Yesterday
+of Tho
+of Pao
+of Hat
+of Kia
+of Tob
+of Mes
+of Par
+of Pam
+of Pas
+of Pan
+of Epe
+of Meo
+of Kou
+of Thoout
+of Paope
+of Hathor
+of Kiahk
+of Tobe
+of Meshir
+of Paremhotep
+of Parmoute
+of Pashons
+of Paone
+of Epep
+of Mesore
+of Kouji nabot
+Tho
+Pao
+Hat
+Kia
+Tob
+Mes
+Par
+Pam
+Pas
+Pan
+Epe
+Meo
+Kou
+Thoout
+Paope
+Hathor
+Kiahk
+Tobe
+Meshir
+Paremhotep
+Parmoute
+Pashons
+Paone
+Epep
+Mesore
+Kouji nabot
+Pes
+Psh
+Pef
+Pti
+Pso
+Psa
+Tky
+Pesnau
+Pshoment
+Peftoou
+Ptiou
+Psoou
+Psabbaton
+Tkyriak ē
+of Teq
+of Hed
+of Tah
+of Ter
+of Yak
+of Mag
+of Miy
+of Gen
+of Sen
+of Ham
+of Neh
+of Pag
+of Meskerem
+of Tequemt
+of Hedar
+of Tahsas
+of Yakatit
+of Magabit
+of Miyazya
+of Genbot
+of Sene
+of Hamle
+of Nehase
+of Pagumen
+Teq
+Hed
+Tah
+Ter
+Yak
+Mag
+Miy
+Gen
+Sen
+Ham
+Neh
+Pag
+Meskerem
+Tequemt
+Hedar
+Tahsas
+Yakatit
+Magabit
+Miyazya
+Genbot
+Sene
+Hamle
+Nehase
+Pagumen
+Seg
+Mak
+Rob
+Qed
+Ehu
+Segno
+Maksegno
+Hamus
+Qedame
+Ehud
+Your names
+Your emails
+Editor Chooser
+& Source:
+?
+& Order by:
+Enter search phrase here
+Collaborate
+Share Hot New Stuff
+Author:
+Email address:
+Name:
+Version:
+License:
+GPL
+LGPL
+BSD
+Preview URL:
+Language:
+In which language did you describe the above?
+Please describe your upload.
+Summary:
+Please give some information about yourself.
+Provider:
+Category:
+Newest
+Rating
+Most Downloads
+Installed
+Order by:
+Search:
+Uploading file:
+Server:
+Loading Server Information...
+Please fill out the information about your upload in English.
+Upload
+Preview Image:
+Description:
+Set a price for this item
+Price:
+Form
+Description
+Previews
+Community
+Install
+Update
+Uninstall
+Additional domains for browsing
+Password:
+& Verify:
+Password strength meter:
+Passwords do not match
+Job
+Job Control
+Scheduled printing:
+Billing information:
+Job priority:
+Job Options
+Option
+Value
+Pages
+Pages Per Sheet
+1
+6
+2
+9
+4
+16
+Banner Pages
+Start
+End
+Page Label
+Page Border
+Mirror Pages
+Mirror pages along vertical axis
+Action
+Shortcut
+Alternate
+Global
+Global Alternate
+Mouse Button Gesture
+Mouse Shape Gesture
+Supply a username and password below.
+Username:
+Anonymous
+Domain:
+Remember password
+Options
+Enable & background spellchecking
+& Automatic spell checking enabled by default
+Skip all & uppercase words
+Skip run-together words
+Default language:
+Unknown word:
+Unknown word
+misspelled
+Select the language of the document you are proofing here.
+& Language:
+< < Add to Dictionary
+Suggestion List
+Suggested Words
+Replace & with:
+Language Selection
+Suggest
+& Replace
+Replace All
+& Ignore
+Ignore All
+Autocorrect
+& File
+& Game
+& Edit
+& Move
+& View
+& Go
+& Bookmarks
+& Tools
+& Settings
+& Help
+Main Toolbar
+Main:
+Alternate:
+KHTML Regression Testing Utility
+Regression testing output
+Pause/ Continue regression testing process
+Pause
+Output to File...
+Regression Testing Status
+View HTML Output
+Settings
+Tests
+Only Run JS Tests
+Only Run HTML Tests
+Do Not Suppress Debug Output
+Do not use Xvfb
+Run Tests...
+Run Single Test...
+Specify tests Directory...
+Specify khtml Directory...
+Specify Output Directory...
+Document Information
+General
+URL:
+Title:
+Last modified:
+Document encoding:
+HTTP Headers
+Property
+JavaScript Errors
+& Close
+Clear
+HTML Toolbar
+Find:
+& Next
+& Previous
+Options
+Do you want to store this password?
+& Store
+Never store for this site
+Do & not store this time
+File:
+...
+GroupBox 1
+CheckBox
+Other GroupBox
+RadioButton
+action1
+Play a & sound
+Select the sound to play
+Show a message in a & popup
+Log to a file
+Mark & taskbar entry
+Run & command
+Select the command to run
+Speech
+Speak Event Message
+Speak Event Name
+Speak Custom Text
+Distance between desktop icons
+The distance between icons specified in pixels.
+Widget style to use
+Use the PC speaker
+What terminal application to use
+Whenever a terminal application is launched this terminal emulator program will be used.
+Fixed width font
+This font is used when a fixed font is needed. A fixed font has a constant width.
+System wide font
+Font for menus
+What font to use for menus in applications.
+Color for links
+What color links should be that have not yet been clicked on
+Color for visited links
+Font for the taskbar
+Fonts for toolbars
+Shortcut for taking screenshot
+Shortcut for toggling Clipboard Actions on and off
+Shortcut for shutting down the computer without confirmation
+Show directories first
+The URLs recently visited
+Used for auto-completion in file dialogs, for example
+Show file preview in file dialog
+Show hidden files
+Show speedbar
+What country
+What language to use to display text
+Character used for indicating positive numbers
+Most countries have no character for this
+Path to the autostart directory
+Enable SOCKS support
+Path to custom SOCKS library
+Highlight toolbar buttons on mouse over
+Show text on toolbar icons
+Password echo type
+The size of the dialog
+JS Calculator
++
+AC
+-
+=
+CL
+5
+3
+7
+8
+MainWindow
+Execute
+File
+Open Script
+Open a script...
+Ctrl+O
+Close Script
+Close script...
+Quit
+Quit application...
+Run
+Run script...
+Run To...
+Run to breakpoint...
+Step
+Step to next line...
+Stop
+Step execution...
+KJSEmbed Documentation Viewer
+ThreadWeaver Jobs Examples
+Log thread activity
+Displays Thread Activity
+Remaining number of jobs:
+Select Files...
+Cancel
+Suspend
+What time is it? Click to update.
+(do not know yet)
+Error
+Evaluation error
+Range error
+Reference error
+Syntax error
+Type error
+URI error
+System Default (currently: %1)
+The template needs information about you, which is stored in your address book. However, the required plugin could not be loaded. Please install the KDEPIM/ Kontact package for your system.
+Error: HOME environment variable not set.
+Error: DISPLAY environment variable not set.
+KDontChangeTheHostName
+Informs KDE about a change in hostname
+(c) 2001 Waldo Bastian
+Waldo Bastian
+Author
+Old hostname
+New hostname
+KDE Daemon
+Check Sycoca database only once
+Error creating database '%1 '. Check that the permissions are correct on the directory and the disk is not full.
+KBuildSycoca
+Error writing database '%1 '. Check that the permissions are correct on the directory and the disk is not full.
+Rebuilds the system configuration cache.
+(c) 1999-2002 KDE Developers
+David Faure
+Do not signal applications to update
+Disable incremental update, re-read everything
+Check file timestamps
+Disable checking files (dangerous)
+Create global database
+Track menu id for debug purposes
+Silent - work without windows and stderr
+Show progress information (even if'silent 'mode is on)
+Reloading KDE configuration, please wait...
+KDE Configuration Manager
+Do you want to reload KDE configuration?
+Reload
+Do Not Reload
+Configuration information reloaded successfully.
+Error reading from PTY
+Error writing to PTY
+PTY operation timed out
+Error opening PTY
+kde4-config
+A little program to output installation paths
+(C) 2000 Stephan Kulow
+Left for legacy support
+Compiled in prefix for KDE libraries
+Compiled in exec_prefix for KDE libraries
+Compiled in library path suffix
+Prefix in $HOME used to write files
+Compiled in version string for KDE libraries
+Available KDE resource types
+Search path for resource type
+User path: desktop_BAR_autostart_BAR_document
+Prefix to install resource files to
+Installation prefix for Qt
+Location of installed Qt binaries
+Location of installed Qt libraries
+Location of installed Qt plugins
+Applications menu (. desktop files)
+Autostart directories
+CGIs to run from kdehelp
+Configuration files
+Where applications store data
+Emoticons
+Executables in $prefix/ bin
+HTML documentation
+Icons
+Configuration description files
+Libraries
+Includes/ Headers
+Translation files for KLocale
+Mime types
+Loadable modules
+Legacy pixmaps
+Qt plugins
+Services
+Service types
+Application sounds
+Templates
+Wallpapers
+XDG Application menu (. desktop files)
+XDG Menu descriptions (. directory files)
+XDG Icons
+XDG Mime Types
+XDG Menu layout (. menu files)
+XDG autostart directory
+Temporary files (specific for both current host and current user)
+UNIX Sockets (specific for both current host and current user)
+%1 - unknown type
+%1 - unknown type of userpath
+No target filename has been given.
+Already opened.
+Insufficient permissions in target directory.
+Unable to open temporary file.
+Error during rename.
+Library "%1" not found
+No service matching the requirements was found.
+The service provides no library, the Library key is missing in the. desktop file.
+The library does not export a factory for creating components.
+The factory does not support creating components of the specified type.
+KLibLoader: Unknown error
+Could not find plugin '%1 'for application '%2'
+The service '%1 'provides no library or the Library key is missing in
+The plugin '%1 'uses an incompatible KDE library (%2).
+Please contact your system administrator.
+Configuration file "%1" not writable.
+Operation not supported
+Unknown family %1
+no error
+name lookup has failed
+address already in use
+socket is already bound
+socket is already created
+socket is not bound
+socket has not been created
+operation would block
+connection actively refused
+connection timed out
+operation is already in progress
+network failure occurred
+operation is not supported
+timed operation timed out
+an unknown/ unexpected error has happened
+remote host closed connection
+No error
+The certificate authority's certificate is invalid
+The certificate has expired
+The certificate is invalid
+The certificate is not signed by any trusted certificate authority
+The certificate has been revoked
+The certificate is unsuitable for this purpose
+The root certificate authority's certificate is not trusted for this purpose
+The certificate authority's certificate is marked to reject this certificate's purpose
+The peer did not present any certificate
+The certificate does not apply to the given host
+The certificate cannot be verified for internal reasons
+Unknown error
+address family for nodename not supported
+temporary failure in name resolution
+invalid value for'ai_flags'
+non-recoverable failure in name resolution
+'ai_family 'not supported
+memory allocation failure
+no address associated with nodename
+name or service not known
+servname not supported for ai_socktype
+'ai_socktype 'not supported
+system error
+Specified socket path is invalid
+The socket operation is not supported
+Connection refused
+Permission denied
+Connection timed out
+Could not set non-blocking mode
+Address is already in use
+No such file or directory
+Not a directory
+Unknown socket error
+requested family not supported for this host name
+invalid flags
+requested family not supported
+requested service not supported for this socket type
+requested socket type not supported
+unknown error
+system error: %1
+request was canceled
+Timed out trying to connect to remote host
+NEC SOCKS client
+Dante SOCKS client
+Use the X-server display'displayname '
+Use the QWS display'displayname '
+Restore the application for the given'sessionId '
+defines the application font
+sets the default foreground color
+sets the default button color
+sets the application name
+sets the application title (caption)
+set XIM server
+disable XIM
+mirrors the whole layout of widgets
+Use'caption 'as name in the titlebar
+Use'icon 'as the application icon
+Use alternative configuration file
+sets the application GUI style
+KDE Application
+Qt
+KDE
+Unknown option '%1 '.
+'%1 'missing.
+Qt: %1 KDE Development Platform: %2 %3: %4
+%1 was written by %2
+This application was written by somebody who wants to remain anonymous.
+Please use http: / /bugs. kde. org to report bugs.
+Please report bugs to %1.
+Unexpected argument '%1 '.
+Use --help to get a list of available command line options.
+[options]
+[%1-options]
+Usage: %1 %2
+Generic options:
+Show help about options
+Show %1 specific options
+Show all options
+Show author information
+Show version information
+Show license information
+End of options
+%1 options:
+Options:
+Arguments:
+The files/ URLs opened by the application will be deleted after use
+KDE-tempfile
+Could not launch the mail client: %1
+Could not Launch Mail Client
+Could not launch the browser: %1
+Could not Launch Browser
+Could not launch the terminal client: %1
+Could not Launch Terminal Client
+No licensing terms for this program have been specified. Please check the documentation or the source for any licensing terms.
+This program is distributed under the terms of the %1.
+GPL v2
+GNU General Public License Version 2
+LGPL v2
+GNU Lesser General Public License Version 2
+BSD License
+Artistic License
+QPL v1.0
+Q Public License
+GPL v3
+GNU General Public License Version 3
+LGPL v3
+GNU Lesser General Public License Version 3
+Custom
+Not specified
+KDE is translated into many languages thanks to the work of the translation teams all over the world. For more information on KDE internationalization visit http: / /l10n. kde. org
+Function must be called from the main thread.
+Could not launch the KDE Help Center: %1
+Could not Launch Help Center
+40
+60
+80
+-ise suffixes
+-ize suffixes
+-ise suffixes and with accents
+-ise suffixes and without accents
+-ize suffixes and with accents
+-ize suffixes and without accents
+large
+medium
+small
+variant 0
+variant 1
+variant 2
+without accents
+with accents
+with ye
+with yeyo
+with yo
+extended
+%1 (%2) [%3]
+%1 (%2)
+%1 [%2]
+File %1 does not exist
+Cannot open %1 for reading
+Cannot create memory segment for file %1
+Could not read data from %1 into shm
+Only'ReadOnly 'allowed
+No mime types installed. Check that shared-mime-info is installed, and that XDG_DATA_DIRS is not set, or includes / usr/ share.
+Disabled
+Universal
+Unicode
+Cyrillic
+Western European
+Central European
+Greek
+Hebrew
+Turkish
+Japanese
+Baltic
+Chinese Traditional
+Chinese Simplified
+Arabic
+Korean
+Thai
+Arabic-Indic
+Eastern Arabic-Indic
+Devenagari
+%1 B
+%1 kB
+%1 MB
+%1 GB
+%1 TB
+%1 PB
+%1 EB
+%1 ZB
+%1 YB
+%1 KB
+%1 KiB
+%1 MiB
+%1 GiB
+%1 TiB
+%1 PiB
+%1 EiB
+%1 ZiB
+%1 YiB
+%1 days
+%1 hours
+%1 minutes
+%1 seconds
+%1 and %2
+pm
+am
+Today
+Yesterday
+%1 %2
+South-Eastern Europe
+Northern Saami
+Other
+%1 (%2)
+Other encoding (%1)
+== %1 ==
+%1
+~ %1 ~
+%1
+* %1
+%1
+Note: %1
+Note: %1
+%1: %2
+%1: %2
+WARNING: %1
+Warning: %1
+%1: %2
+%2 (%1)
+%2
+‘ %1’
+%1
+%1
+%1(%2)
+%1(%2)
+“ %1”
+%1
+_BAR_%1_BAR_
+%1
+*%1*
+**%1**
+& lt; %1gt;
+& lt; %1 gt;
+& lt; %1 gt;
+%1 & lt; %2gt;
+%1
+$%1
+$%1
+/ %1/
+→
+Alt
+AltGr
+Backspace
+CapsLock
+Control
+Ctrl
+Del
+Delete
+Down
+Enter
+Esc
+Escape
+Home
+Hyper
+Ins
+Insert
+Left
+Menu
+Meta
+NumLock
+PageDown
+PageUp
+PgDown
+PgUp
+PauseBreak
+PrintScreen
+PrtScr
+Return
+Right
+ScrollLock
+Shift
+Space
+Super
+SysReq
+Tab
+Up
+Win
+F%1
+Rating:
+Downloads:
+Translate this entry
+Name
+Payload
+%1 Add-On Uploader
+Please put in a name.
+Old upload information found, fill out fields?
+Fill Out
+Do Not Fill Out
+Get Hot New Stuff
+%1 Add-On Installer
+Add Rating
+Add Comment
+View Comments
+Re: %1
+Timeout. Check Internet connection.
+Entries failed to load
+Server: %1
+Provider: %1
+Version: %1
+Provider information
+Could not install %1
+Get Hot New Stuff!
+There was an error loading data providers.
+A protocol fault has occurred. The request has failed.
+Desktop Exchange Service
+A network error has occurred. The request has failed.
+Rate this entry
+Comments
+Changelog
+Switch version
+Contact author
+Collaboration
+Translate
+Subscribe
+Report bad entry
+Send Mail
+Contact on Jabber
+Provider: %1
+Version: %1
+The removal request was successfully registered.
+Removal of entry
+The removal request failed.
+The subscription was successfully completed.
+Subscription to entry
+The subscription request failed.
+The rating was submitted successfully.
+Rating for entry
+The rating could not be submitted.
+The comment was submitted successfully.
+Comment on entry
+The comment could not be submitted.
+KNewStuff contributions
+This operation requires authentication.
+User comments
+No Downloads
+Downloads: %1
+Rating: %1
+No Preview
+Loading Preview
+Leave a comment
+Download New Stuff...
+Version %1
+Hot New Stuff Providers
+Please select one of the providers listed below:
+No provider selected.
+Latest
+Highest Rated
+Select Signing Key
+Key used for signing:
+Upload...
+Fetching provider information...
+Provider could not be initialized.
+Uploading Failed
+Authentication error.
+Uploadingpreview and content...
+Uploading preview image and content...
+File not found: %1
+File Uploaded
+All Providers
+All Categories
+Details for %1
+Visit homepage...
+Loading preview...
+By %1
+Install again
+Installing
+Updating
+Details...
+Rating: %1%
+Overwrite existing file?
+Download File:
+Could not get account balance.
+Could not get download link.
+Voting failed.
+Could not make you a fan.
+Overwrite File?
+Host
+Port
+Stalled
+%1 /s
+%1:
+%1% of %2
+%1%
+Stalled
+%1/ s
+%1/s (done)
+& Resume
+& Pause
+Source:
+Destination:
+& Keep this window open after transfer is complete
+Open & File
+Open & Destination
+Progress Dialog
+Redo
+Undo
+& OK
+& Cancel
+& Yes
+Yes
+& No
+No
+& Discard
+Discard changes
+& Save
+Save data
+& DoNot Save
+Do not save data
+Save & As...
+Save file with another name
+& Apply
+Apply changes
+Administrator & Mode...
+Enter Administrator Mode
+Clear input
+Clear the input in the edit field
+Show help
+Close the current window or document
+& CloseWindow
+Close the current window.
+& CloseDocument
+Close the current document.
+& Defaults
+Reset all items to their default values
+& Back
+Go back one step
+& Forward
+Go forward one step
+& Print...
+Opens the print dialog to print the current document
+Continue
+Continue operation
+& Delete
+Delete item(s)
+& Open...
+Open file
+& Quit
+Quit application
+& Reset
+Reset configuration
+& Insert
+Configure...
+& Find
+Add
+Remove
+Test
+Properties
+& Overwrite
+Again
+Props
+Front
+Copy
+Open
+Paste
+Find
+Cut
+Print
+You reached the end of the list of matching items.
+The completion is ambiguous, more than one match is available.
+The re is no matching item available.
+Password is empty
+Passwords match
+You entered two different passwords. Please try again.
+Low Password Strength
+Next
+Finish
+Select Region of Image
+Please click and drag on the image to select the region of interest:
+Configure Shortcuts
+Reset to Defaults
+Shortcut Schemes
+Current scheme:
+New...
+More Actions
+Save as Scheme Defaults
+Name for new scheme:
+New Scheme
+A scheme with this name already exists.
+Export to Location
+Left to Right ,Top to Bottom
+Left to Right, Bot tom to Top
+Right to Left ,Bottom to Top
+Right to Left, Top to Bottom
+Bottom to Top ,Left to Right
+Bottom to Top, Right toLeft
+Top to Bottom ,Left to Right
+Top to Bottom, Right to Left
+None
+Single Line
+Single Thick Line
+Double Line
+Double Thick Line
+Standard
+Unclassified
+Confidential
+Classified
+Secret
+Top Secret
+.
+Details
+Question
+Do not ask again
+Warning
+Sorry
+Information
+Do not show this message again
+About %1
+Configure
+& Try
+modified
+& Details
+Get help...
+--- separator ---
+Configure Toolbars
+Do you really want to reset all toolbars of this application to their default? The changes will be applied immediately.
+Reset Toolbars
+Reset
+& Toolbar:
+Available actions:
+Filter
+Current actions:
+Change & Icon...
+Change Text...
+< Merge >
+ActionList: %1
+Change Icon
+Change Text
+Icon Text:
+All Pages
+Odd Pages
+Even Pages
+Page Set
+Unknown
+Key Conflict
+Reassign
+The '%1' rocker gesture has already been allocated to the "%2" action. Do you want to reassign it from that action to the current one?
+Shortcuts for %1
+Global:
+Action Name
+Shortcuts
+%1 Version %2 nbsp;
+%1 Version %2 Using KDE Development Platform %3
+License: %1
+& About
+Author
+Authors
+Please use http://bugs.kde.orgto report bugs.
+Please report bugs to %2.
+& Thanks To
+Translation
+License Agreement
+Print Immediately
+Day (06:00 to 17:59)
+Night (18:00 to 05:59)
+Second Shift (16:00 to 23:59)
+Third Shift (00:00 to 07:59)
+Weekend (Saturday to Sunday)
+Specific Time
+Manage Link
+Link Text:
+Link URL:
+Submit Bug Report
+Your email address. If incorrect, use the Configure Emailbutton to change it
+From:
+Configure Email...
+The email address this bug report is sent to.
+To:
+& Send
+Send bug report.
+Send this bug report to %1.
+Application:
+The version of this application - please make sure that no newer version is available before sending a bug report
+no version set (programmer error)
+OS:
+Compiler:
+Severity
+Critical
+Grave
+Normal
+Wishlist
+Translation
+Subject:
+& Launch Bug Report Wizard
+unknown
+Bug report sent, thank you for your input.
+Close and discard edited message?
+Close Message
+Default:
+Custom:
+About KDE
+KDE - Be Free! Platform Version %1
+KDE is available free of charge, but costs are incurred and assets formed in its creation. Thus, the KDE community formed KDE e.V., a non-profit organization legally founded in Tuebingen, Germany. KDE e.V. represents the KDE community in legal and financial matters. See http://www.kde-ev.orgfor information on KDE e.V. KDE benefits from financial support. Most of the funds raised are used to reimburse members and others for expenses they incur when contributing to KDE. You are encouraged to support KDE through a financial donation, using one of the ways described at http://www.kde.org/support/. Thank you very much in advance for your support.
+& Report Bugs or Wishes
+& Join KDE
+& Support KDE
+Switch Application Language
+Please choose the language which should be used for this application:
+Add Fallback Language
+Application Language Changed
+Primary language:
+Fallback language:
+Password
+Tip of the Day
+Did you know...?
+& Show tips on startup
+Choose...
+Click to select a font
+Preview of the selected font
+Preview of the "%1" font
+Select Font
+Here you can choose the font to be used.
+Requested Font
+Font
+Enable this checkbox to change the font family settings.
+Change font family?
+Font:
+Font style
+Enable this checkbox to change the font style settings.
+Change font style?
+Font style:
+Size
+Enable this checkbox to change the font size settings.
+Change font size?
+Size:
+Here you can choose the font family to be used.
+Here you can choose the font style to be used.
+Regular
+Italic
+Oblique
+Bold
+Bold Italic
+Relative
+Here you can choose the font size to be used.
+The Quick Brown Fox Jumps Over The Lazy Dog
+Actual Font
+Sans Serif
+Serif
+Monospace
+Find Text
+& Text to find:
+Regular expression
+& Edit...
+Replace With
+Replacement text:
+Use placeholders
+Insert Placeholder
+Case sensitive
+& Whole words only
+From cursor
+Find &backwards
+& Selected text
+& Prompt on replace
+Start replace
+Start searching
+If enabled, search for a regular expression.
+Click here to edit your regular expression using a graphical editor.
+Enter a replacement string, or select a previous one from the list.
+Click for a menu of available captures.
+Only search within the current selection.
+Search backwards.
+Ask before replacing each match found.
+Any Character
+Start of Line
+End of Line
+Set of Characters
+Repeats, Zero or More Times
+Repeats, One or More Times
+Optional
+TAB
+Newline
+White Space
+Digit
+Complete Match
+Captured Text (%1)
+You must enter some text to search for.
+Invalid regular expression.
+Replace
+& All
+& Skip
+Replace '%1' with '%2'?
+No text was replaced.
+Beginning of document reached.
+End of document reached.
+Do you want to restart search from the end?
+Do you want to restart search at the beginning?
+Restart
+but your pattern defines no captures.
+Please correct.
+Find Next
+Find next occurrence of '%1'?
+No matches found for '%1'.
+No matches found for '%1'.
+Continue from the end?
+Continue from the beginning?
+Search
+Search Columns
+All Visible Columns
+Search:
+Conflict with Global Shortcut
+Conflict With Registered Global Shortcut
+left button
+middle button
+right button
+invalid button
+Hold %1, then push %2
+New
+Close
+Save
+Paste Selection
+Select All
+Deselect
+Delete Word Backwards
+Delete Word Forward
+Find Prev
+Begin
+Prior
+Back
+Forward
+Beginning of Line
+Go to Line
+Backward Word
+Forward Word
+Add Bookmark
+Zoom In
+Zoom Out
+Full Screen Mode
+Show Menu Bar
+Activate Next Tab
+Activate Previous Tab
+Help
+What's This
+Text Completion
+Previous Completion Match
+Next Completion Match
+Substring Completion
+Previous Item in List
+Next Item in List
+Open Recent
+Save As
+Revert
+Print Preview
+Mail
+Clear
+Actual Size
+Fit To Page
+Fit To Width
+Fit To Height
+Zoom
+Goto
+Goto Page
+Document Back
+Document Forward
+Edit Bookmarks
+Spelling
+Show Toolbar
+Show Statusbar
+Save Options
+Key Bindings
+Preferences
+Configure Notifications
+Tip Of Day
+Report Bug
+About Application
+Dr. Klash' Accelerator Diagnosis
+Disable automatic checking
+Accelerators changed
+Accelerators removed
+Accelerators added (just for your info)
+The style '%1' was not found
+Do not run in the background.
+No Entries
+Clear List
+Full Screen Mode
+Full Screen
+Exit Full Screen Mode
+Exit Full Screen
+Default
+Autodetect
+Ambiguous shortcut detected
+& Home
+Show & Menubar
+Show Menubar Shows the menubar again after it has been hidden
+Show Statusbar
+Show Statusbar Shows the statusbar, which is the bar at the bottom of the window used for status information.
+Desktop %1
+Check Spelling
+& Finished
+Spell check ing in progress...
+Spell check stopped.
+Spell check canceled.
+Spell check complete.
+Sonnet Configuration
+As-you-type spell checking enabled.
+Too many misspelled words. As-you-type spell checking disabled.
+As-you-type spell checking disabled.
+Add to Toolbar
+Configure Shortcut...
+No text
+Toolbars Shown
+without name
+You are not allowed to save the configuration
+& Available:
+& Selected:
+Enter a search term or character here
+Previous in History
+Previous Character in History
+Next in History
+Next Character in History
+Select a category
+Select a block to be displayed
+Set font
+Set font size
+Character:
+Name:
+Alias names:
+Notes:
+See also:
+Equivalents:
+Approximate equivalents:
+Definition in English:
+Mandarin Pronunciation:
+Cantonese Pronunciation:
+Japanese On Pronunciation:
+Japanese Kun Pronunciation:
+Tang Pronunciation:
+Korean Pronunciation:
+General Character Properties
+Block:
+Unicode category:
+Various Useful Representations
+UTF-8:
+UTF-16:
+Unicode code point:
+In decimal:
+European Alphabets
+African Scripts
+Middle Eastern Scripts
+South Asian Scripts
+Philippine Scripts
+South East Asian Scripts
+East Asian Scripts
+Central Asian Scripts
+Other Scripts
+Symbols
+Mathematical Symbols
+Phonetic Symbols
+Combining Diacritical Marks
+Basic Latin
+Latin -1 Supplement
+Latin Extended-A
+Latin Extended-B
+IPA Extensions
+Spacing Modifier Letters
+Greek and Coptic
+Cyrillic Supplement
+Armenian
+Syriac
+Arabic Supplement
+Thaana
+NKo
+Samaritan
+Devanagari
+Bengali
+Gurmukhi
+Gujarati
+Oriya
+Tamil
+Telugu
+Kannada
+Malayalam
+Sinhala
+Lao
+Tibetan
+Myanmar
+Georgian
+Hangul Jamo
+Ethiopic
+Ethiopic Supplement
+Cherokee
+Unified Canadian Aboriginal Syllabics
+Ogham
+Runic
+Tagalog
+Hanunoo
+Buhid
+Tagbanwa
+Khmer
+Mongolian
+Unified Canadian Aboriginal Syllabics Extended
+Limbu
+Tai Le
+New Tai Lue
+Khmer Symbols
+Buginese
+Tai Tham
+Balinese
+Sundanese
+Lepcha
+Ol Chiki
+Vedic Extensions
+Phonetic Extensions
+Phonetic Extensions Supplement
+Combining Diacritical Marks Supplement
+Latin Extended Additional
+Greek Extended
+General Punctuation
+Superscripts and Subscripts
+Currency Symbols
+Combining Diacritical Marks for Symbols
+Letterlike Symbols
+Number Forms
+Arrows
+Mathematical Operators
+Miscellaneous Technical
+Control Pictures
+Optical Character Recognition
+Enclosed Alphanumerics
+Box Drawing
+Block Elements
+Geometric Shapes
+Miscellaneous Symbols
+Dingbats
+Miscellaneous Mathematical Symbols-A
+Supplemental Arrows-A
+Braille Patterns
+Supplemental Arrows-B
+MiscellaneousMathematical Symbols-B
+Supplemental Mathematical Operators
+Miscellaneous Symbols and Arrows
+Glagolitic
+Latin Extended-C
+Coptic
+Georgian Supplement
+Tifinagh
+Ethiopic Extended
+Cyrillic Extended-A
+Supplemental Punctuation
+CJK Radicals Supplement
+Kangxi Radicals
+Ideographic Description Characters
+CJK Symbols and Punctuation
+Hiragana
+Katakana
+Bopomofo
+Hangul Compatibility Jamo
+Kanbun
+Bopomofo Extended
+CJK Strokes
+Katakana Phonetic Extensions
+Enclosed CJKLetters and Months
+CJK Compatibility
+CJK Unified Ideographs Extension A
+Yi jing Hexagram Symbols
+CJK Unified Ideographs
+Yi Syllables
+Yi Radicals
+Lisu
+Vai
+Cyrillic Extended-B
+Bamum
+Modifier Tone Letters
+Latin Extended-D
+Syloti Nagri
+Common Indic Number Forms
+Phags-pa
+Saurashtra
+Devanagari Extended
+Kayah Li
+Rejang
+Hangul Jamo Extended-A
+Javanese
+Cham
+Myanmar Extended-A
+Tai Viet
+Meetei Mayek
+Hangul Syllables
+Hangul Jamo Extended-B
+High Surrogates
+High Private UseSurrogates
+Low Surrogates
+Private Use Area
+CJK Compatibility Ideographs
+Alphabetic Presentation Forms
+Arabic Presentation Forms-A
+Variation Selectors
+Vertical Forms
+Combining Half Marks
+CJK Compatibility Forms
+Small Form Variants
+Arabic Presentation Forms-B
+Halfwidth and Fullwidth Forms
+Specials
+Clear text
+Manual
+Automatic
+Dropdown List
+Short Automatic
+Dropdown List & & Automatic
+Week %1
+Next year
+Previous year
+Next month
+Previous month
+Select aweek
+Select a month
+Select a year
+Select the current day
+Text & Color...
+Color
+Text & Highlight...
+& Font
+Font &Size
+& Bold
+& Italic
+& Underline
+& Strike Out
+Align & Left
+Align & Center
+Center
+Align & Right
+& Justify
+Justify
+List Style
+Disc
+Circle
+Square
+123
+abc
+ABC
+Increase Indent
+Decrease Indent
+Insert Rule Line
+Link
+Format Painter
+To Plain Text
+Subscript
+Superscript
+Non-printable
+Other ,Control
+Other ,Format
+Other ,Not Assigned
+Other, Private Use
+Other, Surrogate
+Letter ,Lowercase
+Letter ,Modifier
+Letter ,Other
+Letter, Titlecase
+Letter, Uppercase
+Mark ,Spacing Combining
+Mark, Enclosing
+Mark, Non-Spacing
+Number ,Decimal Digit
+Number, Letter
+Number, Other
+Punctuation ,Connector
+Punctuation ,Dash
+Punctuation ,Close
+Punctuation ,Final Quote
+Punctuation ,Initial Quote
+Punctuation, Other
+Punctuation, Open
+Symbol ,Currency
+Symbol ,Modifier
+Symbol, Math
+Symbol, Other
+Separator ,Line
+Separator, Paragraph
+Separator, Space
+& Copy Full Text
+Shortcut '%1' in Application %2 for action %3
+Shortcut '%1' for action '%2'
+Shortcut conflict
+Reserved Shortcut
+Conflict with Standard Application Shortcut
+The'%1' key combination is also used for the standard action "%2" that some applications use. Do youreally want to use it as a global shortcut as well?
+Input
+Unsupported Key
+& Add
+& Remove
+Move & Up
+Move & Down
+Clear & History
+No further items in the history.
+Image Operations
+& Rotate Clockwise
+Rotate & Counterclockwise
+%1 &Handbook
+What's & This
+& Report Bug...
+Switch Application & Language...
+& About %1
+About & KDE
+Toolbar Settings
+Orientation
+Top
+Bottom
+Text Position
+Icons Only
+Text Only
+Text Alongside Icons
+Text Under Icons
+Icon Size
+Small (%1x%2)
+Medium (%1x%2)
+Large (%1x%2)
+Huge (%1x%2)
+Lock Toolbar Positions
+Area
+Region
+Comment
+Check Spelling...
+Auto Spell Check
+Allow Tabulations
+Speak Text
+No suggestions for %1
+Ignore
+Add to Dictionary
+Nothing to spell check.
+Minimize
+& Minimize
+& Restore
+Are you sure you want to quit %1?
+Confirm Quit From System Tray
+Unknown Application
+URL to open
+Testkhtml
+a basic web browser using the KHTML library
+%1 (%2 - %3x%4 Pixels)
+%1 - %2x%3 Pixels
+%1 (%2x%3 Pixels)
+Image - %1x%2 Pixels
+Do ne.
+Directory containing tests, basedir and output directories.
+Do notsuppress debug output
+Regenerate baseline (instead of checking)
+Do not show the window while running tests
+Only run a single test .Multiple options allowed.
+Only run .js tests
+Only run .html tests
+TestRegression
+Regression tester for khtml
+KHTML
+Embeddable HTML component
+Lars Knoll
+Antti Koivisto
+Dirk Mueller
+Peter Kelly
+Torben Weis
+Martin Jones
+Simon Hausmann
+Tobias Anton
+& Copy Text
+Open '%1'
+& Copy Email Address
+& Save Link As...
+& Copy Link Address
+Frame
+Open in New &Window
+Open in & This Window
+Open in & New Tab
+Reload Frame
+Print Frame...
+Save & Frame As...
+View Frame Source
+View Frame Information
+Block IFrame...
+Save Image As...
+Send Image...
+Copy Image
+Copy Image Location
+View Image (%1)
+Block Image...
+Block Images From %1
+Stop Animations
+Search for '%1' with %2
+Search for '%1' with
+Save Link As
+Save Image As
+A dd URL to Filter
+Enter the URL:
+A file named "%1" already exists. Are you sure you want to overwrite it?
+Overwrite
+The Download Manager (%1) could not be found in your $PATH
+Try to reinstall it The integration with Konqueror will be disabled.
+Default Font Size (100%)
+HTML Settings
+Printer friendly mode (black text, no background)
+Print images
+Print header
+Accept
+Reject
+Filter error
+View Document Source
+View Document Information
+Save & Background Image As...
+SSL
+Stop Animated Images
+Set & Encoding
+Use Stylesheet
+Enlarge Font
+Shrink Font
+Find text Shows a dialog that allows you to find text on the displayed page.
+Find previous Find the previous occurrence of the text that you have found using the Find Textfunction.
+Find Text as You Type
+Find Links as You Type
+Print Frame Some pages have several frames. To print only a single frame, click on it and then use this function.
+This web page contains coding errors.
+& Hide Errors
+& Disable ErrorReporting
+Error: %1: %2
+Error :node %1: %2
+Display Images on Page
+Error: %1 - %2
+The requested operation could not be completed
+Technical Reason:
+Details of the Request:
+URL: %1
+Protocol: %1
+Date and Time: %1
+Additional Information: %1
+Possible Causes:
+Possible Solutions:
+Page loaded.
+Automatic Detection
+(In new window)
+Symbolic Link
+%1 (Link)
+%2 (%1 K)
+(In other frame)
+Email to:
+-Subject:
+- CC:
+- BCC:
+Follow
+Frame Information
+[Properties]
+SaveBackground Image As
+Save Frame As
+& Find in Frame...
+& Find...
+Network Transmission
+& Send Unencrypted
+& Send Email
+Submit
+(%1/s)
+Security Warning
+Security Alert
+& Close Wallet
+JavaScript & Debugger
+This pagewas prevented from opening a new window via JavaScript.
+Popup Window Blocked
+& Configure JavaScript New Window Policies...
+Available Tests: 0
+Please choose a valid'khtmltests/regression/' directory.
+Please choose a valid'khtml/' build directory.
+Available Tests: %1 (ignored: %2)
+Continue
+Cannot find testregression executable.
+Run test...
+Add to ignores...
+Remove from ignores...
+Find stopped.
+Starting -- find links as you type
+Starting -- find text as you type
+Link found: "%1".
+Link not found: "%1".
+Text found: "%1".
+Text not found: "%1".
+Access Keys activated
+TestRegressionGui
+GUI for the khtml regression tester
+Inactive
+Not found
+Do you want to store this password for %1?
+the document is not in the correct file format
+XML parsing error
+Basic Page Style
+JavaScript
+& Stop Script
+Confirmation: JavaScript Popup
+This site is requesting to open up a new browser window via JavaScript. Do you want to allow this?
+Allow
+Do Not Allow
+Close window?
+Confirmation Required
+JavaScript Attempted Bookmark Insert
+Disallow
+Breakpoint
+Loaded Scripts
+Local Variables
+Reference
+JavaScript Debugger
+& Break at Next Statement
+Break at Next
+StepOver
+Step Into
+Step Out
+Report Exceptions
+& Debug
+Close source
+Ready
+Parse error at %1 line %2
+An error occurred while attempting to run a script on this page. %1 line %2: %3
+Console
+JavaScript Error
+& Do not show this message again
+Call Stack
+Call
+Line
+This is a searchable index. Enter search keywords:
+Submit Confirmation
+& Submit Anyway
+Send Confirmation
+Key Generator
+No plugin found for '%1'. Do you want to download one from %2?
+Missing Plugin
+Download
+Do Not Download
+Applet Parameters
+Parameter
+Class
+Base URL
+Archives
+KDE Java Applet Plugin
+Initializing Applet "%1 "...
+Starting Applet "%1 "...
+Applet "%1" started
+Applet "%1" stopped
+Loading Applet
+Error: java executable not found
+Signed by (validation: %1)
+Certificate (validation: %1)
+the following permission
+& Reject All
+& Grant All
+No handler found for %1.
+KMultiPart
+Copyright 2001, David Faure david@mandrakesoft.com
+New Web Shortcut
+%1 is already assigned to %2
+New search provider
+URI shortcuts:
+Create Web Shortcut
+Could not find'%1' executable.
+Could not open library '%1'. %2
+Could not find'kdemain' in '%1'. %2
+KDEInit could not launch '%1'.
+Could not find service '%1'.
+Launching %1
+Unknown protocol '%1'.
+Error loading '%1'.
+Text:
+Comment:
+Icon:
+Interpreter:
+Execute the selected script.
+Stop execution of the selected script.
+Edit...
+Edit selected script.
+Add...
+Add a new script.
+Remove selected script.
+Edit
+Kross
+KDE application to run Kross scripts.
+(C) 2006 Sebastian Sauer
+Run Kross scripts.
+Sebastian Sauer
+Scriptfile
+Level of safety of the Ruby interpreter
+Scriptfile "%1" does not exist.
+Failed to open scriptfile "%1"
+Failed to load interpreter "%1"
+No such interpreter "%1"
+Failed to create script for interpreter "%1"
+KrossTest
+KDE application to test the Kross framework.
+(C) 2005-2007 Sebastian Sauer
+Test the Kross framework!
+Cancel?
+State
+Title
+Only local files are supported.
+Keep output results from scripts
+File to read update instructions from
+KConf Update
+KDE Tool for updating user configuration files
+(c) 2001, Waldo Bastian
+Input file
+Output file
+Name of the plugin class to generate
+Default widget group name to display in designer
+makekdewidgets
+(C) 2004-2005 Ian Reinhart Geiser
+Ian Reinhart Geiser
+Daniel Molkentin
+Success
+Communication error
+Invalid type in Database
+Create New Tag...
+New Tag
+Please insert the name of the new tag:
+The tag %1 already exists
+Tag Exists
+(c) 2006-2009, Sebastian Trüg
+Sebastian Trüg
+Maintainer
+Tobias Koenig
+and
+or
+Do you want to search the Internet for %1?
+Internet Search
+& Search
+Type: %1
+Remember action for files of this type
+& Openwith %1
+Open &with %1
+Open '%1'?
+& Openwith...
+& Open with
+& Open
+Name: %1
+This is the file name suggested by the server
+Untitled
+The document "%1" has been modified. Do youwant to save your changes or discard them?
+Close Document
+Do you really want to execute '%1'?
+Execute File?
+The module %1could not be found.
+The module %1 isdisabled.
+The module %1 is not a valid configuration module.
+There was an error loading the module.
+Automatic changes have been performed due to plugin dependencies. Click here for further information
+Automatic changes have been performed in order to satisfy plugin dependencies:
+%1 plugin has been automatically checked because of the dependency of %2 plugin
+%1 plugin has been automatically unchecked because of its dependency on %2 plugin
+Dependency Check
+,
+Search Plugins
+Could not load print preview part
+This configuration section is already opened in %1
+Select Components
+Enable component
+KJSCmd
+Utility for running KJSEmbed scripts
+(C) 2005-2006 The KJSEmbed Authors
+Execute script without gui support
+start interactive kjs interpreter
+start without KDE KApplication support.
+Script to execute
+'%1' is not a valid QLayout.
+Must supply a layout name.
+Wrong object type.
+First argument must be a QObject.
+Incorrect number of arguments.
+%1, %2.
+No such method '%1'.
+Call to '%1' failed.
+%1 is not an Object type
+Could not construct value
+There was an error reading the file '%1'
+Could not read file '%1'
+Must supply a filename.
+'%1' is not a valid QWidget.
+Must supply a widget name.
+Not enough arguments.
+Failed to create Action.
+Failed to createActionGroup.
+No classname specified
+Failed to create Layout.
+No classname specified.
+Failed tocreate Widget.
+Could not open file '%1 ': %2
+Failed to load file '%1'
+Could not open file '%1'
+Could not create temporary file.
+include only takes 1 argument, not %1.
+File %1 not found.
+library only takes 1 argument, not %1.
+Alert
+Confirm
+%1 is not a function and cannot be called.
+Action takes 2 args.
+ActionGroup takes 2 args.
+Must supply a valid parent.
+Unknown View
+Column No. %1
+??
+No information available. The supplied KAboutData object does not exist.
+& License Agreement
+Undo: %1
+Redo: %1
+& Undo
+& Redo
+&Undo: %1
+& Redo: %1
+& Password:
+& Keep password
+Password Input
+Do Spellchecking
+Create &root/affix combinations not in dictionary
+Consider run-together &words as spelling errors
+& Dictionary:
+& Encoding:
+International Ispell
+Aspell
+Hspell
+Zemberek
+& Client:
+English
+Spanish
+Danish
+German
+German (new spelling)
+Brazilian Portuguese
+Portuguese
+Esperanto
+Norwegian
+Polish
+Russian
+Slovenian
+Slovak
+Czech
+Swedish
+Swiss German
+Ukrainian
+Lithuanian
+French
+Belarusian
+Hungarian
+ISpellDefault
+Default - %1[%2]
+ASpellDefault
+Default - %1
+Email
+Homepage
+Task
+%1 version %2 Using KDE %3
+%1 %2, %3
+Other Contributors:
+(No logo available)
+Spell Checking
+Freeze
+Dock
+Detach
+Hide %1
+Show %1
+You have to restart the dialog for changes to take effect
+Spell Checker
+A command-line application that can be used to run KUnitTest modules.
+Only run modules whose filenames match the regexp.
+KUnitTest ModRunner
+(C) 2005 Jeroen Wijnhout
+* Recent Colors *
+* Custom Colors *
+Forty Colors
+Oxygen Colors
+Rainbow Colors
+Royal Colors
+Web Colors
+Named Colors
+Select Color
+Hue:
+Saturation:
+Value:
+Red:
+Green:
+Blue:
+& Add to Custom Colors
+HTML:
+Default color
+-default-
+-unnamed-
+Custom...
+TETest
+KDE Test Program
+No service matching the requirements was found
+& New
+Open & Recent
+Revert
+Print Preview
+& Mail...
+Redo
+Cut
+& Copy
+& Paste
+Select & All
+Deselect
+Find &Next
+Find Previous
+& Replace...
+& Actual Size
+& Fit to Page
+Fit to Page & Width
+Fit to Page & Height
+Zoom &In
+Zoom &Out
+& Zoom...
+& Redisplay
+& Up
+& Previous Page
+& Next Page
+& GoTo...
+&Go to Page...
+& Go to Line...
+& First Page
+& Last Page
+& Back in the Document
+& Forward in the Document
+& Add Bookmark
+& Edit Bookmarks
+& Spelling...
+Show & Toolbar
+& Save Settings
+Configure Shortcuts...
+& Configure%1...
+Configure Toolbars...
+Configure & Notifications...
+What's & This?
+Tip of the & Day
+No such function "%1"
+Uploading: %1
+of Jan
+of Feb
+of Mar
+of Apr
+of May
+of Jun
+of Jul
+of Aug
+of Sep
+of Oct
+of Nov
+of Dec
+of January
+of February
+of March
+of April
+of June
+of July
+of August
+of September
+of October
+of November
+of December
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+of Cha
+of Vai
+of Jya
+of Āsh
+of Shr
+of Bhā
+of Āsw
+of Kār
+of Agr
+of Pau
+of Māg
+of Phā
+of Chaitra
+of Jyaishtha
+of Shrāvana
+of Bhādrapad
+of Āshwin
+of Agrahayana
+of Paush
+of Māgh
+Cha
+Jya
+Shr
+Agr
+Pau
+Chaitra
+Agrahayana
+Paush
+Som
+Bud
+Suk
+San
+of Muharram
+of Safar
+of R. Awal
+of R. Thaani
+of J. Awal
+of J. Thaani
+of Rajab
+of Sha`ban
+of Ramadan
+of Shawwal
+of Qi`dah
+of Hijjah
+of Rabi` al-Awal
+of Rabi` al-Thaani
+of Jumaada al-Awal
+of Jumaada al-Thaani
+of Thu al-Qi`dah
+of Thu al-Hijjah
+Muharram
+Safar
+R. Awal
+R. Thaani
+J. Awal
+J. Thaani
+Rajab
+Sha`ban
+Ramadan
+Shawwal
+Qi`dah
+Hijjah
+Rabi` al-Awal
+Rabi` al-Thaani
+Jumaada al-Awal
+Jumaada al-Thaani
+Thu al-Qi`dah
+Thu al-Hijjah
+Ith
+Thl
+Arb
+Kha
+Jum
+Sab
+Ahd
+Yaum al-Ithnain
+Yau al-Thulatha
+Yaum al-Arbi'a
+Yaum al-Khamees
+Yaum al-Jumma
+Yaum al-Sabt
+Yaum al-Ahad
+of Far
+of Ord
+of Kho
+of Tir
+of Mor
+of Sha
+of Meh
+of Aba
+of Aza
+of Dei
+of Bah
+of Esf
+Far
+Ord
+Kho
+Tir
+Mor
+Sha
+Meh
+Aba
+Aza
+Dei
+Bah
+Esf
+of Farvardin
+of Ordibehesht
+of Mordad
+of Shahrivar
+of Mehr
+of Aban
+of Bahman
+of Esfand
+Farvardin
+Ordibehesht
+Mordad
+Shahrivar
+Mehr
+Aban
+Bahman
+Esfand
+2sh
+3sh
+4sh
+5sh
+Jom
+shn
+1sh
+Do shanbe
+Se shanbe
+Chahar shanbe
+Panj shanbe
+Jumee
+Shanbe
+Yek-shanbe
+of Tishrey
+of Heshvan
+of Kislev
+of Tevet
+of Shvat
+of Adar
+of Nisan
+of Iyar
+of Sivan
+of Tamuz
+of Av
+of Elul
+of Adar I
+of Adar II
+Tishrey
+Heshvan
+Kislev
+Tevet
+Shvat
+Adar
+Nisan
+Iyar
+Sivan
+Tamuz
+Av
+Elul
+Adar I
+Ethiopian
+Gregorian
+Julian
+Invalid Calendar Type
+of Tho
+of Pao
+of Hat
+of Kia
+of Tob
+of Mes
+of Par
+of Pam
+of Pas
+of Pan
+of Epe
+of Meo
+of Kou
+of Thoout
+of Paope
+of Hathor
+of Kiahk
+of Tobe
+of Meshir
+of Parmoute
+of Pashons
+of Paone
+of Epep
+of Mesore
+Tho
+Pao
+Hat
+Kia
+Tob
+Mes
+Par
+Pam
+Pas
+Pan
+Epe
+Meo
+Kou
+Thoout
+Paope
+Hathor
+Tobe
+Meshir
+Paremhotep
+Parmoute
+Pashons
+Paone
+Epep
+Mesore
+Pes
+Psh
+Psa
+Pesnau
+Ptiou
+of Teq
+of Hed
+of Tah
+of Ter
+of Yak
+of Mag
+of Miy
+of Gen
+of Sen
+of Ham
+of Neh
+of Pag
+of Meskerem
+of Tequemt
+of Tahsas
+of Yakatit
+of Magabit
+of Miyazya
+of Genbot
+of Sene
+of Hamle
+of Pagumen
+Teq
+Hed
+Tah
+Ter
+Mag
+Miy
+Gen
+Sen
+Ham
+Neh
+Pag
+Tequemt
+Tahsas
+Sene
+Hamle
+Nehase
+Pagumen
+Seg
+Qed
+Segno
+Hamus
+Qedame
+Installed only
+Download New Stuff
+Download New %1
+Conflict With Registered Global Shortcut(s)
+Shortcut Conflict(s)
+Indic Scripts
+Long Action
+KIdleTest
+Open '%2'? Type: %1
+Abort?
+Do wnload New Data...
+us
+Save Login Information
+Add Elements
+Remove Elements
+Replace Element
+Sample KFormula application
+& Options
+Unsorted
+Call stack
+JavaScript console
+& Step
+& Continue
+Stop
+An error occurred while attempting to run a script on this page. %1
+%1%
+The '%1' key combination has already been allocated to the "%2" action. Do you want to reassign it from that action to the current one?
+Already open.
+Error opening file.
+Not a wallet file.
+Unsupported file format revision.
+Unknown encryption scheme.
+Corrupt file?
+Error validating wallet integrity. Possibly corrupted.
+Read error - possibly incorrect password.
+Decryption error.
+OpenRecent
+SaveAs
+PrintPreview
+ActualSize
+EditBookmarks
+ShowToolbar
+ShowStatusbar
+ConfigureToolbars
+ConfigureNotifications
+SwitchApplicationLanguage
+AboutKDE
+Empty Trash
+&Edit '%1'...
+& Hide '%1'
+& Show All Entries
+Do you really want to empty the Trash? Allitems will be deleted.
+*_BAR_All Files
+& Location:
+Invalid URL
+The file "%1" already exists. Do you wish to overwrite it?
+Root
+& Release '%1'
+& Safely Remove '%1'
+Custom Path
+Select Folder
+New Folder...
+Show Hidden Folders
+Edit Places Entry
+& Description:
+Nothing to Delete
+Do you really want to delete '%1'?
+& Trash
+Trash Files
+Parent Folder
+Home Folder
+Detailed View
+Tree View
+Detailed Tree View
+Show Hidden Files
+Show Full Path
+Chinese
+Comment: %1
+Author: %1
+License: %1
+About Plugin "%1"
+Continue script execution
+Close this tab
+Error while loading %1
+An error occurred while loading %1:
+Error:
+Tag Resource
+Please select the file to open.
+Ok

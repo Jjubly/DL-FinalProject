@@ -1,0 +1,9645 @@
+locale noexpr
+locale yesexpr
+--help" and "--version
+_Hint
+_New
+_Redo Move
+_Reset
+You should have received a copy of the GNU General Public License along with this program. If not, see .
+foundation
+reserve
+stock
+tableau
+waste
+%s on foundation
+%s on reserve
+%s on stock
+%s on tableau
+Zebra
+JOKER
+A
+2
+3
+4
+5
+6
+7
+8
+9
+J
+Q
+K
+Time
+%d
+%d%%
+M
+L
+Get:
+Hit
+Done
+Action "%s"
+This action is currently approved; it will be selected whenever possible.
+Enter "r %s" to allow this action to appear in new solutions.
+Enter "r %s" to prevent this action from appearing in new solutions.
+Enter "a %s" to cease requiring that new solutions include this action if possible.
+Unexpected end-of-file on standard input
+You may want to update the package lists to correct these missing files
+Unknown term type: "%s".
+Unknown log level name "%s" (expected "trace", "debug", "info", "warn", "error", "fatal", or "off").
+all-packages-with-dep-versions
+Hmm, seems like the AutoRemover destroyed something which really shouldn't happen. Please file a bug report against apt.
+list
+suggestion mode
+Are you sure you want to abort (y/n)?
+dumps, creates or merges a master, personal, or replacement dictionary.
+Selected Link
+Specifies whether the AtkHyperlink object is selected
+Number of Anchors
+The number of anchors associated with the AtkHyperlink object
+End index
+The end index of the AtkHyperlink object
+Start index
+The start index of the AtkHyperlink object
+invalid
+accelerator label
+alert
+animation
+arrow
+calendar
+canvas
+check box
+check menu item
+color chooser
+column header
+combo box
+dateeditor
+desktop icon
+desktop frame
+dial
+dialog
+directory pane
+drawing area
+file chooser
+filler
+fontchooser
+frame
+glass pane
+html container
+icon
+image
+internal frame
+label
+layered pane
+list
+list item
+menu
+menu bar
+menu item
+option pane
+page tab
+page tab list
+panel
+password text
+popup menu
+progress bar
+push button
+radio button
+radio menu item
+root pane
+row header
+scroll bar
+scroll pane
+separator
+slider
+split pane
+spin button
+statusbar
+table
+table cell
+table column header
+table row header
+tear off menu item
+terminal
+text
+toggle button
+tool bar
+tool tip
+tree
+tree table
+unknown
+viewport
+window
+header
+footer
+paragraph
+application
+autocomplete
+edit bar
+embedded component
+entry
+chart
+caption
+document frame
+heading
+page
+section
+redundant object
+form
+Accessible Name
+Object instance's name formatted for assistive technology access
+Accessible Description
+Description of an object, formatted for assistive technology access
+Accessible Parent
+Accessible Value
+Is used to notify that the value has changed
+Accessible Role
+The accessible role of this object
+Accessible Layer
+The accessible layer of this object
+Accessible MDI Value
+The accessible MDI value of this object
+Accessible Table Caption
+Is used to notify that the table caption has changed; this property should not be used. accessible-table-caption-object should be used instead
+Accessible Table Column Header
+Is used to notify that the table column header has changed
+Accessible Table Column Description
+Is used to notify that the table column description has changed
+Accessible Table Row Header
+Is used to notify that the table row header has changed
+Accessible Table Row Description
+Is used to notify that the table row description has changed
+Accessible Table Summary
+Is used to notify that the table summary has changed
+Accessible Table Caption Object
+Is used to notify that the table caption has changed
+Number of Accessible Hypertext Links
+The number of links which the current AtkHypertext has
+Disk Usage Analyzer
+Check folder sizes and available disk space
+Chart model
+Set the model of the chart
+Folder
+Usage
+Size
+Contents
+_Open Folder
+Mo_ve to Trash
+_Help
+_Analyzer
+_View
+_Expand All
+_Collapse All
+Select Folder
+Baobab
+A graphical tool to analyze disk usage.
+translator-credits
+"%s" is not a valid folder
+Could not analyze disk usage.
+Sym.Val.
+Version:
+%s subprocess failed
+_Help
+_Effects
+Preferences
+Cheese
+Take photos and videos with your webcam, with fun graphical effects
+Use a countdown
+No device found
+translator-credits
+Cheese Website
+No Effect
+Save File
+Could not save %s
+Move to _Trash
+default:LTR
+`'like this`" and "'
+yes
+no
+(C)(C)
+Report translation bugs to <\.\.\.>
+ss, %g second, %s/s ", ", %g seconds, %s/s
+1K-blocks" header in "df1024-blocks" header in "df -P
+F. Pinard" to "François Pinardç
+%s: remove %s (write-protected) %s?
+failed to return to initial working directory
+Packaged by %s
+Written by %s, %s, %s, %s, %s, %s, %s, %s, %s, and others.
+If the backup location is on an external volume, this is the volume’s icon.
+Integrates well into your GNOME desktop
+Back Up
+Creating a fresh backup to protect against backup corruption. This will take longer than normal.
+Restore to Where?
+Co_ntinue
+_Storage location
+_Automatic backup
+_Every
+Window Menubar
+https://wiki.gnome.org/Apps/Devhelp?action=AttachFile#x26;do=view#x26;target=devhelp.png
+Devhelp
+Developer's Help program
+Documentation Browser
+Main window maximized state
+Width of the main window
+The width of the main window.
+Height of main window
+The height of the main window.
+X position of main window
+The X position of the main window.
+Y position of main window
+The Y position of the main window.
+Width of the index and search pane
+The width of the index and search pane.
+Use system fonts
+Use the system default fonts.
+Font for text
+Font for text with variable width.
+Devhelp support
+Show API Documentation
+translator-credits
+DevHelp Website
+Book
+Display the version and exit
+Quit any running Devhelp
+Cannot uncompress book '%s': %s
+Preferences
+_Use system fonts
+_Variable width:
+_Fixed width:
+50%
+75%
+100%
+125%
+150%
+175%
+200%
+300%
+400%
+Empty Page
+New _Tab
+_Larger Text
+S_maller Text
+Replace _All
+Scroll around the diagram
+Can't open output file %s: %s
+25
+Connection Points:
+Hex Size:
+_Attributes
+_New
+_Delete
+Move up
+Requirement
+Show arrow:
+%s: option '-W %s' requires an argument
+Packaged by %s
+Written by %s, %s, %s, %s, %s, %s, %s, %s, %s, and others.
+character `%c' not allowed (only letters, digits and characters `%s')
+must start with an alphanumeric character
+Another process has locked the database for writing, and might currently be modifying it, some of the following problems might just be due to that.
+%s: Part format version: %d.%d Part of package: %s ... version: %s ... architecture: %s ... MD5 checksum: %s ... length: %jd bytes ... split every: %jd bytes Part number: %d/%d Part length: %jd bytes Part offset: %jd bytes Part file size (used portion): %jd bytes
+Hide main window
+Hide the main window.
+Enable spell checker
+Available
+Busy
+Away
+Offline
+Network error
+Authentication failed
+Encryption error
+Account
+Server
+Port
+%s:
+Create a new account on the server
+%1$s on %2$s
+Network
+Pass_word:
+_Port:
+Couldn't convert image
+No Image
+Images
+All Files
+Click to enlarge
+offline
+invalid contact
+too long message
+unknown
+_Send
+%s has left the room
+Disconnected
+Join
+Connected
+Conversation
+Account:
+_Add Group
+Group
+New Contact
+Edit Contact Information
+Removing contact
+_Remove
+_Chat
+_SMS
+Infor_mation
+_Edit
+Removing group
+Location
+New Network
+Reset _Networks List
+new server
+SSL
+People nearby
+Search
+Chat with %s
+Chat
+Custom messages…
+New %s account
+_Copy Link Address
+_Open Link
+Arabic
+Armenian
+Central European
+Chinese Simplified
+Chinese Traditional
+Croatian
+Cyrillic
+Georgian
+Greek
+Gujarati
+Gurmukhi
+Hebrew
+Hindi
+Icelandic
+Japanese
+Korean
+Persian
+Romanian
+South European
+Thai
+Turkish
+Unicode
+Western
+Vietnamese
+translator-credits
+Don't connect on startup
+Incoming call
+_Call
+_Help
+_Contents
+Name
+Room
+Typing a message.
+C_lear
+_Show Contact List
+_Tabs
+_Previous Tab
+_Next Tab
+Move Tab _Left
+Move Tab _Right
+_Detach Tab
+_Reject
+_Answer
+%02u.%02u
+Import Accounts
+Import
+Protocol
+Source
+Invite
+_Room:
+_Server:
+Language
+Preferences
+Contact List
+General
+Notifications
+Spell Checking
+Chat Th_eme:
+Themes
+_Accounts
+_Quit
+_Add Contact...
+Status
+Show “_%s”
+_Move on Toolbar
+Move the selected item on the toolbar
+_Remove from Toolbar
+Remove the selected item from the toolbar
+_Delete Toolbar
+Remove the selected toolbar
+Separator
+_View
+_Toolbar
+_Statusbar
+Side _Pane
+Prefere_nces
+_Help
+_About
+Image Viewer
+Browse and rotate images
+Image Properties
+_Previous
+_Next
+General
+Metadata
+Save As
+Choose a folder
+Rename from:
+To:
+_Automatic orientation
+As check _pattern
+As custom c_olor:
+Color for Transparent Areas
+As _background
+Image View
+E_xpand images to fit screen
+_Loop sequence
+Slideshow
+Plugins
+Automatic orientation
+Interpolate Image
+Transparency indicator
+Zoom multiplier
+Transparency color
+Allow zoom greater than 100% initially
+Delay in seconds until showing the next image
+Active plugins
+Fullscreen with double-click
+Activate fullscreen mode with double-click
+Reload Image
+Reload current image
+Date in statusbar
+Shows the image date in the window statusbar
+_Save
+Could not load image '%s'.
+No images found in '%s'.
+The given locations contain no images.
+Camera
+Image Data
+Image Taking Conditions
+Maker Note
+Other
+XMP Exif
+XMP IPTC
+XMP Rights Management
+XMP Other
+Tag
+Value
+%a, %d %B %Y %X
+%a, %d %B %Y
+File format is unknown or unsupported
+Please try a different file extension like .png or .jpg.
+%s (*.%s)
+Save Image
+Open Folder
+Transformation failed.
+EXIF not supported for this file format.
+Image loading failed.
+No image loaded.
+Temporary file creation failed.
+Couldn't create temporary file for saving: %s
+Unknown
+Image Settings
+Image
+Page Setup
+The information for the page where the image will be printed
+Position
+_Left:
+_Right:
+_Top:
+_Bottom:
+C_enter:
+None
+Horizontal
+Vertical
+Both
+Size
+_Width:
+_Height:
+_Scaling:
+_Unit:
+Millimeters
+Inches
+Preview
+as is
+Taken on
+At least two file names are equal.
+(invalid Unicode)
+Use "%s" to open the selected image
+Saving image "%s" (%u/%u)
+Error printing file: %s
+Toolbar Editor
+_Reset to Default
+_Close
+Error on deleting image %s
+Are you sure you want to move "%s" to the trash?
+Move to _Trash
+Couldn't access trash.
+_Image
+_Edit
+_Go
+_Tools
+Open a file
+Close window
+T_oolbar
+Edit the application toolbar
+_Contents
+Help on this application
+About this application
+Changes the visibility of the toolbar in the current window
+Changes the visibility of the statusbar in the current window
+Changes the visibility of the side pane in the current window
+Save changes in currently selected images
+Open _with
+Open the selected image with a different application
+Save the selected images with a different name
+Print the selected image
+Prope_rties
+Show the properties and metadata of the selected image
+_Undo
+Undo the last change in the image
+Flip _Horizontal
+Mirror the image horizontally
+Flip _Vertical
+Mirror the image vertically
+_Rotate Clockwise
+Rotate the image 90 degrees to the right
+Rotate Counterc_lockwise
+Rotate the image 90 degrees to the left
+Move the selected image to the trash folder
+_Zoom In
+Enlarge the image
+Zoom _Out
+Shrink the image
+_Normal Size
+Show the image at its normal size
+Show the current image in fullscreen mode
+Fit the image to the window
+_Previous Image
+_Next Image
+_First Image
+_Last Image
+Start a slideshow view of the images
+Previous
+Next
+Right
+Left
+In
+Out
+Normal
+Fit
+Gallery
+The GNOME image viewer.
+translator-credits
+Open in fullscreen mode
+No images found in archive %s
+Comic Books
+DVI document has incorrect format
+DVI Documents
+Yes
+No
+Type 1
+Type 1C
+Type 3
+Type 1 (CID)
+Type 1C (CID)
+Unknown font type
+No name
+None
+Embedded
+Not embedded
+(One of the Standard 14 Fonts)
+PDF Documents
+Failed to load document “%s”
+Failed to save document “%s”
+PostScript Documents
+Invalid document
+Document Viewer
+Couldn't save attachment “%s”: %s
+Couldn't open attachment “%s”: %s
+Couldn't open attachment “%s”
+File type %s (%s) is not supported
+Unknown MIME Type
+All Documents
+All Files
+(%d of %d)
+of %d
+Page %s
+Print
+Scroll Up
+Scroll Down
+Scroll View Up
+Scroll View Down
+Document View
+Go to first page
+Go to previous page
+Go to next page
+Go to last page
+Go to page
+Find
+Go to page %s
+Go to %s on file “%s”
+Go to file “%s”
+Launch %s
+Jump to page:
+Failed to print document
+_Previous Page
+Go to the previous page
+_Next Page
+Go to the next page
+Enlarge the document
+Shrink the document
+Print this document
+Make the current document fill the window
+Make the current document fill the window width
+Page
+Select Page
+Document
+Paper Size:
+%s, Portrait (%s)
+%s, Landscape (%s)
+Find previous occurrence of the search string
+Find next occurrence of the search string
+Evince
+translator-credits
+Open Document
+Password for document %s
+Open a recently used document
+This document is locked and can only be read by entering the correct password.
+_Unlock Document
+Enter password
+The document “%s” is locked and requires a password before it can be opened.
+Password required
+_Password:
+Properties
+General
+Fonts
+Font
+Attachments
+Index
+Thumbnails
+The document contains no pages
+The file could not be saved as “%s”.
+Save a Copy
+Running in presentation mode
+Zoom
+Adjust the zoom level
+Open an existing document
+Unable to open external link
+Couldn't find appropriate format to save image
+The image could not be saved.
+Save Image
+Unable to open attachment
+The attachment could not be saved.
+Save Attachment
+GNOME Document Viewer
+PAGE
+Run evince in fullscreen mode
+Run evince as a previewer
+The word or phrase to find in the document
+STRING
+_About
+_Help
+_Continuous
+_Dual
+Side _Pane
+_Fullscreen
+Rotate _Left
+Rotate _Right
+_Reload
+Op_en a Copy
+Select _All
+_First Page
+_Last Page
+_File
+_Edit
+_View
+_Go
+Find a word or phrase in the document
+Delete address book '{0}'?
+This address book will be removed permanently.
+Category editor not available.
+Unable to perform search.
+Would you like to save your changes?
+_Discard
+Cannot move contact.
+_Resize
+_Use as it is
+_Do not save
+Unable to save {0}.
+Address '{0}' already exists.
+_Add
+Failed to delete contact
+Cannot add new contact
+Contact Editor
+Image
+Nic_kname:
+_File under:
+_Where:
+Ca_tegories...
+Full _Name...
+_Wants to receive HTML mail
+Email
+Telephone
+Contact
+_Home Page:
+_Calendar:
+_Free/Busy:
+_Video Chat:
+_Profession:
+_Company:
+_Department:
+_Manager:
+_Assistant:
+_Office:
+_Spouse:
+_Birthday:
+_Anniversary:
+Anniversary
+Birthday
+Miscellaneous
+Personal Information
+_City:
+_Zip/Postal Code:
+_State/Province:
+_Country:
+_PO Box:
+_Address:
+Home
+Work
+Other
+Mailing Address
+Notes
+AIM
+Jabber
+Yahoo
+Gadu-Gadu
+MSN
+ICQ
+Error adding contact
+Error modifying contact
+Error removing contact
+Contact Editor - %s
+Please select an image for this contact
+_No image
+The contact data is invalid:
+Invalid contact.
+Contact Quick-Add
+_Edit Full
+_Full name
+E_mail
+_Select Address Book
+Mr.
+Mrs.
+Ms.
+Miss
+Dr.
+I
+II
+III
+Full Name
+_First:
+_Middle:
+_Last:
+Contact List Editor
+_List name:
+_Select...
+Contact List Members
+_Members
+Error adding list
+Error modifying list
+Error removing list
+Changed Contact:
+_Merge
+Original Contact:
+New Contact:
+Cancelled
+Merge Contact
+Name contains
+Email begins with
+Any field contains
+No contacts
+Error getting book view
+Delete selected contacts
+_Don't Display
+Display _All Contacts
+File As
+Given Name
+Family Name
+Nickname
+Email 2
+Email 3
+Assistant Phone
+Business Phone
+Business Phone 2
+Business Fax
+Car Phone
+Company Phone
+Home Phone
+Home Phone 2
+Home Fax
+ISDN Phone
+Mobile Phone
+Other Phone
+Other Fax
+Pager
+Primary Phone
+Radio
+Telex
+TTYTDD
+Company
+Unit
+Office
+Title
+Role
+Manager
+Assistant
+Web Site
+Journal
+Categories
+Spouse
+Note
+Search for the Contact or double-click here to create a new Contact.
+There are no items to show in this view. Double-click here to create a new Contact.
+Search for the Contact.
+There are no items to show in this view.
+Work Email
+Home Email
+Other Email
+New Contact
+New Contact List
+Open
+Contact List:
+Contact:
+evolution minicard
+Copy _Email Address
+_Send New Message To...
+Department
+Profession
+Position
+Video Chat
+Calendar
+Free/Busy
+Phone
+Fax
+Address
+Home Page
+Web Log
+Personal
+List Members
+Job Title
+Home page
+Blog
+card.vcf
+Select Address Book
+list
+Move contact to
+Copy contact to
+Move contacts to
+Copy contacts to
+Importing...
+Evolution vCard Importer
+OUTPUTFILE
+Can not open file
+Start time
+Appointments
+Location:
+location of appointment
+Snooze _time:
+minutes
+No summary available.
+No description available.
+No location information available.
+Warning
+Do not ask me about this program again.
+invalid time
+Do _not Send
+_Send Notice
+Are you sure you want to delete this meeting?
+Are you sure you want to delete this task?
+Are you sure you want to delete this memo?
+Are you sure you want to delete this appointment?
+_Save Changes
+_Discard Changes
+Would you like to save your changes to this appointment?
+You have changed this appointment, but not yet saved it.
+Would you like to save your changes to this task?
+You have changed this task, but not yet saved it.
+Would you like to save your changes to this memo?
+You have made changes to this memo, but not yet saved them.
+_Send
+Would you like to send this task to participants?
+_Save
+Editor could not be loaded.
+Delete calendar '{0}'?
+This calendar will be removed permanently.
+Delete task list '{0}'?
+This task list will be removed permanently.
+Delete memo list '{0}'?
+This memo list will be removed permanently.
+The calendar is not marked for offline usage.
+Cannot save event
+The task list is not marked for offline usage.
+Summary
+contains
+does not contain
+Description
+Any Field
+Classification
+is
+is not
+Public
+Private
+Confidential
+Organizer
+Attendee
+Location
+Category
+Attachments
+Exist
+Do Not Exist
+Recurrence
+Summary Contains
+Description Contains
+Pop up an alert
+Play a sound
+Run a program
+Send an email
+before
+after
+start of appointment
+end of appointment
+minute(s)
+hour(s)
+day(s)
+extra times every
+Options
+Custom _message
+Mes_sage:
+_Sound:
+Select A File
+_Program:
+_Arguments:
+Send To:
+A_dd
+This event has been deleted.
+This task has been deleted.
+This memo has been deleted.
+This event has been changed.
+This task has been changed.
+This memo has been changed.
+Could not update object
+Edit Appointment
+Meeting - %s
+Appointment - %s
+Assigned Task - %s
+Task - %s
+Memo - %s
+No Summary
+Copy the selection
+Cut the selection
+Paste the clipboard
+Select all text
+_Edit
+_File
+_Help
+_Insert
+_Options
+_View
+_Attachment...
+Attach a file
+_Categories
+Time _Zone
+Pu_blic
+Classify as public
+_Private
+Classify as private
+_Confidential
+Classify as confidential
+_Status Field
+_Type Field
+Attach
+attachment
+Unable to use current version!
+Could not open destination
+Destination is read only
+Could not open source
+Contacts...
+_Recurrence
+Send Options
+_Free/Busy
+Appointment
+Attendees
+Start date is wrong
+End date is wrong
+Start time is wrong
+End time is wrong
+Customize
+for
+until
+15 minutes before appointment
+1 hour before appointment
+_Location:
+_Description:
+_Time:
+Time _zone:
+Event Description
+Atte_ndees...
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Select Date
+Select _Today
+Memo
+To
+T_o:
+Sta_rt date:
+Su_mmary:
+This Instance Only
+All Instances
+Recurrence date is invalid
+on
+first
+second
+third
+fourth
+last
+Other Date
+1st to 10th
+11th to 20th
+21st to 31st
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+on the
+occurrences
+Date/Time
+week(s)
+month(s)
+year(s)
+This appointment rec_urs
+Every
+_Send Options
+Task
+Completed date is wrong
+High
+Normal
+Low
+Undefined
+Not Started
+In Progress
+Completed
+Canceled
+Time zone:
+_Web Page:
+New Appointment
+New All Day Event
+New Meeting
+Go to Today
+Go to Date
+It has recurrences.
+It is a meeting.
+Calendar Event: Summary is %s.
+Calendar Event: It has no summary.
+calendar view event
+Grab Focus
+It has no events.
+Work Week View: %s. %s
+Day View: %s. %s
+calendar view for a work week
+calendar view for one or more days
+Gnome Calendar
+%A %d %b %Y
+%a %d %b
+%a %d %b %Y
+%d %b %Y
+%d %b
+Jump button
+Click here, you can find more events.
+%s %s after the start of the appointment
+%s %s after the end of the appointment
+%s at the end of the appointment
+%s at %s
+Month View: %s. %s
+Week View: %s. %s
+calendar view for a month
+calendar view for one or more weeks
+Untitled
+Summary:
+Start Date:
+Due Date:
+Status:
+Description:
+Web Page:
+Click to add a task
+Start date
+Completion date
+Complete
+Due date
+Status
+Created
+Deleting selected objects
+Updating objects
+Organizer: %s
+Location: %s
+Time: %s %s
+Start Date
+End Date
+Unknown
+Recurring
+Assigned
+Yes
+No
+Accepted
+Declined
+Delegated
+Free
+Busy
+The geographical position must be entered in the format: 45.436845,125.862501
+%a %m/%d/%Y %H:%M:%S
+%a %m/%d/%Y %I:%M:%S %p
+am
+pm
+%A %d %B
+Week %d
+Show the second time zone
+Select...
+Required Participants
+Optional Participants
+Resources
+Individual
+Group
+Resource
+Room
+Chair
+Required Participant
+Optional Participant
+Attendee
+RSVP
+In Process
+Enter password
+No Information
+O_ptions
+_Update free/busy
+_<
+>_>
+_All people and resources
+All _people and one resource
+_Required people
+Required people and _one resource
+_Start time:
+_End time:
+Summary: %s
+Click here to add an attendee
+Member
+Common Name
+Language
+Memos
+Delete selected memos
+Click to add a memo
+Tasks
+Paste tasks from the clipboard
+Delete selected tasks
+Select Timezone
+%d %B
+Event information
+Task information
+Memo information
+Free/Busy information
+Calendar information
+Updated
+Cancel
+Refresh
+iCalendar information
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+13th
+14th
+15th
+16th
+17th
+18th
+19th
+20th
+21st
+22nd
+23rd
+24th
+25th
+26th
+27th
+28th
+29th
+30th
+31st
+Mo
+Tu
+We
+Th
+Fr
+Sa
+Su
+to
+(Completed
+Completed
+(Due
+Due
+Attendees:
+Status: %s
+Percent Complete: %i
+URL: %s
+Categories: %s
+Contacts:
+In progress
+% Completed
+is greater than
+is less than
+Appointments and Meetings
+Opening calendar
+Reminder!
+Calendar Events
+Evolution Calendar intelligent importer
+Meeting
+Event
+has recurrences
+is an instance
+has reminders
+has attachments
+Start
+Due
+End
+URL
+Africa/Abidjan
+Africa/Accra
+Africa/Addis_Ababa
+Africa/Algiers
+Africa/Asmera
+Africa/Bamako
+Africa/Bangui
+Africa/Banjul
+Africa/Bissau
+Africa/Blantyre
+Africa/Brazzaville
+Africa/Bujumbura
+Africa/Cairo
+Africa/Casablanca
+Africa/Ceuta
+Africa/Conakry
+Africa/Dakar
+Africa/Dar_es_Salaam
+Africa/Djibouti
+Africa/Douala
+Africa/El_Aaiun
+Africa/Freetown
+Africa/Gaborone
+Africa/Harare
+Africa/Johannesburg
+Africa/Kampala
+Africa/Khartoum
+Africa/Kigali
+Africa/Kinshasa
+Africa/Lagos
+Africa/Libreville
+Africa/Lome
+Africa/Luanda
+Africa/Lubumbashi
+Africa/Lusaka
+Africa/Malabo
+Africa/Maputo
+Africa/Maseru
+Africa/Mbabane
+Africa/Mogadishu
+Africa/Monrovia
+Africa/Nairobi
+Africa/Ndjamena
+Africa/Niamey
+Africa/Nouakchott
+Africa/Porto-Novo
+Africa/Sao_Tome
+Africa/Timbuktu
+Africa/Tripoli
+Africa/Tunis
+Africa/Windhoek
+America/Adak
+America/Anguilla
+America/Antigua
+America/Araguaina
+America/Aruba
+America/Asuncion
+America/Barbados
+America/Belem
+America/Belize
+America/Boa_Vista
+America/Bogota
+America/Boise
+America/Buenos_Aires
+America/Cambridge_Bay
+America/Cancun
+America/Caracas
+America/Catamarca
+America/Cayenne
+America/Cayman
+America/Chicago
+America/Chihuahua
+America/Cordoba
+America/Costa_Rica
+America/Cuiaba
+America/Curacao
+America/Danmarkshavn
+America/Dawson
+America/Dawson_Creek
+America/Denver
+America/Detroit
+America/Dominica
+America/Edmonton
+America/El_Salvador
+America/Fortaleza
+America/Glace_Bay
+America/Goose_Bay
+America/Grand_Turk
+America/Grenada
+America/Guatemala
+America/Guayaquil
+America/Guyana
+America/Halifax
+America/Havana
+America/Hermosillo
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Vevay
+America/Indianapolis
+America/Inuvik
+America/Jamaica
+America/Jujuy
+America/La_Paz
+America/Lima
+America/Los_Angeles
+America/Maceio
+America/Managua
+America/Manaus
+America/Martinique
+America/Mazatlan
+America/Mendoza
+America/Merida
+America/Mexico_City
+America/Miquelon
+America/Monterrey
+America/Montreal
+America/Montserrat
+America/Nassau
+America/New_York
+America/Nipigon
+America/Nome
+America/Noronha
+America/Panama
+America/Paramaribo
+America/Phoenix
+America/Recife
+America/Regina
+America/Rio_Branco
+America/Rosario
+America/Santiago
+America/Sao_Paulo
+America/Shiprock
+America/St_Johns
+America/St_Kitts
+America/St_Lucia
+America/St_Thomas
+America/St_Vincent
+America/Swift_Current
+America/Thule
+America/Thunder_Bay
+America/Tijuana
+America/Tortola
+America/Whitehorse
+America/Winnipeg
+America/Yakutat
+Asia/Aden
+Asia/Almaty
+Asia/Amman
+Asia/Anadyr
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Ashgabat
+Asia/Baghdad
+Asia/Bahrain
+Asia/Baku
+Asia/Bangkok
+Asia/Beirut
+Asia/Bishkek
+Asia/Brunei
+Asia/Calcutta
+Asia/Choibalsan
+Asia/Chongqing
+Asia/Colombo
+Asia/Damascus
+Asia/Dhaka
+Asia/Dili
+Asia/Dubai
+Asia/Dushanbe
+Asia/Gaza
+Asia/Harbin
+Asia/Hong_Kong
+Asia/Hovd
+Asia/Irkutsk
+Asia/Istanbul
+Asia/Jakarta
+Asia/Jayapura
+Asia/Jerusalem
+Asia/Kabul
+Asia/Kamchatka
+Asia/Karachi
+Asia/Kashgar
+Asia/Katmandu
+Asia/Kuala_Lumpur
+Asia/Kuching
+Asia/Kuwait
+Asia/Macao
+Asia/Macau
+Asia/Magadan
+Asia/Makassar
+Asia/Manila
+Asia/Muscat
+Asia/Nicosia
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Oral
+Asia/Phnom_Penh
+Asia/Pontianak
+Asia/Pyongyang
+Asia/Qatar
+Asia/Rangoon
+Asia/Riyadh
+Asia/Saigon
+Asia/Sakhalin
+Asia/Samarkand
+Asia/Seoul
+Asia/Shanghai
+Asia/Singapore
+Asia/Taipei
+Asia/Tashkent
+Asia/Tehran
+Asia/Tokyo
+Asia/Urumqi
+Asia/Yerevan
+Australia/Perth
+Australia/Sydney
+Europe/Amsterdam
+Europe/Andorra
+Europe/Athens
+Europe/Belfast
+Europe/Belgrade
+Europe/Berlin
+Europe/Bratislava
+Europe/Brussels
+Europe/Bucharest
+Europe/Budapest
+Europe/Chisinau
+Europe/Copenhagen
+Europe/Dublin
+Europe/Gibraltar
+Europe/Helsinki
+Europe/Istanbul
+Europe/Kaliningrad
+Europe/Kiev
+Europe/Lisbon
+Europe/London
+Europe/Luxembourg
+Europe/Madrid
+Europe/Malta
+Europe/Minsk
+Europe/Monaco
+Europe/Moscow
+Europe/Nicosia
+Europe/Oslo
+Europe/Paris
+Europe/Prague
+Europe/Riga
+Europe/Rome
+Europe/Samara
+Europe/San_Marino
+Europe/Sarajevo
+Europe/Simferopol
+Europe/Skopje
+Europe/Sofia
+Europe/Stockholm
+Europe/Tallinn
+Europe/Tirane
+Europe/Uzhgorod
+Europe/Vaduz
+Europe/Vatican
+Europe/Vienna
+Europe/Vilnius
+Europe/Warsaw
+Europe/Zagreb
+Indian/Chagos
+Indian/Christmas
+Indian/Cocos
+Indian/Comoro
+Indian/Mahe
+Indian/Maldives
+Indian/Mauritius
+Indian/Mayotte
+Save as...
+_Close
+Close the current file
+New _Message
+Open New Message window
+Save the current file
+Save _As...
+Save the current file with a different name
+Character _Encoding
+_Print...
+Print Pre_view
+Save as draft
+S_end
+Send this message
+PGP _Encrypt
+PGP _Sign
+_Bcc Field
+_Cc Field
+_Reply-To Field
+Fr_om:
+_Reply-To:
+_To:
+_Cc:
+_Bcc:
+_Post To:
+S_ubject:
+Si_gnature:
+Click here for the address book
+Compose Message
+Untitled Message
+Download in progress. Do you want to send the mail?
+Could not create message.
+All accounts have been removed.
+Evolution Mail and Calendar
+Manage your email, contacts and schedule
+Contacts
+Show preview pane
+Ask for confirmation when deleting items
+Workday end hour
+Workday end minute
+Workday start hour
+Workday start minute
+Default reminder value
+Default reminder units
+Hide completed tasks
+Hide task units
+Hide task value
+Horizontal pane position
+Time divisions
+Timezone
+Default appointment reminder
+Send HTML mail by default
+Send HTML mail by default.
+Spell checking color
+Spell checking languages
+Show Animations
+Show photo of the sender
+Height of the message-list pane
+Height of the message-list pane.
+Terminal font
+Use custom fonts
+Use custom fonts for displaying mail.
+Log filter actions
+Default forward style
+Default reply style
+Save directory
+Default External Editor
+Start in offline mode
+Window buttons are visible
+Window button style
+Toolbar is visible
+Sidebar is visible
+Statusbar is visible
+Default sidebar width
+Name
+Size
+Security
+Subject
+Mailer
+Source
+Cc
+Bcc
+Date
+Face
+%s attachment
+Secret
+For Your Eyes Only
+R_eply requested
+Wi_thin
+Replies
+_Delay message delivery
+_After
+_Set expiration date
+Gene_ral Options
+_Delivered
+_All information
+A_uto-delete sent item
+_When opened:
+When decli_ned:
+When co_mpleted:
+When acce_pted:
+_Sort...
+_Group By...
+_Fields Shown...
+Clear _All
+_Show field in View
+Group Items By
+Show _field in View
+Then By
+Show field i_n View
+Show field in _View
+Sort
+Clear All
+Sort Items By
+Select a Time Zone
+Incoming
+the current time
+the time you specify
+seconds
+weeks
+months
+years
+ago
+in the future
+Show filters for mail:
+_Filter Rules
+_Create new view
+_Name:
+_Replace existing view
+Attachment Properties
+F_ilename:
+Set as _Background
+Hide Attachment _Bar
+Show Attachment _Bar
+A_ttach
+S_ave All
+_Hide
+Open this attachment in %s
+Copy book content locally for offline operation
+Copy memo list contents locally for offline operation
+%B
+%Y
+Month Calendar
+_Available Categories:
+popup list
+Now
+Today
+OK
+?
+Character Encoding
+Other...
+Arabic
+Baltic
+Central European
+Chinese
+Cyrillic
+Greek
+Hebrew
+Japanese
+Korean
+Thai
+Turkish
+Unicode
+Western European
+Western European, New
+Traditional
+Simplified
+Ukrainian
+Visual
+Date and Time
+Time
+No_w
+_Today
+_None
+Invalid Date Value
+Invalid Time Value
+Tomorrow
+Yesterday
+Next Mon
+Next Tue
+Next Wed
+Next Thu
+Next Fri
+Next Sat
+now
+%d-%b-%Y
+R_ule name:
+Find items that meet the following conditions
+All related
+Replies and parents
+No reply or parent
+Outgoing
+Select a file
+File _type:
+Choose the destination for this import
+Choose the type of importer to run:
+Import a _single file
+Please select the information that you would like to import:
+From %s:
+Evolution Import Assistant
+Import Location
+Importer Type
+Select a File
+Close
+_Save and Close
+Edit Signature
+Unnamed
+Add _Script
+World Map
+Any Category
+Search
+Address Book
+_Remove
+Evolution Preferences
+Add Rule
+Edit Rule
+Fin_d:
+_Previous
+_Next
+Mail
+When de_leted:
+Type:
+Name:
+User
+Cannot open file "{0}".
+click to add
+Not sorted
+No grouping
+Show Fields
+Customize Current View
+_Unsort
+Group By This _Field
+Group By _Box
+Remove This _Column
+Add a C_olumn...
+A_lignment
+B_est Fit
+Format Column_s...
+Custo_mize Current View...
+_Sort By
+_Custom
+Select All
+Input Methods
+UTC
+_Copy Link Location
+_Open Link in Browser
+Click to hide/unhide addresses
+Click to open %s
+%d %B %Y
+Calendar: from %s to %s
+evolution calendar item
+Identity
+Please choose another name.
+popup a child
+toggle the cell
+expands the row in the ETree containing this cell
+Table Cell
+click
+sort
+Save Current View
+_Discard changes
+Forwarded messages
+Sending message
+Inbox
+Drafts
+Outbox
+Sent
+Canceled.
+Complete.
+Storing folder '%s'
+Storing account '%s'
+Enabled
+Default
+Close this window
+Evolution Account Assistant
+Done
+Sent _Messages Folder:
+Never
+Always
+Ask for each message
+Defaults
+Full Nam_e:
+Email _Address:
+Check for _new messages every
+Receiving Options
+Receiving Email
+General
+Sending Email
+Security:
+Welcome
+Account Editor
+I_mportant
+_Work
+_Personal
+_To Do
+_Later
+Add Label
+Edit Label
+Color
+Headers
+Page %d of %d
+Copy to Folder
+C_opy
+_Move
+A_dd Sender to Address Book
+Check for _Junk
+_Copy to Folder...
+Copy selected messages to another folder
+_Delete Message
+Mark the selected messages for deletion
+A_pply Filters
+_Find in Message...
+_Clear Flag
+_Flag Completed
+_Attached
+_Load Images
+_Important
+Mark the selected messages as important
+_Junk
+Mark the selected messages as junk
+_Not Junk
+Mark the selected messages as not being junk
+_Read
+Mark the selected messages as having been read
+Uni_mportant
+Mark the selected messages as unimportant
+_Unread
+Mark the selected messages as not having been read
+_Edit as New Message...
+Compose _New Message
+Open a window for composing a mail message
+_Open in New Window
+Open the selected messages in a new window
+_Move to Folder...
+Move selected messages to another folder
+_Next Message
+Display the next message
+Next _Important Message
+Display the next important message
+Next _Thread
+Display the next thread
+Next _Unread Message
+Display the next unread message
+_Previous Message
+Display the previous message
+Pr_evious Important Message
+Display the previous important message
+P_revious Unread Message
+Display the previous unread message
+Print this message
+Reply to _All
+Reply to _List
+_Reply to Sender
+_Message Source
+_Undelete Message
+Undelete the selected messages
+_Normal Size
+_Zoom In
+Increase the text size
+Zoom _Out
+Decrease the text size
+Ch_aracter Encoding
+_Go To
+_Message
+_Zoom
+Mark as _Important
+Mark as _Junk
+Mark as _Not Junk
+Mar_k as Read
+Mark as _Unread
+All Message _Headers
+_Forward
+Delete
+Next
+Previous
+Reply
+-------- Forwarded Message --------
+-----Original Message-----
+an unknown sender
+Posting destination
+Choose folders to post the message to.
+Select Folder
+Adjust Score
+Assign Color
+Assign Score
+BCC
+Beep
+CC
+Completed On
+Date received
+Date sent
+Deleted
+does not end with
+does not exist
+does not sound like
+does not start with
+Draft
+ends with
+exists
+Important
+is after
+is before
+is Flagged
+is not Flagged
+is not set
+is set
+Junk
+Junk Test
+Label
+Mailing list
+Match All
+Message Body
+Message Header
+Message is Junk
+Message is not Junk
+Play Sound
+Read
+Run Program
+Score
+Sender
+Set Label
+Set Status
+Size (kB)
+sounds like
+Source Account
+Specific header
+starts with
+Stop Processing
+Unset Status
+Then
+Add Ac_tion
+Folder Properties
+C_reate
+Folder _name:
+Folder names cannot contain '/'
+Moving folder %s
+Copying folder %s
+Loading...
+_Unsubscribe
+_Account:
+_Do not show this message again
+Message Filters
+Search _Folders
+All local folders
+All active remote folders
+All local and active remote folders
+Specific folders
+Select folder
+Select folder to import into
+Importing Pine data
+Evolution Pine importer
+Import mail from Pine.
+Mail to %s
+Mail from %s
+Add Filter Rule
+_Reply style:
+Digitally _sign messages when original message signed (PGP or S/MIME)
+Attachment
+Inline (Outlook style)
+Quoted
+Do Not Quote
+Pick a color
+Spell Checking
+_Use system defaults
+_Direct connection to the Internet
+Port:
+Use Authe_ntication
+Us_ername:
+Pass_word:
+_Use the same fonts as other applications
+S_tandard Font:
+color
+_Always load images from the Internet
+Labels
+No encryption
+TLS encryption
+SSL encryption
+_Flag:
+Co_mpleted
+Do Not Forward
+For Your Information
+Forward
+Reply to All
+Review
+_Accept License
+Security Information
+Invalid authentication
+Use default drafts folder?
+Use _Default
+_Empty Trash
+_Open Messages
+If you quit, these messages will not be sent until Evolution is started again.
+Enter password.
+_Disable
+Ignore
+_Overwrite
+_Append
+Unable to read license file.
+Please wait.
+Mail Deletion Failed
+{0}
+Canceling...
+Send & Receive Mail
+Cancel _All
+Updating...
+Waiting...
+Search Folders
+Edit Search Folder
+New Search Folder
+Unseen
+Seen
+Answered
+Forwarded
+Multiple Unseen Messages
+Multiple Messages
+Lowest
+Lower
+Higher
+Highest
+Generating message list
+Today %l:%M %p
+Yesterday %l:%M %p
+%a %l:%M %p
+%b %d %l:%M %p
+%b %d %Y
+Select all visible messages
+Messages
+There are no messages in this folder.
+Flagged
+Received
+Flag Status
+Recipients contain
+Message contains
+Subject contains
+Sender contains
+Body contains
+Autocompletion
+Multiple vCards
+Contact information
+Contact information for %s
+New Address Book
+Create a new contact
+Create a new contact list
+Create a new address book
+Certificates
+Address Book Properties
+Co_py All Contacts To...
+Mo_ve All Contacts To...
+_New Address Book
+Address _Book Properties
+Re_fresh
+_Rename...
+_Delete Contact
+_Forward Contact...
+_New Contact...
+New Contact _List...
+View the current contact
+_Send Message to Contact...
+_Actions
+_Preview
+_Delete
+_Properties
+Contact _Preview
+Show contact preview window
+_Classic View
+_Vertical View
+Unmatched
+Advanced Search
+Print selected contacts
+_Save as vCard...
+_Forward Contacts
+_Forward Contact
+Select name of the Evolution backup file
+_Restart Evolution after backup
+_Restart Evolution after restore
+Restore Evolution directory
+Server Information
+Authentication
+Using email address
+Searching
+Downloading
+Email:
+Selected Calendars for Alarms
+Time format:
+_24 hour
+Work Week
+Wee_k starts on:
+Work days:
+_Day begins:
+_Mon
+_Tue
+_Wed
+T_hu
+_Fri
+_Sat
+S_un
+Day _ends:
+Display
+Task List
+_Hide completed tasks after
+Display reminders in _notification area only
+Sh_ow a reminder
+before every appointment
+Show a _reminder
+Template:
+New Calendar
+Create a new appointment
+Create a new all-day appointment
+Create a new meeting request
+Create a new calendar
+Calendar and Tasks
+Print
+Calendar Properties
+This operation will permanently erase all events older than the selected amount of time. If you continue, you will not be able to recover these events.
+_Copy...
+Select today
+Select _Date
+Select a specific date
+_New Calendar
+Purg_e
+Purge old appointments and meetings
+Cop_y to Calendar...
+Delete this occurrence
+Delete all occurrences
+Mo_ve to Calendar...
+New _Appointment...
+Make this Occurrence _Movable
+_Open Appointment
+View the current appointment
+_Reply
+_Schedule Meeting...
+Day
+Show one day
+List
+Show as list
+Month
+Show one month
+Week
+Show one week
+Active Appointments
+Next 7 Days' Appointments
+Description contains
+Summary contains
+Print this calendar
+Go To
+Create a new memo
+_Open Memo
+View the selected memo
+Open _Web Page
+_Assign Task
+_Mark as Complete
+Mark selected tasks as complete
+_Mark as Incomplete
+New _Task
+Create a new task
+_Open Task
+View the selected task
+New Memo List
+Mem_o
+Create a new shared memo
+Create a new memo list
+Print Memos
+Memo List Properties
+_New Memo List
+Print the list of memos
+New Task List
+_Task
+Create a new assigned task
+Create a new task list
+Print Tasks
+Task List Properties
+_New Task List
+Delete completed tasks
+Task _Preview
+Active Tasks
+Completed Tasks
+Next 7 Days' Tasks
+Tasks with Attachments
+Print the list of tasks
+Today %H:%M
+Today %H:%M:%S
+Today %l:%M:%S %p
+Tomorrow %H:%M
+Tomorrow %H:%M:%S
+Tomorrow %l:%M %p
+Tomorrow %l:%M:%S %p
+%A
+%A %H:%M
+%A %H:%M:%S
+%A %l:%M %p
+%A %l:%M:%S %p
+%A, %B %e
+%A, %B %e %H:%M
+%A, %B %e %H:%M:%S
+%A, %B %e %l:%M %p
+%A, %B %e %l:%M:%S %p
+%A, %B %e, %Y
+%A, %B %e, %Y %H:%M
+%A, %B %e, %Y %H:%M:%S
+%A, %B %e, %Y %l:%M %p
+%A, %B %e, %Y %l:%M:%S %p
+An unknown person
+Start time:
+End time:
+_Decline all
+_Decline
+_Update Attendee Status
+_Update
+Comment:
+Send _updates to attendees
+_Apply to all instances
+Show time as _free
+_Tasks:
+Attendee status updated
+Unable to find any calendars
+Meeting information sent
+Task information sent
+Memo information sent
+The calendar attached is not valid
+To process all of these items, the file should be saved and the calendar imported
+This meeting recurs
+This task recurs
+This memo recurs
+Configuration
+_Server:
+_Port:
+User_name:
+Compose a new mail message
+Create a new mail account
+Create a new mail folder
+Mail Accounts
+Mail Preferences
+Composer Preferences
+Network Preferences
+_Download Messages for Offline Usage
+_Copy Folder To...
+Copy the selected folder into another folder
+Permanently remove this folder
+Mar_k All Messages as Read
+Mark all messages in the folder as read
+_Move Folder To...
+Move the selected folder into another folder
+_New...
+Create a new folder for storing mail
+Change the properties of this folder
+Refresh the folder
+Change the name of this folder
+Select Message _Thread
+Select Message S_ubthread
+Empty _Trash
+_New Label
+Send / _Receive
+Cancel the current mail operation
+Collapse All _Threads
+Collapse all message threads
+E_xpand All Threads
+Expand all message threads
+_Message Filters
+F_older
+_Label
+Search F_olders
+_New Folder...
+Show Message _Preview
+_Group By Threads
+Show message preview below the message list
+All Messages
+Important Messages
+Last 5 Days' Messages
+Messages Not Junk
+Messages with Attachments
+No Label
+Read Messages
+Unread Messages
+All Accounts
+Current Account
+Current Folder
+All Account Search
+Account Search
+Send / Receive
+Language(s)
+Header
+Contains Value
+Author(s)
+Plugin Manager
+Plugin
+_Plugins
+Enable and disable plugins
+HTML _Mode
+Plain Text Mode
+Keywords
+Message has no attachments
+_Edit Message
+Attachment Reminder
+Import Outlook Express messages from DBX file
+Unclassified
+Protected
+Top secret
+External Editor
+Cannot create Temporary File
+Unknown error
+Get List _Archive
+Get List _Usage Information
+Contact List _Owner
+_Post Message to List
+_Subscribe to List
+Mailing _List
+Mailing List Actions
+Action not available
+Send e-mail message to mailing list?
+_Send message
+_Edit message
+No e-mail action
+From: %s
+New email in Evolution
+_Beep
+Select sound file
+Mail Notification
+Notifies you when new mail messages arrive.
+Cannot open calendar. %s
+_Mail
+Destination folder:
+_Tasks
+Locations
+E_nable
+_Publish as:
+Service _type:
+_File:
+P_ort:
+_Username:
+_Password:
+Publishing Location
+%F %T
+Description List
+Categories List
+Comment List
+Contact List
+percent Done
+Attendees List
+Modified
+Save Selected
+%FT%T
+Select destination file
+Searches
+Save Search
+translator-credits
+Evolution Website
+Show information about Evolution
+_Close Window
+I_mport...
+Import data from other programs
+New _Window
+Exit the program
+_Advanced Search...
+_Edit Saved Searches...
+Click here to change the search type
+_Find Now
+_Save Search...
+Submit a bug report using Bug Buddy
+_Work Offline
+_Work Online
+Lay_out
+_New
+_Search
+_Switcher Appearance
+_Window
+Show Side _Bar
+Show _Status Bar
+_Icons Only
+Display window buttons with icons only
+_Text Only
+Display window buttons with text only
+Icons _and Text
+Display window buttons with icons and text
+Tool_bar Style
+Display window buttons using the desktop toolbar setting
+Save Custom View...
+Save current custom view
+C_urrent View
+Custom View
+Current view is a customized view
+Switch to %s
+New
+%s - Evolution
+Thanks The Evolution Team
+Do not tell me again
+Start in online mode
+Disable loading of any plugins.
+Certificate Name
+Serial Number
+Purposes
+Select a certificate to import...
+All files
+All PKCS12 files
+All email certificate files
+All CA certificate files
+Common Name (CN)
+Details
+Enter new password for certificate database
+Enter new password
+Select certificate
+Certificates Table
+Your Certificates
+Contact Certificates
+Certificate
+Certificate details
+Version
+Version 1
+Version 2
+Version 3
+Extensions
+%s = %s
+%d/%m/%Y
+Sign
+Encrypt
+_Address Cards
+_List View
+By _Company
+_Day View
+_Work Week View
+W_eek View
+_Month View
+_Messages
+As _Sent Folder
+By Su_bject
+By Se_nder
+By S_tatus
+_Memos
+With _Due Date
+With _Status
+Archive Manager
+Create and modify an archive
+View the folders pane
+Extract Here
+Extract To...
+Extract the selected archive
+Open
+All archives
+All files
+An archive manager for GNOME.
+translator-credits
+Could not add the files to the archive
+You don't have the right permissions to read files from folder "%s"
+Add Files
+Load Options
+Save Options
+Destination folder "%s" does not exist. Do you want to create it?
+Create _Folder
+Extraction not performed
+Could not create the destination folder: %s.
+You don't have the right permissions to extract archives in the folder "%s"
+Extract
+Archive type not supported.
+%s Properties
+Update the file "%s" in the archive "%s"?
+Update the files in the archive "%s"?
+Add files to the specified archive and quit the program
+ARCHIVE
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+FOLDER
+Extract archives asking the destination folder and quit the program
+Default folder to use for the '--add' and '--extract' commands
+Create destination folder without asking confirmation
+Extract archive
+- Create and modify an archive
+File Roller
+You don't have the right permissions.
+This archive type cannot be modified
+You can't add an archive to itself.
+Deleting files from archive
+Recompressing archive
+Decompressing archive
+Could not create the archive
+You have to specify an archive name.
+You don't have permission to create an archive in this folder
+Could not delete the old archive.
+C_reate
+_Add
+_Extract
+Folder
+[read only]
+Could not display the folder "%s"
+Getting the file list
+_Open the Archive
+Extraction completed successfully
+Command exited abnormally.
+An error occurred while extracting files.
+Could not open "%s"
+An error occurred while loading the archive.
+An error occurred while deleting files from the archive.
+An error occurred while adding files to the archive.
+An error occurred while testing archive.
+An error occurred while saving the archive.
+An error occurred.
+Command not found.
+Test Result
+Could not perform the operation
+Do you want to add this file to the current archive or open it as a new archive?
+Do you want to create a new archive with these files?
+Create _Archive
+Folders
+Size
+Type
+Modified
+Location
+Name
+Open _Recent
+Open a recently used archive
+_Location:
+Could not save the archive "%s"
+Save
+Last Output
+A folder named "%s" already exists. %s
+Please use a different name.
+A file named "%s" already exists. %s
+Rename
+_Rename
+Could not rename the folder
+Could not rename the file
+Paste Selection
+Add files to an archive
+%d %B %Y, %H:%M
+Could not display help
+Include _files:
+E_xclude files:
+_Exclude folders:
+example: *.o; *.bak
+Actions
+Add only if _newer
+View All _Files
+View as a F_older
+_Folders
+_Help
+_Password:
+Delete
+_Files:
+example: *.txt; *.doc
+_All files
+_Selected files
+Dese_lect All
+Go up one level
+_Archive
+_Edit
+_View
+_Arrange Files
+Information about the program
+Add files to the archive
+Close the current archive
+Contents
+Display the File Roller Manual
+Copy the selection
+Cut the selection
+Paste the clipboard
+Rename the selection
+Delete the selection from the archive
+Deselect all files
+Extract files from the archive
+Create a new archive
+Open archive
+Open selected files with an application
+Specify a password for this archive
+Show archive properties
+Reload current archive
+Save the current archive with a different name
+Select all files
+_Test Integrity
+Test whether the archive contains errors
+Open the selected file
+Open the selected folder
+Go to the previous visited location
+Go to the next visited location
+Go to the home location
+_Toolbar
+View the main toolbar
+Stat_usbar
+View the statusbar
+_Encrypt the file list too
+_Other Options
+Password
+_Encrypt the file list
+Archive size:
+Location:
+Compression ratio:
+Content size:
+Number of files:
+_Update
+S_elect the files you want to update:
+failed to return to initial working directory
+The size at which the current glyph is rasterized. For small pixelsize you may want to use the magnification factor below to get a clearer view. The pulldown list contains the pixelsizes at which there are device table corrections.
+Set Feature Extents
+Must be a number
+Flip Vertically
+Rotate 90° CW
+∆x
+Extender
+A really big version of this glyph may be made up of the following component glyphs. They will be stacked either horizontally or vertically. Glyphs marked as Extenders may be removed or repeated (to make shorter or longer versions). The StartLength is the length of the flat section at the start of the glyph which may be overlapped with the previous glyph, while the EndLength is the similar region at the end of the glyph. The FullLength is the full length of the glyph.
+ΤεΧ & Math
+Vert. Variants
+_Review Hints...
+Bad Multiple Master Font
+H_ints
+Sequence number out of bounds, must be less than %d (number of glyphs, classes or coverage tables)
+Base Mark
+CursEntry
+Layers
+Is Layer Editable?
+A calligraphic pen or an eliptical pen has two widths (which may be the same, giving a circular or square pen, or different giving an eliptical or rectangular pen).
+Could not find original glyph
+Cannot open feature file %.120s
+Monospace
+Latin: Text & Display
+Albanian
+Value
+HHead Descent Offset:
+Def Rule Thick:
+Use this as the default base for the filename when generating a font.
+To create a new name, left click on the <New> button, and select a locale. To change the locale, left click on it. To change the string type, left click on it. To change the text, left click in it and then type. To delete a name, right click on the name & select Delete from the menu. To associate or disassocate a truetype name to its postscript equivalent right click and select the appropriate menu item.
+C_ID Font Info...
+Too Many Breakpoints
+Your font is missing the dotlessi glyph, please add it and remake your accented glyphs
+Interpolating between %.20s and:
+Contextual Chaining Positioning
+Devanagari2
+Faroese (Icelandic)
+Unsupported filter: %s
+Attempt to make a ligature for glyph %d out of
+Off
+Thinking...
+Attempt to back up twice
+Use of "exit" when not in a loop
+Attempt to invert a singular matrix
+PS CID
+coverage
+Glyph Definition Sub-Table
+Simplify will examine corner points whose control points are almost colinear and smooth them into curve points
+Warning: Unreasonably big splines. They will be ignored.
+A free press discriminates against the illiterate.
+In the beginning was the letter...
+° Clockwise
+Background Gradient
+Save in _UCS2
+GGadget_BAR_ButtonSize_BAR_55
+invalid pc-relative address
+dangerous MULS/MULU location; give it higher alignment
+source operand must be 16bit absolute address
+IA-64 options: --mconstant-gp\t mark output file as using the constant-GP model \t\t\t (sets ELF header flag EF_IA_64_CONS_GP) --mauto-pic\t\t mark output file as using the constant-GP model \t\t\t without function descriptors (sets ELF header flag \t\t\t EF_IA_64_NOFUNCDESC_CONS_GP) -milp32_BAR_-milp64_BAR_-mlp64_BAR_-mp64\tselect data model (default -mlp64) -mle _BAR_ -mbe\t\t select little- or big-endian byte order (default -mle) -mtune=[itanium1_BAR_itanium2] \t\t\t tune for a specific CPU (default -mtune=itanium2) -munwind-check=[warning_BAR_error] \t\t\t unwind directive check (default -munwind-check=warning) -mhint.b=[ok_BAR_warning_BAR_error] \t\t\t hint.b check (default -mhint.b=error) -x _BAR_ -xexplicit\t turn on dependency violation checking
+TLS relocation not allowed in FLIX bundle
+symbol name not recognised in the current locale
+translator-credits
+Sign
+Inverse hyperbolic tangent is undefined for values outside [-1, 1]
+%s degrees
+degree,degrees,deg
+%s radians
+radian,radians,rad
+%s gradians
+Parsecs
+%s pc
+Light Years
+%s ly
+Astronomical Units
+%s au
+Nautical Miles
+%s nmi
+Miles
+%s mi
+Kilometers
+%s km
+Cables
+%s cb
+Fathoms
+%s ftm
+Meters
+%s m
+Yards
+%s yd
+Feet
+%s ft
+Inches
+%s in
+Centimeters
+%s cm
+Millimeters
+%s mm
+Micrometers
+%s μm
+Nanometers
+%s nm
+Hectares
+%s ha
+Acres
+%s acres
+Square Meters
+%s m²
+Square Centimeters
+%s cm²
+Square Millimeters
+%s mm²
+Cubic Meters
+%s m³
+Gallons
+%s gal
+Litres
+%s L
+Quarts
+%s qt
+Pints
+%s pt
+Millilitres
+%s mL
+Microlitres
+%s μL
+Tonnes
+%s T
+Kilograms
+%s kg
+Pounds
+%s lb
+Ounces
+%s oz
+Grams
+%s g
+Years
+%s years
+Days
+%s days
+Hours
+%s hours
+Minutes
+%s minutes
+Seconds
+%s s
+Milliseconds
+%s ms
+Microseconds
+%s μs
+Celsius
+%s ˚C
+Farenheit
+%s ˚F
+Kelvin
+%s K
+Rankine
+%s ˚R
+Failed to open file '%s': %s
+Image file '%s' contains no data
+Image type '%s' is not supported
+Unrecognized image file format
+Failed to load image '%s': %s
+Error writing to image file: %s
+Failed to open temporary file
+Failed to read from temporary file
+Failed to open '%s' for writing: %s
+Image header corrupt
+Image format unknown
+Invalid header in animation
+The ANI image format
+The BMP image format
+The ICO image format
+The JPEG image format
+Couldn't save
+File does not appear to be a GIF file
+The ICNS image format
+Unsupported icon type
+Image type currently not supported
+The JPEG 2000 image format
+The PCX image format
+Fatal error in PNG image file: %s
+Text Editor
+Edit text files
+Use Default Font
+Editor Font
+Create Backup Copies
+Line Wrapping Mode
+Tab Size
+Insert spaces
+Display Line Numbers
+Highlight Current Line
+Display Right Margin
+Right Margin Position
+Toolbar is Visible
+Status Bar is Visible
+Maximum Recent Files
+Print Header
+Print Line Numbers
+Body Font for Printing
+Header Font for Printing
+Line Number Font for Printing
+Specifies the font to use for line numbers when printing. This will only take effect if the "Print Line Numbers" option is non-zero.
+Encodings shown in menu
+Active plugins
+ENCODING
+- Edit text files
+Question
+Close _without Saving
+If you don't save, changes from the last minute will be permanently lost.
+If you don't save, changes from the last hour will be permanently lost.
+Saving has been disabled by the system administrator.
+Docum_ents with unsaved changes:
+S_elect the documents you want to save:
+If you don't save, all your changes will be permanently lost.
+Loading file '%s'…
+Open
+The file "%s" is read-only.
+_Replace
+Saving file '%s'…
+gedit is a small and lightweight text editor for the GNOME Desktop
+translator-credits
+Documents
+Unicode
+Western
+Central European
+South European
+Baltic
+Cyrillic
+Arabic
+Greek
+Hebrew Visual
+Turkish
+Nordic
+Celtic
+Romanian
+Armenian
+Chinese Traditional
+Cyrillic/Russian
+Japanese
+Korean
+Chinese Simplified
+Georgian
+Hebrew
+Cyrillic/Ukrainian
+Vietnamese
+Thai
+Unknown
+Current Locale (%s)
+A_vailable encodings:
+_Description
+_Encoding
+E_ncodings shown in menu:
+All Files
+All Text Files
+_Retry
+The file is too big.
+You do not have the permissions necessary to open the file.
+Please check that you are not trying to open a binary file.
+S_ave Anyway
+D_on't Save
+If you save it, all the external changes could be lost. Save it anyway?
+A file with the same name already exists. Please use a different name.
+Could not save the file “%s”.
+_Reload
+_Help
+_About
+_Move to New Window
+Save _As...
+_Print...
+Open a file
+Open a recently used file
+Empty
+Hide panel
+The selected color scheme cannot be installed.
+Add Scheme
+A_dd Scheme
+Color Scheme Files
+Could not remove color scheme "%s".
+gedit Preferences
+_Display line numbers
+Enable text _wrapping
+Highlight current _line
+View
+_Tab width:
+Insert _spaces instead of tabs
+_Enable automatic indentation
+Create a _backup copy of files before saving
+_Autosave files every
+_minutes
+Editor
+Editor _font:
+Pick the editor font
+Font & Colors
+Plugins
+File: %s
+Page %N of %Q
+Preparing...
+Print line nu_mbers
+lines
+Print page _headers
+_Body:
+_Line numbers:
+He_aders and footers:
+_Restore Default Fonts
+Page %d of %d
+Show the previous page
+Show the next page
+Current page (Alt+P)
+of
+Page total
+The total number of pages in the document
+Show multiple pages
+Zoom 1:1
+Zoom to fit the whole page
+Zoom the page in
+Zoom the page out
+Close print preview
+_Close Preview
+Page Preview
+The preview of a page in the document to be printed
+Replace
+Replace _All
+_Search for:
+Replace _with:
+_Match case
+Match _entire word only
+Search _backwards
+INS
+Ln %d, Col %d
+Loading %s from %s
+Loading %s
+Saving %s to %s
+Saving %s
+RO
+Error opening file %s
+Error saving file %s
+Unicode (UTF-8)
+Name:
+MIME Type:
+Encoding:
+Close document
+_File
+_Edit
+_View
+_Search
+_Tools
+_Documents
+Create a new document
+_Open...
+Pr_eferences
+Configure the application
+_Contents
+Open the gedit manual
+About this application
+Save the current file
+Save the current file with a different name
+Print Previe_w
+Print preview
+Print the current page
+Undo the last action
+Cut the selection
+Copy the selection
+Paste the clipboard
+Delete the selected text
+Select _All
+Select the entire document
+_Find...
+Search for text
+Find Ne_xt
+Search forwards for the same text
+Find Pre_vious
+Search backwards for the same text
+_Replace...
+Search for and replace text
+_Clear Highlight
+Clear highlighting of search matches
+Go to _Line...
+Go to a specific line
+_Save All
+Save all open files
+_Close All
+Close all open files
+_Previous Document
+Activate previous document
+Activate next document
+Move the current document to a new window
+Close the current file
+Quit the program
+_Toolbar
+Show or hide the toolbar in the current window
+_Statusbar
+Show or hide the statusbar in the current window
+Please check your installation.
+%d of %d
+_Wrap Around
+Match as _Regular Expression
+Match _Entire Word Only
+_Match Case
+String you want to search for
+Line you want to move the cursor to
+Open '%s'
+Save
+Find
+Activate '%s'
+Change Case
+Changes the case of selected text.
+C_hange Case
+All _Upper Case
+Change selected text to upper case
+All _Lower Case
+Change selected text to lower case
+_Title Case
+Capitalize the first letter of each selected word
+_Update
+Document
+Selection
+Lines
+Words
+Characters (with spaces)
+Characters (no spaces)
+Bytes
+Build
+Open terminal here
+Open a terminal in the document location
+Run command
+External Tools
+Running tool:
+Done.
+New tool
+All documents
+All documents except untitled ones
+Local files only
+Remote files only
+Untitled documents only
+Nothing
+Current document
+Current selection
+Current line
+Current word
+Display in bottom pane
+Create new document
+Append to current document
+Replace current document
+Replace current selection
+Insert at cursor position
+_Tools:
+_Edit:
+_Output:
+_Input:
+_Save:
+Opens the External Tools Manager
+File System
+_New Folder
+New F_ile
+_Delete
+Re_fresh View
+_View Folder
+_Filter
+Show _Hidden
+Show _Binary
+File Browser
+An error occurred while creating a new directory
+An error occurred while creating a new file
+An error occurred while renaming a file or directory
+An error occurred while deleting a file or directory
+An error occurred while opening a directory in the file manager
+An error occurred while setting a root directory
+An error occurred while loading a directory
+An error occurred
+The file "%s" cannot be moved to the trash.
+The selected files cannot be moved to the trash.
+Are you sure you want to permanently delete "%s"?
+Are you sure you want to permanently delete the selected files?
+If you delete an item, it is permanently lost.
+(Empty)
+Bookmarks
+Python Console
+The following files could not be imported: %s
+All supported archives
+Gzip compressed archive
+All files
+Type a new shortcut
+Activation
+S_ort...
+Sort
+_Sort
+R_emove duplicates
+_Ignore case
+S_tart at column:
+Sorts a document or selected text.
+(no suggested words)
+_More...
+_Ignore All
+_Add
+_Spelling Suggestions...
+Check Spelling
+Suggestions
+(correct spelling)
+Completed spell checking
+%s (%s)
+Unknown (%s)
+Set language
+Languages
+Check the current document for incorrect spelling
+Set _Language...
+Set the language of the current document
+Automatically spell-check the current document
+The document is empty.
+No misspelled words
+Select the _language of the current document.
+Check spelling
+Change _to:
+Check _Word
+_Suggestions:
+_Ignore
+Cha_nge
+Ignore _All
+Change A_ll
+User dictionary:
+Add w_ord
+Language:
+Spell Checker
+Checks the spelling of the current document.
+Insert Date and Time
+Use the _selected format
+_Use custom format
+_Insert
+In_sert Date and Time...
+Insert current date and time at the cursor position
+Available formats
+Configure date/time plugin
+_Prompt for a format
+Insert Date/Time
+Inserts current date and time at the cursor position.
+When --variables is used, standard input is ignored, and the output consists of the environment variables that are referenced in SHELL-FORMAT, one per line.
+%s subprocess terminated with exit code %d
+-V, --version output version information and exit
+The new message catalog should contain your email address, so that users can give you feedback about the translations, and so that maintainers can contact you in case of unexpected technical problems.
+Written by %s and %s.
+Gradient Selection
+percent
+_White (full opacity)
+_Black (full transparency)
+Layer's _alpha channel
+_Transfer layer's alpha channel
+_Selection
+_Grayscale copy of layer
+C_hannel
+FG to BG (RGB)
+FG to BG (HSV)
+FG to transparent
+Custom gradient
+FG color fill
+BG color fill
+Pattern fill
+Add to the current selection
+Subtract from the current selection
+Replace the current selection
+Intersect with the current selection
+Red
+Green
+Blue
+Gray
+Indexed
+Alpha
+Small
+Medium
+Large
+Light checks
+Mid-tone checks
+Dark checks
+White only
+Gray only
+Black only
+Image
+Pattern
+Lightness
+Luminosity
+Average
+Dodge
+Burn
+Linear
+Bi-linear
+Radial
+Square
+Conical (sym)
+Conical (asym)
+Shaped (angular)
+Shaped (spherical)
+Shaped (dimpled)
+Spiral (cw)
+Spiral (ccw)
+Intersections (dots)
+Intersections (crosshairs)
+Dashed
+Double dashed
+Solid
+Stock ID
+Inline pixbuf
+Image file
+RGB color
+Grayscale
+Indexed color
+RGB
+RGB-alpha
+Grayscale-alpha
+Indexed-alpha
+Cubic
+Sinc (Lanczos3)
+Constant
+Incremental
+Sawtooth wave
+Triangular wave
+Run interactively
+Run non-interactively
+Run with last used values
+Pixels
+Points
+Shadows
+Midtones
+Highlights
+Normal (Forward)
+Corrective (Backward)
+Adjust
+Clip
+Crop to result
+Crop with aspect
+Internal GIMP procedure
+GIMP Plug-In
+GIMP Extension
+Temporary Procedure
+From left to right
+From right to left
+Slight
+Full
+Left justified
+Right justified
+Centered
+The color to use for marking colors which are out of gamut.
+No color management
+Color managed display
+Print simulation
+Perceptual
+Relative colorimetric
+Saturation
+Select color profile from disk...
+_Randomize
+Disabled
+Screen
+Window
+Portrait
+Landscape
+Hue
+Value
+Layers
+Images
+Zoom in
+Context
+From:
+Align Visible Layers
+Snap to grid
+Animation Playback:
+_Vertical
+Blur Type
+_Linear
+_Radial
+Channel Mi_xer...
+sin^p, stepped
+Color to Alpha
+Text antialiasing
+Data Compression
+_License:
+_Filename:
+_To:
+Use magnitude map
+Large
+Image Composing
+GFLI 1.3 - Load framestack
+wget exited abnormally on URI '%s'
+Sine
+Horizontal gradient
+Show image
+Find:
+_Previous
+Color:
+C_enter:
+Printing
+Brush Editor
+Paint Dynamics
+Paint Dynamics Editor
+Edit
+Gradient Editor
+Image
+Palette Editor
+Quick Mask
+%s: %d
+Brush Editor Menu
+Edit Active Brush
+Brushes Menu
+_Open Brush as Image
+Open brush as image
+_New Brush
+Create a new brush
+D_uplicate Brush
+Duplicate this brush
+Copy Brush _Location
+Copy brush file location to clipboard
+_Delete Brush
+Delete this brush
+_Refresh Brushes
+Refresh brushes
+_Edit Brush...
+Edit this brush
+Buffers Menu
+_Paste Buffer
+Paste the selected buffer
+Paste Buffer _Into
+Paste the selected buffer into the selection
+Paste Buffer as _New
+Paste the selected buffer as a new image
+_Delete Buffer
+Delete the selected buffer
+Channels Menu
+_Edit Channel Attributes...
+Edit the channel's name, color and opacity
+_New Channel...
+Create a new channel
+_New Channel
+Create a new channel with last used values
+D_uplicate Channel
+Create a duplicate of this channel and add it to the image
+_Delete Channel
+Delete this channel
+_Raise Channel
+Raise this channel one step in the channel stack
+Raise Channel to _Top
+Raise this channel to the top of the channel stack
+_Lower Channel
+Lower this channel one step in the channel stack
+Lower Channel to _Bottom
+Lower this channel to the bottom of the channel stack
+Channel to Sele_ction
+Replace the selection with this channel
+_Add to Selection
+Add this channel to the current selection
+_Subtract from Selection
+Subtract this channel from the current selection
+_Intersect with Selection
+%s Channel Copy
+Colormap Menu
+_Edit Color...
+Edit this color
+_Add Color from FG
+Add current foreground color
+_Add Color from BG
+Edit Colormap Entry
+Use _GEGL
+If possible, use GEGL for image processing
+_Context
+_Colors
+_Opacity
+Paint _Mode
+_Tool
+_Palette
+_Font
+_Shape
+_Radius
+S_pikes
+_Hardness
+_Aspect Ratio
+A_ngle
+_Default Colors
+Set foreground color to black, background color to white
+S_wap Colors
+Brush Angle: %2.2f
+Pointer Information Menu
+Use the composite color of all visible layers
+Untitled
+Tool_box
+Tool _Options
+Open the tool options dialog
+_Device Status
+Open the device status dialog
+_Layers
+Open the layers dialog
+_Channels
+Open the channels dialog
+_Paths
+Open the paths dialog
+Color_map
+Open the colormap dialog
+Histogra_m
+Open the histogram dialog
+_Selection Editor
+Open the selection editor
+Na_vigation
+Open the display navigation dialog
+Undo _History
+Open the undo history dialog
+Open the pointer information dialog
+_Sample Points
+Open the sample points dialog
+Colo_rs
+Open the FG/BG color dialog
+_Brushes
+Open the brushes dialog
+Open the brush editor
+Open paint dynamics dialog
+Open the paint dynamics editor
+P_atterns
+Open the patterns dialog
+_Gradients
+Open the gradients dialog
+Open the gradient editor
+Pal_ettes
+Open the palettes dialog
+Open the palette editor
+Tool presets
+Open tool presets dialog
+_Fonts
+Open the fonts dialog
+B_uffers
+Open the named buffers dialog
+_Images
+Open the images dialog
+Document Histor_y
+Open the document history dialog
+_Templates
+Open the image templates dialog
+Error Co_nsole
+Open the error console
+_Preferences
+Open the preferences dialog
+_Input Devices
+Open the input devices editor
+_Keyboard Shortcuts
+Open the keyboard shortcuts editor
+_Modules
+Open the module manager dialog
+_Tip of the Day
+Show some helpful tips on using GIMP
+_About
+Create a new toolbox
+M_ove to Screen
+Close Dock
+_Open Display...
+Connect to another display
+_Show Image Selection
+Auto _Follow Active Image
+Dialogs Menu
+_Add Tab
+_Preview Size
+_Tab Style
+_Close Tab
+_Detach Tab
+_Tiny
+E_xtra Small
+_Small
+_Medium
+_Large
+Ex_tra Large
+_Huge
+_Enormous
+_Gigantic
+_Icon
+Current _Status
+_Text
+I_con & Text
+St_atus & Text
+Automatic
+Loc_k Tab to Dock
+Protect this tab from being dragged with the mouse pointer
+Show _Button Bar
+View as _List
+View as _Grid
+Documents Menu
+_Open Image
+Open the selected entry
+_Raise or Open Image
+Raise window if already open
+File Open _Dialog
+Open image dialog
+Copy Image _Location
+Copy image location to clipboard
+Remove _Entry
+Remove the selected entry
+_Clear History
+Clear the entire document history
+Recreate _Preview
+Recreate preview
+Reload _all Previews
+Reload all previews
+Remove Dangling E_ntries
+Clearing the document history will permanently remove all images from the recent documents list.
+_Equalize
+Automatic contrast enhancement
+In_vert
+Invert the colors
+_White Balance
+Automatic white balance correction
+_Offset...
+Shift the pixels, optionally wrapping them at the borders
+_Visible
+Toggle visibility
+_Linked
+Toggle the linked state
+L_ock pixels
+Keep the pixels on this drawable from being modified
+Flip _Horizontally
+Flip horizontally
+Flip _Vertically
+Flip vertically
+Rotate 90° _clockwise
+Rotate 90 degrees to the right
+Rotate _180°
+Turn upside-down
+Rotate 90° counter-clock_wise
+White Balance operates only on RGB color layers.
+Paint Dynamics Menu
+_New Dynamics
+Create a new dynamics
+D_uplicate Dynamics
+Duplicate this dynamics
+Copy Dynamics _Location
+Copy dynamics file location to clipboard
+_Delete Dynamics
+Delete this dynamics
+_Refresh Dynamics
+Refresh dynamics
+_Edit Dynamics...
+Edit dynamics
+Paint Dynamics Editor Menu
+Edit Active Dynamics
+_Edit
+Paste _as
+_Buffer
+Undo History Menu
+Undo the last operation
+Redo the last operation that was undone
+Strong Undo
+Undo the last operation, skipping visibility changes
+Strong Redo
+Redo the last operation that was undone, skipping visibility changes
+_Clear Undo History
+Remove all operations from the undo history
+Modify paint mode and opacity of the last pixel manipulation
+Cu_t
+Move the selected pixels to the clipboard
+_Copy
+Copy the selected pixels to the clipboard
+Copy _Visible
+Copy what is visible in the selected region
+_Paste
+Paste the content of the clipboard
+Paste _Into
+Paste the content of the clipboard into the current selection
+From _Clipboard
+Create a new image from the content of the clipboard
+_New Image
+New _Layer
+Create a new layer from the content of the clipboard
+Cu_t Named...
+Move the selected pixels to a named buffer
+_Copy Named...
+Copy the selected pixels to a named buffer
+Copy _Visible Named...
+Copy what is visible in the selected region to a named buffer
+_Paste Named...
+Paste the content of a named buffer
+Cl_ear
+Clear the selected pixels
+Fill with _FG Color
+Fill the selection using the foreground color
+Fill with B_G Color
+Fill the selection using the background color
+Fill _with Pattern
+There is no active layer or channel to copy from.
+Error Console Menu
+_Clear
+Clear error console
+Select _All
+Select all error messages
+_Save Error Log to File...
+Write all error messages to a file
+Save S_election to File...
+Error writing file '%s': %s
+_File
+Crea_te
+Open _Recent
+_Open...
+Open an image file
+Op_en as Layers...
+Open an image file as layers
+Open _Location...
+Open an image file from a specified location
+Create Template...
+Create a new template from this image
+Re_vert
+Reload the image file from disk
+Close all
+Close all opened images
+_Quit
+Quit the GNU Image Manipulation Program
+_Save
+Save this image
+Save _As...
+Save this image with a different name
+Save a Cop_y...
+Save a copy of this image, without affecting the source file (if any) or the current state of the image
+Save and Close...
+Save this image and close its window
+Export the image again
+Over_write
+Export the image back to the imported file in the import format
+Export As...
+Reverting to '%s' failed: %s
+Fonts Menu
+_Rescan Font List
+Rescan the installed fonts
+Gradient Editor Menu
+Left Color Type
+_Load Left Color From
+_Save Left Color To
+Right Color Type
+Load Right Color Fr_om
+Sa_ve Right Color To
+L_eft Endpoint's Color...
+R_ight Endpoint's Color...
+Ble_nd Endpoints' Colors
+Blend Endpoints' Opacit_y
+Edit Active Gradient
+_Left Neighbor's Right Endpoint
+_Right Endpoint
+_Foreground Color
+_Background Color
+_Right Neighbor's Left Endpoint
+_Left Endpoint
+_Fixed
+F_oreground Color
+Fo_reground Color (Transparent)
+B_ackground Color (Transparent)
+_Linear
+_Curved
+_Sinusoidal
+Spherical (i_ncreasing)
+Spherical (_decreasing)
+_RGB
+HSV (_counter-clockwise hue)
+HSV (clockwise _hue)
+Zoom In
+Zoom in
+Zoom Out
+Zoom out
+Select the number of uniform parts in which to split the segments in the selection.
+Gradients Menu
+_New Gradient
+Create a new gradient
+D_uplicate Gradient
+Duplicate this gradient
+Copy Gradient _Location
+Copy gradient file location to clipboard
+Save as _POV-Ray...
+Save gradient as POV-Ray
+_Delete Gradient
+Delete this gradient
+_Refresh Gradients
+Refresh gradients
+_Edit Gradient...
+Save '%s' as POV-Ray
+_Help
+Open the GIMP user manual
+_Context Help
+Show the help for a specific user interface item
+Image Menu
+_Image
+_Mode
+_Transform
+_Guides
+I_nfo
+_Map
+C_omponents
+_New...
+Create a new image
+Can_vas Size...
+Adjust the image dimensions
+Fit Canvas to L_ayers
+Resize the image to enclose all layers
+F_it Canvas to Selection
+Resize the image to the extents of the selection
+_Print Size...
+Adjust the print resolution
+_Scale Image...
+Change the size of the image content
+_Crop to Selection
+Crop the image to the extents of the selection
+_Duplicate
+Create a duplicate of this image
+Merge Visible _Layers...
+Merge all visible layers into one layer
+_Flatten Image
+Merge all layers into one and remove transparency
+Configure G_rid...
+Configure the grid for this image
+Image Pr_operties
+Display information about this image
+Convert the image to the RGB colorspace
+_Grayscale
+Convert the image to grayscale
+_Indexed...
+Convert the image to indexed colors
+Flip image horizontally
+Flip image vertically
+Rotate the image 90 degrees to the right
+Turn the image upside-down
+Scaling
+Images Menu
+_Raise Views
+Raise this image's displays
+_New View
+Create a new display for this image
+_Delete Image
+Delete this image
+Layers Menu
+_Layer
+Stac_k
+_Mask
+Tr_ansparency
+_Properties
+Layer _Mode
+Te_xt Tool
+Activate the text tool on this text layer
+_Edit Layer Attributes...
+Edit the layer's name
+_New Layer...
+Create a new layer and add it to the image
+_New Layer
+Create a new layer with last used values
+New from _Visible
+Create a new layer from what is visible in this image
+New Layer _Group...
+Create a new layer group and add it to the image
+D_uplicate Layer
+Create a duplicate of the layer and add it to the image
+_Delete Layer
+Delete this layer
+_Raise Layer
+Raise this layer one step in the layer stack
+Layer to _Top
+Move this layer to the top of the layer stack
+_Lower Layer
+Lower this layer one step in the layer stack
+Layer to _Bottom
+Move this layer to the bottom of the layer stack
+_Anchor Layer
+Anchor the floating layer
+Merge Do_wn
+Merge this layer with the first visible layer below it
+Merge Layer Group
+Merge the layer group's layers into one normal layer
+Merge _Visible Layers...
+_Discard Text Information
+Turn this text layer into a normal layer
+Text to _Path
+Create a path from this text layer
+Text alon_g Path
+Warp this layer's text along the current path
+Layer B_oundary Size...
+Adjust the layer dimensions
+Layer to _Image Size
+Resize the layer to the size of the image
+_Scale Layer...
+Change the size of the layer content
+Crop the layer to the extents of the selection
+Add La_yer Mask...
+Add a mask that allows non-destructive editing of transparency
+Add Alpha C_hannel
+Add transparency information to the layer
+_Remove Alpha Channel
+Remove transparency information from the layer
+Lock Alph_a Channel
+Keep transparency information on this layer from being modified
+_Edit Layer Mask
+Work on the layer mask
+S_how Layer Mask
+_Disable Layer Mask
+Dismiss the effect of the layer mask
+Apply Layer _Mask
+Apply the effect of the layer mask and remove it
+Delete Layer Mas_k
+Remove the layer mask and its effect
+_Mask to Selection
+Replace the selection with the layer mask
+Add the layer mask to the current selection
+Subtract the layer mask from the current selection
+Intersect the layer mask with the current selection
+Al_pha to Selection
+Replace the selection with the layer's alpha channel
+A_dd to Selection
+Add the layer's alpha channel to the current selection
+Subtract the layer's alpha channel from the current selection
+Intersect the layer's alpha channel with the current selection
+Select _Top Layer
+Select the topmost layer
+Select _Bottom Layer
+Select the bottommost layer
+Select _Previous Layer
+Select the layer above the current layer
+Select _Next Layer
+Shortcut:
+-Click on thumbnail in Layers dockable
+Layer
+Scale Layer
+Add Layer Mask
+Palette Editor Menu
+Edit this entry
+_Delete Color
+Delete this entry
+Edit Active Palette
+New Color from _FG
+Create a new entry from the foreground color
+New Color from _BG
+Zoom _In
+Zoom _Out
+Edit Color Palette Entry
+Palettes Menu
+_New Palette
+Create a new palette
+_Import Palette...
+Import palette
+D_uplicate Palette
+Duplicate this palette
+_Merge Palettes...
+Merge palettes
+Copy Palette _Location
+Copy palette file location to clipboard
+_Delete Palette
+Delete this palette
+_Refresh Palettes
+Refresh palettes
+_Edit Palette...
+Enter a name for the merged palette
+Patterns Menu
+_Open Pattern as Image
+Open this pattern as an image
+_New Pattern
+Create a new pattern
+D_uplicate Pattern
+Duplicate this pattern
+Copy Pattern _Location
+Copy pattern file location to clipboard
+_Delete Pattern
+Delete this pattern
+_Refresh Patterns
+Refresh patterns
+_Edit Pattern...
+Edit pattern
+Filte_rs
+Recently Used
+_Blur
+_Noise
+Edge-De_tect
+En_hance
+C_ombine
+_Generic
+_Light and Shadow
+_Distorts
+_Artistic
+_Decor
+_Render
+_Clouds
+_Nature
+_Web
+An_imation
+Reset all _Filters
+Reset all plug-ins to their default settings
+Re_peat Last
+Rerun the last used plug-in using the same settings
+R_e-Show Last
+Do you really want to reset all filters to default values?
+Quick Mask Menu
+_Configure Color and Opacity...
+Toggle _Quick Mask
+Toggle Quick Mask on/off
+Mask _Selected Areas
+_Mask opacity:
+Sample Point Menu
+Selection Editor Menu
+_Select
+_All
+Select everything
+_None
+Dismiss the selection
+_Invert
+Invert the selection
+_Float
+Create a floating selection
+Fea_ther...
+Blur the selection border so that it fades out smoothly
+_Sharpen
+Remove fuzziness from the selection
+S_hrink...
+Contract the selection
+_Grow...
+Enlarge the selection
+Bo_rder...
+Replace the selection by its border
+Save to _Channel
+Save the selection to a channel
+_Stroke Selection...
+Paint along the selection outline
+_Stroke Selection
+Feather Selection
+Grow Selection
+Border Selection
+Stroke Selection
+Templates Menu
+_Create Image from Template
+Create a new image from the selected template
+_New Template...
+Create a new template
+D_uplicate Template...
+Duplicate this template
+_Edit Template...
+Edit this template
+_Delete Template
+Are you sure you want to delete template '%s' from the list and from disk?
+Open
+Load text from file
+Clear
+Clear all text
+LTR
+From left to right
+RTL
+From right to left
+Could not open '%s' for reading: %s
+Text Tool Menu
+Input _Methods
+_Delete
+_Open text file...
+_Path from Text
+Create a path from the outlines of the current text
+Text _along Path
+Bend the text along the currently active path
+Tool Options Menu
+_Save Tool Preset
+_Restore Tool Preset
+E_dit Tool Preset
+_Delete Tool Preset
+_New Tool Preset...
+R_eset Tool Options
+Reset to default values
+Reset _all Tool Options
+Do you really want to reset all tool options to default values?
+Tool Presets Menu
+_New Tool Preset
+Create a new tool preset
+D_uplicate Tool Preset
+Duplicate this tool preset
+Copy Tool Preset _Location
+Copy tool preset file location to clipboard
+Delete this tool preset
+_Refresh Tool Presets
+Refresh tool presets
+_Edit Tool Preset...
+Edit this tool preset
+Tool Preset Editor Menu
+Edit Active Tool Preset
+_Tools
+_Selection Tools
+_Paint Tools
+_Transform Tools
+_Color Tools
+_By Color
+Select regions with similar colors
+_Arbitrary Rotation...
+Rotate by an arbitrary angle
+Paths Menu
+Path _Tool
+_Edit Path Attributes...
+Edit path attributes
+_New Path...
+Create a new path...
+_New Path with last values
+Create a new path with last used values
+D_uplicate Path
+Duplicate this path
+_Delete Path
+Delete this path
+Merge _Visible Paths
+_Raise Path
+Raise this path
+Raise Path to _Top
+Raise this path to the top
+_Lower Path
+Lower this path
+Lower Path to _Bottom
+Lower this path to the bottom
+Stro_ke Path...
+Paint along the path
+Stro_ke Path
+Paint along the path with last values
+Co_py Path
+Paste Pat_h
+E_xport Path...
+I_mport Path...
+L_ock strokes
+Path to Sele_ction
+Path to selection
+Fr_om Path
+Replace selection with path
+Add path to selection
+Subtract path from selection
+Intersect path with selection
+Selecti_on to Path
+Selection to path
+To _Path
+Selection to Path (_Advanced)
+Path
+Stroke Path
+_View
+_Padding Color
+Move to Screen
+Create another view on this image
+_Close View
+Close the active image view
+_Fit Image in Window
+Adjust the zoom ratio so that the image becomes fully visible
+Fi_ll Window
+Adjust the zoom ratio so that the entire window is used
+Restore the previous zoom level
+Na_vigation Window
+Show an overview window for this image
+Display _Filters...
+Configure filters applied to this view
+Shrink _Wrap
+Reduce the image window to the size of the image display
+_Dot for Dot
+A pixel on the screen represents an image pixel
+Show _Selection
+Display the selection outline
+Show _Layer Boundary
+Draw a border around the active layer
+Show _Guides
+Display the image's guides
+S_how Grid
+Display the image's grid
+Show Sample Points
+Display the image's color sample points
+Sn_ap to Guides
+Tool operations snap to guides
+Sna_p to Grid
+Tool operations snap to the grid
+Snap to _Canvas Edges
+Tool operations snap to the canvas edges
+Snap t_o Active Path
+Tool operations snap to the active path
+Show _Menubar
+Show this window's menubar
+Show R_ulers
+Show this window's rulers
+Show Scroll_bars
+Show this window's scrollbars
+Show S_tatusbar
+Show this window's statusbar
+Fullscr_een
+Toggle fullscreen view
+Use GEGL
+Use GEGL to create this window's projection
+1_6:1 (1600%)
+Zoom 16:1
+_8:1 (800%)
+Zoom 8:1
+_4:1 (400%)
+Zoom 4:1
+_2:1 (200%)
+Zoom 2:1
+_1:1 (100%)
+Zoom 1:1
+1:_2 (50%)
+Zoom 1:2
+1:_4 (25%)
+Zoom 1:4
+1:_8 (12.5%)
+Zoom 1:8
+1:1_6 (6.25%)
+Zoom 1:16
+Othe_r...
+Set a custom zoom factor
+From _Theme
+Use the current theme's background color
+_Light Check Color
+Use the light check color
+_Dark Check Color
+Use the dark check color
+Select _Custom Color...
+Use an arbitrary color
+As in _Preferences
+Move this window to screen %s
+_Windows
+_Recently Closed Docks
+_Dockable Dialogs
+Next Image
+Switch to the next image
+Previous Image
+Switch to the previous image
+Hide Docks
+When enabled docks and other dialogs are hidden, leaving only image windows.
+Single-Window Mode
+When enabled GIMP is in a single-window mode.
+Smooth
+Freehand
+Value
+Alpha
+RGB
+Normal
+Dissolve
+Behind
+Multiply
+Screen
+Overlay
+Difference
+Addition
+Subtract
+Darken only
+Lighten only
+Hue
+Saturation
+Color
+Divide
+Dodge
+Burn
+Hard light
+Soft light
+Grain extract
+Grain merge
+Color erase
+Erase
+Replace
+Failed to resize swap file: %s
+Tool icon
+Tool icon with crosshair
+Crosshair only
+From theme
+Light check color
+Dark check color
+Custom color
+No action
+Pan view
+Switch to Move tool
+Low
+High
+GIMP help browser
+Web browser
+Normal window
+Utility window
+Keep above
+Black & white
+Fancy
+Left-handed
+value for token %s is not a valid UTF-8 string
+Floyd-Steinberg (normal)
+Floyd-Steinberg (reduced color bleeding)
+Positioned
+Generate optimum palette
+Use web-optimized palette
+Use black and white (1-bit) palette
+Use custom palette
+First item
+Selection
+Active layer
+Active channel
+Active path
+Foreground color
+Background color
+White
+Pattern
+Solid color
+Stroke line
+Stroke with a paint tool
+Miter
+Round
+Bevel
+Butt
+Square
+Custom
+Line
+Long dashes
+Medium dashes
+Short dashes
+Sparse dots
+Normal dots
+Dense dots
+Stipples
+Dash, dot
+Dash, dot, dot
+Circle
+Unknown
+All layers
+Image-sized layers
+All visible layers
+All linked layers
+Tiny
+Very small
+Small
+Medium
+Large
+Very large
+Huge
+Enormous
+Gigantic
+View as list
+View as grid
+No thumbnails
+Normal (128x128)
+Large (256x256)
+<<invalid>>
+Scale image
+Resize image
+Flip image
+Rotate image
+Crop image
+Convert image
+Remove item
+Merge layers
+Merge paths
+Guide
+Sample Point
+Layer/Channel
+Layer/Channel modification
+Selection mask
+Item visibility
+Link/Unlink item
+Item properties
+Move item
+Scale item
+Resize item
+Add layer
+Add layer mask
+Apply layer mask
+Floating selection to layer
+Float selection
+Anchor floating selection
+Paste
+Cut
+Text
+Transform
+Attach parasite
+Remove parasite
+Import paths
+Image type
+Image size
+Image resolution change
+Change indexed palette
+Reorder item
+Rename item
+New layer
+Delete layer
+Set layer mode
+Set layer opacity
+Lock/Unlock alpha channel
+Suspend group layer resize
+Resume group layer resize
+Convert group layer
+Text layer
+Text layer modification
+Delete layer mask
+Show layer mask
+New channel
+Delete channel
+Channel color
+New path
+Delete path
+Path modification
+Select foreground
+Not undoable
+Composite
+Message
+Warning
+Error
+Ask what to do
+Keep embedded profile
+Convert to RGB workspace
+Size
+Force
+Pasted Layer
+Fill with Foreground Color
+Fill with Background Color
+Fill with White
+Fill with Transparency
+FG to Transparent
+Fatal parse error in brush file '%s': File is corrupt.
+Rounded Rectangle Select
+Alpha to Selection
+%s Channel to Selection
+Rename Channel
+Move Channel
+Scale Channel
+Resize Channel
+Flip Channel
+Rotate Channel
+Transform Channel
+Stroke Channel
+Channel to Selection
+Reorder Channel
+Raise Channel
+Raise Channel to Top
+Lower Channel
+Channel cannot be lowered more.
+Feather Channel
+Sharpen Channel
+Clear Channel
+Fill Channel
+Invert Channel
+Border Channel
+Grow Channel
+Cannot stroke empty channel.
+Set Channel Color
+Failed to load data: %s
+No patterns available for this operation.
+Desaturate
+Levels
+Not enough points to fill
+Threshold
+Transformation
+Layer Group
+Rename Layer Group
+Move Layer Group
+Scale Layer Group
+Resize Layer Group
+Flip Layer Group
+Rotate Layer Group
+Transform Layer Group
+Colormap of Image #%d (%s)
+Set Colormap
+Unset Colormap
+Change Colormap entry
+Cannot convert image: palette is empty.
+Convert Image to RGB
+Convert Image to Grayscale
+Converting to indexed colors (stage 3)
+Crop Image
+Resize Image
+Add Horizontal Guide
+Add Vertical Guide
+Move Guide
+Translate Items
+Flip Items
+Rotate Items
+Transform Items
+Merge Visible Layers
+There is no visible layer to merge down to.
+Merge Down
+Background
+Enable Quick Mask
+Disable Quick Mask
+Add Sample Point
+Move Sample Point
+(imported)
+Change Image Resolution
+Change Image Unit
+Attach Parasite to Image
+Remove Parasite from Image
+Add Layer
+Remove Layer
+Remove Floating Selection
+Add Channel
+Remove Channel
+Add Path
+Could not open thumbnail '%s': %s
+Attach Parasite
+Attach Parasite to Item
+Set Item Exclusive Linked
+Cannot create a new layer from the floating selection because it belongs to a layer mask or channel.
+Floating Selection to Layer
+Rename Layer
+Resize Layer
+Flip Layer
+Rotate Layer
+Reorder Layer
+Raise Layer
+Raise Layer to Top
+Lower Layer
+Cannot add layer mask of different dimensions than specified layer.
+Transfer Alpha to Mask
+Apply Layer Mask
+Delete Layer Mask
+Add Alpha Channel
+Remove Alpha Channel
+Layer to Image Size
+Move Layer Mask
+Cannot rename layer masks.
+Enable Layer Mask
+Disable Layer Mask
+Please wait
+Sharpen Selection
+Select None
+Select All
+Invert Selection
+Cannot float selection because the selected region is empty.
+The vertical image resolution.
+pixel
+inch
+inches
+millimeter
+millimeters
+point
+points
+pica
+picas
+translator-credits
+Comment
+_Import
+Select Palette File
+I_nterval:
+Learn more
+Path name:
+No guides
+Center lines
+Rule of thirds
+Rule of fifths
+Golden sections
+Diagonal lines
+Number of lines
+Invalid character sequence in URI
+Create or adjust the cage
+Perspective Clone
+Set a source image first.
+Modify Perspective
+Aligned
+Registered
+Blur
+Sharpen
+The new text layout cannot be generated. Most likely the font size is too big.
+Dynamic
+_By Color Select
+%s to set a new clone source
+_Flip
+Roughly outline the object to extract
+Click-Drag adds a free segment, Click adds a polygonal segment
+Fu_zzy Select
+%s to set a new heal source
+Tool Toggle (%s)
+Move
+Transformation Matrix
+Center _Y:
+_Scale
+Shear magnitude _Y:
+Shear horizontally by %-3.3g
+Shear vertically by %-3.3g
+There is no active layer or channel to stroke to
+Free select
+Fixed size
+Fixed aspect ratio
+Design
+Rename Path
+Scale Path
+Resize Path
+Path to Selection
+Reorder Path
+Raise Path
+Raise Path to Top
+Lower Path
+none
+Do you want to replace it with the image you are saving?
+,
+-
+Messages are redirected to stderr.
+%s (try %s, %s, %s)
+Foreground
+Pixel
+HSV
+CMYK
+Pick only
+Set foreground color
+Set background color
+Add to palette
+Linear histogram
+Logarithmic histogram
+Icon
+Current status
+Description
+Icon & text
+Icon & desc
+Status & text
+Status & desc
+Operation was cancelled
+Error during conversion: %s
+%s type
+Unknown type
+%s filetype
+Error: %s is not a valid unique bus name.
+Unnamed
+Can't create user desktop file %s
+Custom definition for %s
+Operation not supported
+Can't copy over directory
+Can't copy directory over directory
+Target file exists
+Can't copy special file
+Invalid symlink value given
+File names cannot contain '%c'
+Element not allowed at the top level
+Invalid filename %s
+Error getting filesystem info: %s
+Can't rename root directory
+Error renaming file: %s
+Invalid filename
+Can't open directory
+Error opening file: %s
+Error removing file: %s
+internal error
+Error creating directory: %s
+Error making symbolic link: %s
+Error moving file: %s
+Can't move directory over directory
+Backup file creation failed
+Error removing target file: %s
+Move between mounts not supported
+(invalid encoding)
+Error setting permissions: %s
+Error setting owner: %s
+Error reading from file: %s
+Error closing file: %s
+Error writing to file: %s
+Error removing old backup link: %s
+Error creating backup copy: %s
+Error renaming temporary file: %s
+Error opening file '%s': %s
+Target file is a directory
+Target file is not a regular file
+The file was externally modified
+Error removing old file: %s
+Filesystem root
+Can't find application
+Error launching application: %s
+URIs not supported
+No valid bookmark file found in data dirs
+A bookmark for URI '%s' already exists
+No bookmark found for URI '%s'
+The URI '%s' is invalid
+Invalid hostname
+AM
+PM
+%a %b %e %H:%M:%S %Y
+%m/%d/%y
+%H:%M:%S
+%I:%M:%S %p
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Jan
+Feb
+Mar
+Apr
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+Error opening directory '%s': %s
+Error reading file '%s': %s
+Failed to read from file '%s': %s
+Failed to open file '%s': %s
+Failed to create file '%s': %s
+Failed to read the symbolic link '%s': %s
+Symbolic links not supported
+Not a regular file
+Invalid group name: %s
+Key file does not start with a group
+Invalid key name: %s
+Key file contains unsupported encoding '%s'
+Key file does not have group '%s'
+Key file does not have key '%s'
+Key file does not have key '%s' in group '%s'
+Value '%s' cannot be interpreted as a number.
+Integer value '%s' out of range
+Usage:
+[OPTION...]
+Help Options:
+Show help options
+Show all help options
+Application Options:
+Integer value '%s' for %s out of range
+Unknown option %s
+corrupted object
+internal error or corrupted object
+out of memory
+unknown error
+Text was empty (or contained only whitespace)
+Failed to change to directory '%s' (%s)
+Failed to read data from child process
+Failed to execute child process (%s)
+Invalid program name: %s
+Invalid working directory: %s
+Failed to execute helper program (%s)
+%.1f MB
+%.1f GB
+%.1f EB
+%.1f KB
+background, style
+background, style
+background, style
+background, style
+background, style
+x
+Automatically generated profile
+Profile quality
+Profile quality
+Colorspace fallback
+Colorspace fallback
+Colorspace fallback
+universal access, color
+Calibration quality
+Calibration quality
+Calibration quality
+universal access, brightness
+display panel, rotation
+display panel, rotation
+display panel, rotation
+MirroredPantallas en EspejoMirroredPantallas en Espejo
+translation
+keybinding
+keyboard, delay
+Distance
+keyboard, delay
+Page SetupPrinter Option Group
+mouse, speed
+mouse, left button as primary
+mouse, right button as primary
+Wifi security
+Wacom action-type
+Signal strength
+Password strength
+Signal strength
+Password strength
+network parameters
+proxy method
+Wi-Fi/Ethernet security
+Forget wireless networkWi-Fi Network
+proxy method
+category
+notifications
+notifications
+notifications
+notifications
+notifications
+service is disabled
+Add Account
+1 hour 5 minutes
+1 hour 5 minutes
+Battery power
+Battery power
+Battery name
+Battery name
+Battery power
+Battery power
+Developer
+Developer
+marker
+marker
+printer state
+printer state
+print job
+printer state
+printer state
+printer state
+printer state
+print job
+printer state
+Two Sided
+Two Sided
+Two Sided
+Orientation
+Orientation
+Orientation
+Orientation
+print job
+print job
+print job
+print job
+print job
+GeneralPrinter Option Group
+Installable OptionsPrinter Option Group
+JobPrinter Option Group
+Image QualityPrinter Option Group
+ColorPrinter Option Group
+AdvancedPrinter Option Group
+Paper Source
+Paper SourceResolution
+GhostScript
+GhostScript
+GhostScript
+GhostScript
+measurement format
+measurement format
+Language
+service is enabled
+balance
+balance
+balance
+balance
+balance
+balance
+volume
+universal access, text size
+universal access, contrast
+universal access, text size
+universal access, threshold
+universal access, text size
+universal access, text size
+universal access, zoom
+universal access, delay
+universal access, delay
+Beep when a key is
+Beep when a key is
+Beep when a key is
+universal access, threshold
+Distance
+Distance
+Distance
+Distance
+universal access, thickness
+universal access, thickness
+universal access, contrast
+universal access, brightness
+Account type
+Account type
+Password strength
+Password strength
+Password strength
+Password strength
+Could you not access "Digital Persona U.are.U 4000/4000B
+Could you not access "Digital Persona U.are.U 4000/4000B
+Password mode
+Password mode
+Password mode
+Wacom action-type
+Wacom action-type
+Wacom action-type
+Wacom tablet button
+Wacom tablet button
+left-ring-mode-1
+right-ring-mode-1
+left-strip-mode-1
+right-strip-mode-1
+category
+category
+x
+About GNOME
+Learn more about GNOME
+News
+GNOME Library
+Friends of GNOME
+Contact
+The Mysterious GEGL
+Wanda The GNOME Fish
+_Open URL
+_Copy URL
+About the GNOME Desktop
+%(name)s: %(value)s
+Welcome to the GNOME Desktop
+Brought to you by:
+%(name)s: %(value)s
+Version
+Distributor
+Build Date
+Display information on this GNOME version
+GNOME is a Free, usable, stable, accessible desktop environment for the Unix-like family of operating systems.
+GNOME includes most of what you see on your computer, including the file manager, web browser, menus, and many applications.
+GNOME also includes a complete development platform for applications programmers, allowing the creation of powerful and complex applications.
+Hundreds of people have contributed code to GNOME since it was started in 1997; many more have contributed in other important ways, including translations, documentation, and quality assurance.
+Error reading file '%s': %s
+Error rewinding file '%s': %s
+No name
+File '%s' is not a regular file or directory.
+No filename to save to
+Starting %s
+No URL to launch
+Not a launchable item
+No command (Exec) to launch
+Bad command (Exec) to launch
+Unknown encoding of: %s
+could not get information about output %d
+none of the selected modes were compatible with the possible modes: %s
+required virtual size does not fit available size: requested=(%d, %d), minimum=(%d, %d), maximum=(%d, %d)
+Unknown Display
+none of the selected modes were compatible with the possible modes: %s
+GNOME
+Default GNOME Theme
+commands:
+%s, %s and %s
+front center
+translator-credits
+Enable _window and button sounds
+Alert sound
+Windows and Buttons
+Button clicked
+Toggle button clicked
+Window maximized
+Window unmaximized
+Window minimised
+Desktop
+Login
+Logout
+New e-mail
+Empty trash
+Long action completed (download, CD burning, etc.)
+Alerts
+Information or question
+Warning
+Error
+Sound & Video
+Multimedia menu
+Programming
+Tools for software development
+Education
+Games
+Games and amusements
+Graphics
+Graphics applications
+Internet
+Programs for Internet access such as web and email
+Office
+Office Applications
+System Tools
+System configuration and monitoring
+Universal Access
+Universal Access Settings
+Accessories
+Desktop accessories
+Applications
+Other
+Applications that did not fit in other categories
+Administration
+Change system-wide settings (affects all users)
+Preferences
+Personal preferences
+Hardware
+Settings for several hardware devices
+Personal
+Personal settings
+System
+System settings
+Sound & Video
+Multimedia menu
+Programming
+Tools for software development
+Education
+Games
+Games and amusements
+Graphics
+Graphics applications
+Hardware
+Settings for several hardware devices
+Internet
+Programs for Internet access such as web and email
+Office
+Office Applications
+Personal
+Personal settings
+System
+System settings
+System Tools
+System configuration and monitoring
+Universal Access
+Universal Access Settings
+Accessories
+Desktop accessories
+Applications
+Other
+Applications that did not fit in other categories
+Menu Editor
+Edit Menus
+_Defaults
+_Menus:
+_Applications:
+Name
+Show
+translator-credits
+Copyright © 2003-2008 %s
+Network Tools
+%s - Network Tools
+Unable to open help file
+Host
+User
+_Tool
+_Edit
+Copy as text _report
+Clear _History
+_Help
+Devices - Network Tools
+_Network device:
+_Configure
+IP Information
+Hardware address:
+MTU:
+Link speed:
+State:
+Not Available
+Interface Information
+Devices
+Only
+requests
+Send:
+Network address
+_Network address:
+0.0
+ms
+Maximum:
+Average:
+Minimum:
+0%
+Details
+Display:
+Active Network Services
+Scan
+Output for port scan
+Port scan output
+Port Scan
+_Information type:
+Lookup
+Output for lookup
+Lookup output
+User name
+_Username:
+Finger
+Output for finger
+Finger output
+_Domain address:
+Domain address
+Other type
+Unknown
+Active
+Inactive
+Enabled
+Disabled
+not available
+Name
+TTL
+Address Type
+Address
+DEVICE
+HOST
+COMMAND
+USER
+DOMAIN
+Protocol
+IP Address
+Broadcast
+Scope
+Default Information
+Internet Address
+Name Server
+Host name for Address
+Text Information
+Well Known Services
+Any / All Information
+Getting group memberships
+IP Source
+Port/Service
+State
+Destination/Prefix
+Destination
+Gateway
+Interface
+Member
+Group
+Protocol\tIP Source\tPort/Service\tState
+Destination\tGateway\tNetmask\tInterface
+Stop
+Run
+Bytes
+Source
+Time
+Units
+Port
+Service
+Hostname
+IP
+No
+Rechargeable
+Intel wireless adaptor
+Causes the screensaver to exit gracefully
+Query the state of the screensaver
+Version of this application
+Show debugging output
+Show the logout button
+Show the switch user button
+Message to show in the dialog
+MESSAGE
+Username:
+Password:
+Your account has expired; please contact your system administrator
+No password supplied
+Password unchanged
+Error while changing NIS password.
+You must choose a longer password
+Password has been already used. Choose another.
+You must wait longer to change your password
+Sorry, passwords do not match
+Authentication failed.
+Don't become a daemon
+Enable debugging code
+Screensaver
+Incorrect password.
+Not permitted to gain access at this time.
+No longer permitted to access the system.
+failed to register with the message bus
+not connected to the message bus
+screensaver already running in this session
+Time has expired.
+You have the Caps Lock key on.
+Log _Out
+_Unlock
+_Password:
+Save Screenshot
+_Name:
+Save in _folder:
+Screenshot directory
+Include Border
+Include Pointer
+Include the pointer in the screenshot
+Border Effect
+Grab a window instead of the entire screen
+Include the window border with the screenshot
+seconds
+effect
+Take a picture of the screen
+translator-credits
+Screenshot.png
+None
+Drop shadow
+Border
+Include _pointer
+Include the window _border
+Apply _effect:
+Grab the current _window
+Take Screenshot
+Effects
+Take _Screenshot
+Error loading the help page
+Select Command
+Add Startup Program
+Edit Startup Program
+The startup command cannot be empty
+The startup command is not valid
+Enabled
+Icon
+Program
+No description
+GNOME
+This session logs you into GNOME
+Startup Applications
+Additional startup _programs:
+_Automatically remember running applications when logging out
+Comm_ent:
+Co_mmand:
+_Name:
+File is not a valid .desktop file
+Unrecognized desktop file Version '%s'
+Starting %s
+Application does not accept documents on command line
+Unrecognized launch option: %d
+Not a launchable item
+Disable connection to session manager
+Specify file containing saved configuration
+FILE
+Specify session management ID
+ID
+_Log Out
+Unknown
+Lock Screen
+Cancel
+Log out of this system now?
+_Switch User
+Shut down this system now?
+_Hibernate
+_Restart
+_Shut Down
+Refusing new client connection because the session is currently being shut down
+Do not load user-specified applications
+- the GNOME session manager
+Log out
+Could not connect to the session manager
+View or monitor system log files
+Log file to open up on startup
+Size of the font used to display the log
+Height of the main window in pixels
+Width of the main window in pixels
+Log files to open up on startup
+translator-credits
+A system log viewer for GNOME.
+_Close
+_Name:
+Search in "%s"
+Open Log
+System Monitor
+View current processes and monitor system state
+End _Process
+Processes
+CPU History
+Memory and Swap History
+Memory
+Swap
+Network History
+Receiving
+Total Received
+Total Sent
+Resources
+File Systems
+_Name contains:
+S_earch results:
+Open Files
+System Monitor Preferences
+Behavior
+Enable _smooth refresh
+Alert before ending or _killing processes
+Information Fields
+Graphs
+Change _Priority
+_Nice value:
+translator-credits
+Device
+Directory
+Type
+Total
+Free
+Available
+Used
+?
+Today %l:%M %p
+Yesterday %l:%M %p
+%a %l:%M %p
+%b %d %l:%M %p
+%b %d %Y
+Fraction
+Title
+Pick a Color
+Current Color
+The selected color
+Type of color picker
+_View
+_Stop Process
+Stop process
+_Continue Process
+_End Process
+_Kill Process
+Change the order of priority of process
+_Refresh
+Refresh the process list
+_Memory Maps
+Open _Files
+_Active Processes
+Show active processes
+A_ll Processes
+Show all processes
+M_y Processes
+CPU
+CPU%d
+Sending
+Process
+PID
+Filename
+VM Start
+VM End
+VM Size
+Flags
+VM Offset
+Memory Maps
+_Memory maps for process "%s" (PID %u):
+file
+pipe
+local socket
+unknown type
+FD
+Object
+_Files opened by process "%s" (PID %u):
+Main Window width
+Main Window height
+Enable/Disable smooth refresh
+Process view sort column
+Process view columns order
+Process view sort order
+Width of process 'CPU %' column
+Show process 'CPU %' column on startup
+Width of process 'PID' column
+Show process 'PID' column on startup
+Disk view columns order
+Note:
+Icon
+Process Name
+User
+Status
+Virtual Memory
+Resident Memory
+Writable Memory
+Shared Memory
+X Server Memory
+CPU Time
+Started
+Nice
+ID
+Security Context
+Command Line
+% CPU
+Running
+Stopped
+Uninterruptible
+Sleeping
+%uw%ud
+%ud%02uh
+%u:%02u:%02u
+%u:%02u.%02u
+%s/s
+Terminal
+Use the command line
+Add or Remove Terminal Encodings
+A_vailable encodings:
+E_ncodings shown in menu:
+Find
+_Search for:
+_Match case
+Match _entire word only
+Search _backwards
+List of profiles
+Profile to use for new terminals
+Whether the menubar has access keys
+[UTF-8,current]
+List of available encodings
+Whether to ask for confirmation when closing terminal windows
+Whether to ask for confirmation when closing a terminal window which has more than one open tab.
+Default
+Human-readable name of the profile
+Human-readable name of the profile.
+Whether to show menubar in new windows/tabs
+Default color of text in the terminal
+Default color of terminal background
+What to do with dynamic title
+Title for terminal
+Whether to allow bold text
+Position of the scrollbar
+Whether to run a custom command instead of the shell
+Whether to blink the cursor
+Custom command to use instead of the shell
+Icon for terminal window
+Icon to use for tabs/windows containing this profile.
+Palette for terminal applications
+Font
+An Pango font name. Examples are "Sans 12" or "Monospace Bold 14".
+Background type
+Background image
+Filename of a background image.
+Effect of the Backspace key
+Effect of the Delete key
+Whether to use the system font
+Keyboard shortcut to open a new tab
+Keyboard shortcut to open a new window
+Keyboard shortcut to create a new profile
+Keyboard shortcut to close a tab
+Keyboard shortcut to close a window
+Keyboard shortcut to copy text
+Keyboard shortcut to paste text
+Keyboard shortcut to toggle full screen mode
+Keyboard shortcut to toggle the visibility of the menubar
+Keyboard shortcut to set the terminal title
+Keyboard shortcut to reset the terminal
+Keyboard shortcut to reset and clear the terminal
+Keyboard shortcut to switch to the previous tab
+Keyboard shortcut to switch to the next tab
+Keyboard shortcut to launch help
+Keyboard shortcut to make font larger
+Keyboard shortcut to make font smaller
+Keyboard shortcut to make font normal-size
+Keyboard Shortcuts
+_Shortcut keys:
+Black on light yellow
+Black on white
+Gray on black
+Green on black
+White on black
+Error parsing command: %s
+Editing Profile “%s”
+Custom
+Images
+Choose Palette Color %d
+Palette entry %d
+Profiles
+_Profile used when launching a new terminal:
+New Profile
+C_reate
+Profile _name:
+_Base on:
+Profile Editor
+_Profile name:
+_Font:
+Choose A Terminal Font
+_Allow bold text
+Show _menubar by default in new terminals
+General
+Title
+Initial _title:
+Command
+_Run command as a login shell
+Ru_n a custom command instead of my shell
+Custom co_mmand:
+When command _exits:
+Title and Command
+_Use colors from system theme
+_Text color:
+_Background color:
+Choose Terminal Background Color
+Choose Terminal Text Color
+Palette
+Note: Terminal applications have these colors available to them.
+Color p_alette:
+Tango Linux console XTerm Rxvt Custom
+Colors
+_Solid color
+_Background image
+Image _file:
+Select Background Image
+_Transparent background
+None
+Maximum
+Background
+_Scrollbar is:
+On the left side On the right side Disabled
+lines
+Compatibility
+New Tab
+New Window
+Close Tab
+Close Window
+Copy
+Paste
+Hide and Show menubar
+Full Screen
+Zoom In
+Zoom Out
+Normal Size
+Set Title
+Reset
+Reset and Clear
+Switch to Previous Tab
+Switch to Next Tab
+Move Tab to the Left
+Move Tab to the Right
+Detach Tab
+Contents
+File
+Edit
+View
+Tabs
+Help
+_Action
+Shortcut _Key
+Click button to choose profile
+Profile list
+Delete profile “%s”?
+Delete Profile
+Choose base profile
+User Defined
+Western
+Central European
+South European
+Baltic
+Cyrillic
+Arabic
+Greek
+Hebrew Visual
+Hebrew
+Turkish
+Nordic
+Celtic
+Romanian
+Unicode
+Armenian
+Chinese Traditional
+Cyrillic/Russian
+Japanese
+Korean
+Chinese Simplified
+Georgian
+Cyrillic/Ukrainian
+Croatian
+Hindi
+Persian
+Gujarati
+Gurmukhi
+Icelandic
+Vietnamese
+Thai
+_Description
+_Encoding
+Current Locale
+GNOME Terminal
+Two roles given for one window
+GEOMETRY
+ROLE
+TITLE
+DIRNAME
+GNOME Terminal Emulator
+Show GNOME Terminal options
+Unnamed
+There was an error creating the child process for this terminal
+Close tab
+Switch to this tab
+GNOME Terminal is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with GNOME Terminal; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+_%d. %s
+_%c. %s
+_File
+Open _Terminal
+Open Ta_b
+_Edit
+_View
+_Search
+_Terminal
+_Help
+New _Profile…
+C_lose Tab
+_Close Window
+Paste _Filenames
+P_rofiles…
+_Keyboard Shortcuts…
+_Find...
+Find Ne_xt
+Find Pre_vious
+Change _Profile
+_Set Title…
+Set _Character Encoding
+_Reset
+Reset and C_lear
+_Add or Remove…
+_Previous Tab
+_Next Tab
+Move Tab _Left
+Move Tab _Right
+_Detach tab
+_Contents
+_About
+_Send Mail To…
+_Copy E-mail Address
+C_all To…
+_Copy Call Address
+_Open Link
+_Copy Link Address
+P_rofiles
+C_lose Window
+_Input Methods
+Show _Menubar
+_Full Screen
+_Title:
+A terminal emulator for the GNOME desktop
+translator-credits
+Disabled
+Dice
+Edge
+Mauve
+Shagadelic
+Vertigo
+Warp
+%d Admin PIN attempts remaining before card is permanently locked
+Reset Code is too short; minimum length is %d
+using %s trust model
+Align to:
+Cylinder
+MiB
+Clear Partition Label on %1
+_Help
+Apply All Operations
+translator-credits
+failed to return to initial working directory
+Packaged by %s
+Written by %s, %s, %s, %s, %s, %s, %s, %s, %s, and others.
+Fast
+Very Low
+Low
+Medium
+High
+Very High
+Default Display
+The default display for GDK
+Screen
+Font options
+The default font options for the screen
+Font resolution
+Program name
+Program version
+The version of the program
+Copyright string
+Copyright information for the program
+Comments string
+Comments about the program
+Website URL
+Website label
+Authors
+List of authors of the program
+Documenters
+List of people documenting the program
+Artists
+Translator credits
+Logo
+Logo Icon Name
+Wrap license
+Name
+Label
+Short label
+Tooltip
+A tooltip for this action.
+Icon Name
+The name of the icon from the icon theme
+Is important
+Hide if empty
+Visible
+Action Group
+A name for the action group.
+Value
+The value of the adjustment
+Minimum Value
+The minimum value of the adjustment
+Maximum Value
+The maximum value of the adjustment
+Page Size
+Arrow shadow
+Horizontal Alignment
+X alignment of the child
+Vertical Alignment
+Y alignment of the child
+Page type
+Page title
+Header image
+Fill
+Position
+Translation Domain
+Use underline
+Image position
+Year
+The selected year
+Month
+The selected month (as a number between 0 and 11)
+Day
+Show Heading
+If TRUE, a heading is displayed
+Show Day Names
+If TRUE, day names are displayed
+Show Details
+If TRUE, details are shown
+mode
+visible
+Display the cell
+xalign
+The x-align
+yalign
+The y-align
+width
+The fixed width
+height
+The fixed height
+Cell background color name
+Cell background color
+Editing
+Text Column
+Size
+Detail
+Icon
+Text
+Text y alignment
+Orientation
+Adjustment
+Digits
+Active
+Markup
+Attributes
+Background color name
+Background color as a string
+Background color
+Background color as a GdkColor
+Foreground color name
+Foreground color as a string
+Foreground color
+Foreground color as a GdkColor
+Editable
+Font
+Font family
+Font style
+Font weight
+Font stretch
+Font size
+Font points
+Font size in points
+Font scale
+Underline
+Language
+Alignment
+How to align the lines
+Use alpha
+Title
+The title of the color selection dialog
+Current Color
+The selected color
+Current Alpha
+Has palette
+Whether a palette should be used
+The current color
+Color Selection
+Cancel Button
+Help Button
+The help button of the dialog.
+Enable arrow keys
+Always enable arrows
+Case sensitive
+Active item
+The item which is currently active
+Add tearoffs to menus
+Has Frame
+Tearoff Title
+Appears as list
+Arrow Size
+Shadow type
+Resize mode
+Border width
+Child
+Minimum X
+Maximum X
+Minimum Y
+Maximum Y
+Has separator
+Button spacing
+X align
+Primary icon name
+IM module
+Progress Border
+Your description here
+Visible Window
+Above child
+Action
+Filter
+Select Multiple
+Show Hidden
+Dialog
+The file chooser dialog to use.
+The title of the file chooser dialog.
+Filename
+The currently selected filename
+X position
+Y position
+Sans 12
+Use font in label
+Use size in label
+Show style
+Show size
+Preview text
+Selection mode
+The selection mode
+Pixbuf column
+Markup column
+Number of columns
+Width for each item
+The width used for each item
+Row Spacing
+Column Spacing
+Margin
+Tooltip Column
+Selection Box Color
+Color of the selection box
+Selection Box Alpha
+Image
+Mask
+Icon set
+Icon set to display
+Icon size
+Pixel size
+Pixel size to use for named icon
+Animation
+Storage type
+Message Type
+The type of message
+The text of the label
+Pattern
+Line wrap
+Line wrap mode
+Angle
+Width
+Height
+Visited
+The currently selected menu item
+Monitor
+Double Arrows
+Arrow Placement
+Left Attach
+Right Attach
+Top Attach
+Bottom Attach
+Submenu
+Menu
+Image/label border
+Use separator
+Message Buttons
+The buttons shown in the message dialog
+Use Markup
+Secondary Text
+The secondary text of the message dialog
+Use Markup in secondary
+The image
+Y align
+X pad
+Y pad
+Parent
+The parent window
+Page
+The index of the current page
+Tab Position
+Tab Border
+Show Tabs
+Show Border
+Scrollable
+Enable Popup
+Group ID
+Group
+Tab label
+Menu label
+Tab expand
+Tab fill
+Tab reorderable
+Arrow spacing
+User Data
+The menu of options
+Resize
+Shrink
+Embedded
+Name of the printer
+Is Virtual
+FALSE if this represents a real hardware printer
+Accepts PDF
+TRUE if this printer can accept PDF
+Accepts PostScript
+TRUE if this printer can accept PostScript
+State Message
+String giving the current state of the printer
+Location
+The location of the printer
+The icon name to use for the printer
+Job Count
+Number of jobs queued in the printer
+Paused Printer
+Source option
+Title of the print job
+Printer
+Printer to print the job to
+Settings
+Printer settings
+Page Setup
+Track Print Status
+Default Page Setup
+Print Settings
+Job Name
+Number of Pages
+The number of pages in the document.
+Current Page
+Use full page
+Unit
+Show Dialog
+TRUE if a progress dialog is shown while printing.
+Export filename
+Status
+The status of the print operation
+Status String
+Custom tab label
+Selected Printer
+The GtkPrinter which is selected
+Activity mode
+Show text
+Whether the progress is shown as text.
+Bar style
+Activity Blocks
+XSpacing
+The value
+Update policy
+Show Fill Level
+Fill Level
+The fill level.
+Slider Width
+Show Numbers
+Whether the items should be displayed with a number
+Recent Manager
+Show Private
+Show Tooltips
+Show Icons
+Show Not Found
+Local only
+Sort Type
+Lower
+Upper
+Max Size
+Value Position
+Value spacing
+The icon size
+Icons
+List of icon names
+Horizontal Adjustment
+Vertical Adjustment
+Horizontal Scrollbar Policy
+When the horizontal scrollbar is displayed
+Vertical Scrollbar Policy
+When the vertical scrollbar is displayed
+Window Placement
+Shadow Type
+Scrollbar spacing
+Double Click Time
+Double Click Distance
+Cursor Blink
+Cursor Blink Time
+Theme Name
+Icon Theme Name
+Name of icon theme to use
+Key Theme Name
+Font Name
+Name of default font to use
+Icon Sizes
+Cursor theme name
+Cursor theme size
+Enable Animations
+Default command to run when displaying a print preview
+Command to run when displaying a print preview
+Toolbar style
+Show menu images
+Custom palette
+IM Status style
+Ignore hidden
+Wrap
+Update Policy
+Reads the current value, or sets a new value
+The size of the icon
+Blinking
+Has tooltip
+Tooltip Text
+The contents of the tooltip for this widget
+Tooltip markup
+Rows
+The number of rows in the table
+Columns
+The number of columns in the table
+Row spacing
+The amount of space between two consecutive rows
+Column spacing
+The amount of space between two consecutive columns
+Left attachment
+Right attachment
+Top attachment
+Bottom attachment
+Horizontal options
+Vertical options
+Line Wrap
+Word Wrap
+Has selection
+Cursor position
+Mark name
+Text direction
+Text direction, e.g. right-to-left or left-to-right
+Left margin
+Width of the left margin in pixels
+Right margin
+Width of the right margin in pixels
+Indent
+Pixels above lines
+Pixels below lines
+Tabs
+Custom tabs for this text
+Invisible
+Whether this text is hidden.
+Wrap Mode
+Left Margin
+Right Margin
+Cursor Visible
+Accepts tab
+Toolbar Style
+Show Arrow
+Tooltips
+Size of icons in this toolbar
+Space style
+Text to show in the item.
+Icon name
+Icon spacing
+Enable Search
+Enable Grid Lines
+Whether grid lines should be drawn in the tree view
+Enable Tree Lines
+Whether tree lines should be drawn in the tree view
+Vertical Separator Width
+Horizontal Separator Width
+Allow Rules
+Even Row Color
+Color to use for even rows
+Odd Row Color
+Color to use for odd rows
+Row Ending details
+Grid line width
+Tree line width
+Grid line pattern
+Tree line pattern
+Whether to display the column
+Resizable
+Column is user-resizable
+Current width of the column
+Space which is inserted between cells
+Sizing
+Resize mode of the column
+Fixed Width
+Current fixed width of the column
+Minimum Width
+Title to appear in column header
+Clickable
+Whether the header can be clicked
+Widget name
+The name of the widget
+Parent widget
+Can focus
+Whether the widget can accept the input focus
+Has focus
+Whether the widget has the input focus
+Is focus
+Can default
+Whether the widget can be the default widget
+Has default
+Whether the widget is the default widget
+Receives default
+Composite child
+Whether the widget is part of a composite widget
+Style
+Events
+Extension events
+No show all
+Whether gtk_widget_show_all() should not affect this widget
+Whether this widget has a tooltip
+Window
+Interior Focus
+Cursor color
+Secondary cursor color
+Draw Border
+Unvisited Link Color
+Color of unvisited links
+Visited Link Color
+Color of visited links
+Wide Separators
+Separator Width
+The width of separators if wide-separators is TRUE
+Separator Height
+The height of separators if "wide-separators" is TRUE
+Horizontal Scroll Arrow Length
+The length of horizontal scroll arrows
+Vertical Scroll Arrow Length
+The length of vertical scroll arrows
+Window Type
+The type of the window
+Window Title
+The title of the window
+Startup ID
+Allow Shrink
+If TRUE, the window has no mimimum size. Setting this to TRUE is 99% of the time a bad idea
+Allow Grow
+If TRUE, users can resize the window
+Modal
+If TRUE, the window is modal (other windows are not usable while this one is up)
+Window Position
+The initial position of the window
+Default Width
+The default width of the window, used when initially showing the window
+Default Height
+The default height of the window, used when initially showing the window
+Destroy with Parent
+If this window should be destroyed when the parent is destroyed
+Icon for this window
+Name of the themed icon for this window
+Is Active
+Skip taskbar
+Accept focus
+Deletable
+Whether the window frame should have a close button
+Program class as used by the window manager
+CLASS
+Program name as used by the window manager
+NAME
+X display to use
+DISPLAY
+X screen to use
+SCREEN
+FLAGS
+GDK debugging flags to unset
+BackSpace
+Tab
+Return
+Pause
+Scroll_Lock
+Sys_Req
+Escape
+Multi_key
+Home
+Left
+Up
+Right
+Down
+Page_Up
+Page_Down
+End
+Begin
+Print
+Insert
+Num_Lock
+KP_Space
+KP_Tab
+KP_Enter
+KP_Home
+KP_Left
+KP_Up
+KP_Right
+KP_Down
+KP_Page_Up
+KP_Prior
+KP_Page_Down
+KP_Next
+KP_End
+KP_Begin
+KP_Insert
+KP_Delete
+Delete
+COLORS
+Starting %s
+Opening %s
+License
+The license of the program
+C_redits
+_License
+About %s
+Credits
+Written by
+Documented by
+Translated by
+Artwork by
+Shift
+Ctrl
+Alt
+Super
+Hyper
+Meta
+Space
+Unhandled tag: '%s'
+calendar:MY
+calendar:week_start:0
+2000
+%d
+%Y
+Disabled
+New accelerator...
+%d %%
+Pick a Color
+Received invalid color data
+"Deepness" of the color.
+_Value:
+_Red:
+_Green:
+_Blue:
+Transparency of the color.
+Color _name:
+_Palette:
+_Save color here
+Color Selection
+default:mm
+inch
+mm
+_Width:
+_Height:
+Paper Size
+_Top:
+_Bottom:
+_Left:
+_Right:
+Input _Methods
+Desktop
+(None)
+Other...
+Type name of new folder
+Could not retrieve information about the file
+Could not add a bookmark
+Could not remove bookmark
+The folder could not be created
+Invalid file name
+The folder contents could not be displayed
+%1$s on %2$s
+Search
+Recently Used
+Select which types of files are shown
+Add the folder '%s' to the bookmarks
+Add the current folder to the bookmarks
+Add the selected folders to the bookmarks
+Remove the bookmark '%s'
+Remove the selected bookmark
+Remove
+Rename...
+Places
+_Places
+Add the selected folder to the Bookmarks
+Could not select file
+_Add to Bookmarks
+Show _Hidden Files
+Files
+Name
+Size
+Modified
+_Name:
+Type a file name
+Create Fo_lder
+_Location:
+Save in _folder:
+Create in _folder:
+Unknown
+%H:%M
+Yesterday at %H:%M
+Shortcut %s already exists
+Shortcut %s does not exist
+_Replace
+Could not start the search process
+Could not send the search request
+Invalid path
+No match
+Completing...
+Only local files may be selected
+Path does not exist
+Error creating folder '%s': %s
+Folders
+Fol_ders
+_Files
+Folder unreadable: %s
+_New Folder
+De_lete File
+_Rename File
+The folder name "%s" contains symbols that are not allowed in filenames
+New Folder
+_Folder name:
+C_reate
+The filename "%s" contains symbols that are not allowed in filenames
+Error deleting file '%s': %s
+Really delete file "%s"?
+Delete File
+Error renaming file to "%s": %s
+Error renaming file "%s": %s
+Error renaming file "%s" to "%s": %s
+Rename File
+Rename file "%s" to:
+_Rename
+_Selection:
+Invalid UTF-8
+Name too long
+Couldn't convert filename
+File System
+Pick a Font
+Sans 12
+Font
+_Family:
+_Style:
+Si_ze:
+_Preview:
+Font Selection
+Failed to load icon
+Simple
+System
+None
+Input
+_Device:
+Screen
+Window
+_Mode:
+Keys
+_X:
+_Y:
+_Wheel:
+none
+(disabled)
+(unknown)
+Cl_ear
+Copy URL
+Invalid URI
+MODULES
+Make all warnings fatal
+GTK+ debugging flags to unset
+default:LTR
+Cannot open display: %s
+GTK+ Options
+Show GTK+ Options
+Co_nnect
+Connect _anonymously
+Connect as u_ser:
+_Username:
+_Domain:
+_Password:
+Remember password until you _logout
+Remember _forever
+Page %u
+_Paper size:
+_Orientation:
+Page Setup
+File System Root
+Not available
+_Save in folder:
+%s job #%d
+Initial state
+Preparing to print
+Generating data
+Sending data
+Waiting
+Blocking on issue
+Printing
+Finished
+Preparing %d
+Preparing
+Printing %d
+Error creating print preview
+Error launching preview
+Error printing
+Application
+Paused
+Custom size
+No printer found
+Unspecified error
+Printer
+Location
+Status
+Range
+_All Pages
+C_urrent Page
+Pag_es:
+Copies
+Copie_s:
+General
+Right to left
+Layout
+_Only print:
+All sheets
+Even sheets
+Odd sheets
+Sc_ale:
+Paper
+Paper _type:
+Paper _source:
+Portrait
+Landscape
+Reverse portrait
+Reverse landscape
+Job Details
+Print Document
+_Now
+A_t:
+Add Cover Page
+Be_fore:
+_After:
+Job
+Advanced
+Image Quality
+Color
+Finishing
+Untitled filter
+Could not remove item
+Could not clear list
+Copy _Location
+_Remove From List
+_Clear List
+No items found
+Open '%s'
+Unknown item
+_%d. %s
+%d. %s
+Unable to find an item with URI '%s'
+Provides visual indication of progress
+Information
+Warning
+Error
+Question
+_About
+_Add
+_Apply
+_Bold
+_Cancel
+_CD-Rom
+_Clear
+_Close
+C_onnect
+_Convert
+_Copy
+Cu_t
+_Delete
+_Discard
+_Disconnect
+_Execute
+_Edit
+_Find
+Find and _Replace
+_Floppy
+_Fullscreen
+_Leave Fullscreen
+_Bottom
+_First
+_Last
+_Top
+_Back
+_Down
+_Forward
+_Up
+_Harddisk
+_Help
+_Home
+Increase Indent
+Decrease Indent
+_Index
+_Information
+_Italic
+_Jump to
+_Center
+_Fill
+_Left
+_Right
+_Next
+P_ause
+_Play
+Pre_vious
+_Record
+R_ewind
+_Stop
+_Network
+_New
+_No
+_OK
+_Open
+Page Set_up
+_Paste
+_Preferences
+_Print
+Print Pre_view
+_Properties
+_Quit
+_Redo
+_Refresh
+_Remove
+_Revert
+_Save
+Save _As
+Select _All
+_Color
+_Font
+_Ascending
+_Descending
+_Spell Check
+_Strikethrough
+_Undelete
+_Underline
+_Undo
+_Yes
+_Normal Size
+Best _Fit
+Zoom _In
+Zoom _Out
+--- No Tip ---
+Empty
+Volume
+Turns volume down or up
+Adjusts the volume
+Volume Down
+Decreases the volume
+Volume Up
+Increases the volume
+Muted
+Full Volume
+asme_f
+A0x2
+A0
+A0x3
+A1
+A10
+A1x3
+A1x4
+A2
+A2x3
+A2x4
+A2x5
+A3
+A3 Extra
+A3x3
+A3x4
+A3x5
+A3x6
+A3x7
+A4
+A4 Extra
+A4 Tab
+A4x3
+A4x4
+A4x5
+A4x6
+A4x7
+A4x8
+A4x9
+A5
+A5 Extra
+A6
+A7
+A8
+A9
+B0
+B1
+B10
+B2
+B3
+B4
+B5
+B5 Extra
+B6
+B6/C4
+B7
+B8
+B9
+C0
+C1
+C10
+C2
+C3
+C4
+C5
+C6
+C6/C5
+C7
+C7/C6
+C8
+C9
+DL Envelope
+RA0
+RA1
+RA2
+SRA0
+SRA1
+SRA2
+JB0
+JB1
+JB10
+JB2
+JB3
+JB4
+JB5
+JB6
+JB7
+JB8
+JB9
+jis exec
+Choukei 2 Envelope
+Choukei 3 Envelope
+Choukei 4 Envelope
+hagaki (postcard)
+kahu Envelope
+kaku2 Envelope
+oufuku (reply postcard)
+you4 Envelope
+10x11
+10x13
+10x14
+10x15
+11x12
+11x15
+12x19
+5x7
+6x9 Envelope
+7x9 Envelope
+9x11 Envelope
+a2 Envelope
+Arch A
+Arch B
+Arch C
+Arch D
+Arch E
+b-plus
+c
+c5 Envelope
+d
+e
+edp
+European edp
+Executive
+f
+FanFold European
+FanFold US
+FanFold German Legal
+Government Legal
+Government Letter
+Index 3x5
+Index 4x6 (postcard)
+Index 4x6 ext
+Index 5x8
+Invoice
+Tabloid
+US Legal
+US Legal Extra
+US Letter
+US Letter Extra
+US Letter Plus
+Monarch Envelope
+#10 Envelope
+#11 Envelope
+#12 Envelope
+#14 Envelope
+#9 Envelope
+Personal Envelope
+Quarto
+Super A
+Super B
+Wide Format
+Dai-pa-kai
+Folio
+Folio sp
+Invite Envelope
+Italian Envelope
+juuro-ku-kai
+pa-kai
+Postfix Envelope
+Small Photo
+prc1 Envelope
+prc10 Envelope
+prc 16k
+prc2 Envelope
+prc3 Envelope
+prc 32k
+prc4 Envelope
+prc5 Envelope
+prc6 Envelope
+prc7 Envelope
+prc8 Envelope
+prc9 Envelope
+ROC 16k
+Failed to open file %s : %s
+File not found: %s
+Printer '%s' has no toner left.
+Printer '%s' is low on developer.
+Printer '%s' is out of developer.
+Printer '%s' is low on at least one marker supply.
+Resolution
+One Sided
+Long Edge (Standard)
+Short Edge (Flip)
+Auto Select
+Printer Default
+Embed GhostScript fonts only
+Convert to PS level 1
+Convert to PS level 2
+No pre-filtering
+High
+Medium
+Low
+Before
+After
+Print at
+Print at time
+Print to File
+PDF
+Postscript
+File
+_Output format
+Command Line
+Failed to open file '%s': %s
+keyboard label
+Backspacekeyboard label
+keyboard label
+keyboard label
+keyboard label
+Scroll Lockkeyboard label
+Sys Reqkeyboard label
+keyboard label
+Multikeykeyboard label
+keyboard label
+keyboard label
+keyboard label
+keyboard label
+Page Upkeyboard label
+Page Downkeyboard label
+keyboard label
+keyboard label
+keyboard label
+Num Lockkeyboard label
+Space (keypad)keyboard label
+Tab (keypad)keyboard label
+Enter (keypad)keyboard label
+Home (keypad)keyboard label
+Left (keypad)keyboard label
+Up (keypad)keyboard label
+Right (keypad)keyboard label
+Down (keypad)keyboard label
+Page Up (keypad)keyboard label
+Prior (keypad)keyboard label
+Page Down (keypad)keyboard label
+Next (keypad)keyboard label
+End (keypad)keyboard label
+Begin (keypad)keyboard label
+Insert (keypad)keyboard label
+Delete (keypad)keyboard label
+keyboard label
+Monitor brightness upkeyboard label
+Monitor brightness downkeyboard label
+keyboard label
+keyboard label
+Audio mutekeyboard label
+keyboard label
+Audio lower volumekeyboard label
+Audio raise volumekeyboard label
+Audio playkeyboard label
+Audio stopkeyboard label
+Audio nextkeyboard label
+Audio previouskeyboard label
+Audio recordkeyboard label
+Audio pausekeyboard label
+Audio rewindkeyboard label
+Audio mediakeyboard label
+Screensaverkeyboard label
+Batterykeyboard label
+Launch1keyboard label
+Forwardkeyboard label
+Backkeyboard label
+Sleepkeyboard label
+Hibernatekeyboard label
+WLANkeyboard label
+Web Camkeyboard label
+Displaykeyboard label
+Touchpad togglekeyboard label
+Wake upkeyboard label
+Action name
+Action name
+Action description
+Action name
+Action name
+Action name
+Action description
+Action description
+Action description
+Action name
+Action name
+Action description
+Action description
+Action description
+Action name
+Action description
+Action description
+Action description
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+go to the bottom of the pageStock label, navigation
+go to the first pageStock label, navigation
+go to the last pageStock label, navigation
+go to the top of the pageStock label, navigation
+go backStock label, navigation
+go forwardStock label, navigation
+next songStock label, media
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+centered textStock label
+Stock label
+left-justified textStock label
+right-justified textStock label
+Stock label
+fast forwardStock label, media
+play musicStock label, media
+previous songStock label, media
+Stock label, media
+Stock label, media
+Stock label, media
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Action description
+Action description
+Action description
+Action name
+Action name
+throbbing progress animation widget
+Action description
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+Stock label
+About %sCprogram-name", "ExampleCodelogotitle" _("About ExampleCode
+keyboard label
+keyboard label
+keyboard label
+keyboard label
+keyboard label
+keyboard label
+keyboard label
+keyboard label
+calendar:YM
+2000year measurement template
+%Id%dcalendar:day:digits
+Accelerator
+Accelerator
+progress bar label
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color name
+Color channel
+Color Channel
+Color channel
+predefinito:mm
+Select a file/etc
+File System
+input method menu
+input method menu
+predefinito:LTR
+Number format
+print operation status
+print operation status
+print operation status
+print operation status
+print operation status
+print operation status
+print operation status
+print operation status
+print operation status
+recent menu label
+recent menu label
+onswitch
+offswitch
+49 %%d" to "%Id%d" to "%dvolume percentage
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+paper size
+Developer
+Developer
+marker
+marker
+Two Sided
+Two Sided
+Paper Source
+Paper SourceResolution
+GhostScript
+GhostScript
+GhostScript
+GhostScript
+Miscellaneous
+Custom 230.4x142.9
+Color channel
+Color Channel
+Binding and finishing
+Script
+translator-credits
+Page _Setup
+This is the last character that was selected in the character map (and will be selected again when the character map is next started). By default, it is the first letter of the alphabet in the current locale.
+Default
+Extra 5
+write error
+%s: can't open `%s' (%s)
+User Commands
+DESCRIPTION
+%l:%M:%S %p
+%H:%M:%S
+%H:%M
+%a %b %e %Y
+%a %b %e
+%a
+%b %e %Y
+%Y
+%A
+%a %d %b
+Tomorrow\\u2003%l:%M %p
+%a\\u2003%l:%M %p
+%a %d %b\\u2003%l:%M %p
+Tomorrow\\u2003%H:%M
+%a\\u2003%H:%M
+unknown
+%0d:%02d to charge
+%0d:%02d left
+%d %s to charge
+%d %s %d %s left
+%d %s left
+%s (charged)
+%s (%s)
+(%s, %.0lf%%)
+(%s)
+Are you sure you want to close all programs and shut down the computer?
+System, %s (Attention Required)
+Select one of the 17 symmetry groups for the tiling
+PM: reflection
+S_hift
+Randomize the horizontal shift by this percentage
+Whether columns are spaced evenly (1), converge (1)
+Alternate the sign of shifts for each column
+Cumulate the shifts for each column
+Pick the Blue component of the color
+Pick the hue of the color
+Pick the saturation of the color
+Create and tile the clones of the selection
+R_eset
+Select a filename for exporting
+Search clones
+Include locked objects in search
+Check to make the object invisible
+Target:
+Line spacing:
+Delete attribute
+Attribute name
+Set attribute
+Set
+'%s' working, please wait...
+no implementation was defined for the extension.
+Channel
+PDF Import Settings
+Is the effect previewed live on canvas?
+Stroke Paint
+Automatic backup of the following documents failed:
+Open _Recent
+direction of thickest strokes (opposite = thinest)
+Defines hatches frequency and direction
+Choose whether to draw marks at the beginning and end of the path
+If unchecked, draw only the last generation
+The reference segment. Defaults to the horizontal midline of the bbox.
+ID
+Render filtered objects without filters, instead of rasterizing (PS, EPS, PDF)
+Query the X coordinate of the drawing or, if specified, of the object with --query-id
+Query the Y coordinate of the drawing or, if specified, of the object with --query-id
+Query the width of the drawing or, if specified, of the object with --query-id
+Inkscape will run with default settings, and new settings will not be saved.
+Cannot create profile directory %s.
+%s is not a valid directory.
+The topic of this document as comma-separated key words, phrases, or classifications.
+You cannot raise/lower objects from different groups or layers.
+Fit Page to Selection or Drawing
+3D Box
+Scale: %0.2f%% x %0.2f%%; with Ctrl to lock ratio
+Skew: %0.2f#176;; with Ctrl to snap angle
+Arc
+Flow region
+Convert stroke to path
+An exception occurred during execution of the Path Effect.
+inset
+Text span
+Create link
+_License
+translator-credits
+Minimum horizontal gap (in px units) between bounding boxes
+Color of a guideline when it is under mouse
+Exponent value controlling the focus for the light source
+Y coordinate of the target point in the convolve matrix. The convolution is applied to pixels around this point.
+When duplicating a selection containing both a clone and its original (possibly in groups), relink the duplicated clone to the duplicated original instead of the old original
+Interval (in minutes) at which document will be autosaved
+Rename layer
+New
+In Use
+Single scan: creates a path
+Same as Colors, but the result is converted to grayscale
+Apply Gaussian blur to the bitmap before tracing
+Add node
+Shift: click to toggle segment selection
+Ctrl+Alt: click to insert a node
+Linear segment: drag to convert to a Bezier segment, doubleclick to insert node, click to select (more: Shift, Ctrl+Alt)
+Auto-smooth node handle
+more: Shift, Ctrl, Alt
+more: Ctrl, Alt
+Shift+Ctrl+Alt: preserve length and snap rotation angle to %g° increments while rotating both handles
+Ctrl+Alt: preserve length and snap rotation angle to %g° increments
+Shift+Alt: preserve handle length and rotate both handles
+Alt: preserve handle length while dragging
+Shift+Ctrl: snap rotation angle to %g° increments and rotate both handles
+Ctrl: snap rotation angle to %g° increments, click to retract
+Shift: rotate both handles by the same angle
+Auto node handle: drag to convert to smooth node (%s)
+%s: drag to shape the segment (%s)
+Move handle by %s, %s; angle %.2f°, length %s
+Shift: drag out a handle, click to toggle selection
+Shift: click to toggle selection
+Ctrl+Alt: move along handle lines, click to delete node
+Ctrl: move along axes, click to change node type
+Alt: sculpt nodes
+%s: drag to shape the path (more: Shift, Ctrl, Alt)
+%s: drag to shape the path, click to toggle scale/rotation handles (more: Shift, Ctrl, Alt)
+%s: drag to shape the path, click to select only this node (more: Shift, Ctrl, Alt)
+Auto-smooth node
+Shift: drag to add nodes to the selection, click to toggle object selection
+%s Drag to select nodes, click to edit only this object (more: Shift)
+%s Drag to select nodes, click clear the selection
+Drag to select nodes, click to edit only this object
+Drag to select nodes, click to clear the selection
+Drag to select objects to edit, click to edit this object (more: Shift)
+Retract handle
+Shift+Ctrl: scale uniformly about the rotation center
+Ctrl: scale uniformly
+Shift+Alt: scale using an integer ratio about the rotation center
+Shift: scale from the rotation center
+Alt: scale using an integer ratio
+Scale handle: drag to scale the selection
+Scale by %.2f%% x %.2f%%
+Shift+Ctrl: rotate around the opposite corner and snap angle to %f° increments
+Shift: rotate around the opposite corner
+Ctrl: snap angle to %f° increments
+Rotation handle: drag to rotate the selection around the rotation center
+Rotate by %.2f°
+Shift+Ctrl: skew about the rotation center with snapping to %f° increments
+Shift: skew about the rotation center
+Ctrl: snap skew angle to %f° increments
+Skew handle: drag to skew (shear) selection about the opposite handle
+Skew horizontally by %.2f°
+Skew vertically by %.2f°
+List
+small
+huge
+narrow
+wider
+Flat color stroke
+Stroke is averaged over selected objects
+Adjusting stroke width: was %.3g, now %.3g (diff %.3g)
+Duplicate layer
+Delete layer
+Flip vertically
+tutorial-basic.svg
+tutorial-shapes.svg
+tutorial-advanced.svg
+tutorial-tracing.svg
+tutorial-calligraphy.svg
+tutorial-interpolate.svg
+tutorial-elements.svg
+Print document
+Import a document from Open Clip Art Library
+Remove Manual _Kerns
+Cut the bottom path into pieces
+Cut the bottom path's stroke into pieces, removing fill
+Outset selected paths by 10 px
+Reverse the direction of selected paths (useful for flipping markers)
+Combine several paths into one
+New View Preview
+Switch to outline (wireframe) display mode
+Select characters from a glyphs palette
+Edit the ID, locked and visible status, and other object properties
+Inkscape version, authors, license
+Getting started with Inkscape
+Advanced Inkscape topics
+Using bitmap tracing
+Using the interpolate extension
+Principles of design in the tutorial form
+Miscellaneous tips and tricks
+Font family
+Create gradient in the stroke
+Change gradient stop offset
+Offset:
+Now patterns remain fixed when objects are transformed (moved, scaled, rotated, or skewed).
+Horizontal coordinate of selection
+Vertical coordinate of selection
+When locked, change both width and height by the same proportion
+Set markers
+StrokeWidth_BAR_Width:
+Join:
+Miter join
+Round join
+Bevel join
+In color mode, act on objects' hue
+In color mode, act on objects' saturation
+In color mode, act on objects' lightness
+In color mode, act on objects' opacity
+Scale Factor (Drawing:Real Length) = 1:
+Manual override for automatic desktop file detection
+Your names
+Your emails
+No file paths were provided, so no debug packages could be found.
+Couldn't find debug packages
+No debug packages could be found for the files listed below. Do you want to continue anyway?
+Do you want to install the following debug packages so that the necessary debug symbols become available?
+Confirm package installation
+Install
+Files to find debug packages for
+Your names
+Your emails
+Jonathan Thomas
+Installed
+%P%F: bad -plugin-opt option
+%s: option '-W %s' requires an argument
+corba factory
+The factory pointer
+corba UI container
+The User interface container
+Dock the toolbar
+Undock the toolbar
+Shadow type
+Orientation
+Preferred width
+Preferred height
+Select a file to open
+Select files to open
+Select a filename to save
+Event Forwarding
+Name
+Description
+Interfaces required
+Interface required entry
+Visible
+_Show
+_Hide
+_View tooltips
+Toolbars
+toolbars
+Look
+_Icon
+_Text and Icon
+Text only
+Debug
+Configure UI
+FLAGS
+X display to use
+DISPLAY
+X screen to use
+SCREEN
+Program name as used by the window manager
+NAME
+Program class as used by the window manager
+CLASS
+Make all warnings fatal
+Load an additional Gtk module
+MODULE
+GTK+
+Bonobo GUI support
+B_oth
+T_ext
+Hide t_ips
+Show t_ips
+_Hide toolbar
+Customi_ze
+Customize the toolbar
+is floating
+whether the toolbar is floating
+Style of bevel around the toolbar
+Could not display help for this application
+_Contents
+View help for this application
+Zoom level
+The degree of enlargment
+Minimum Zoom level
+The minimum degree of enlargment
+Maximum Zoom level
+The maximum degree of enlargment
+Has a minimum Zoom level
+Has a maximum Zoom level
+Is continuous
+Select
+_Select
+About this application
+_About...
+_File
+_Edit
+This does nothing; it is only a demonstration.
+BonoboUI-Hello.
+Gnome Hello
+Hello, World!
+Cannot init libbonoboui code
+Could not initialize Bonobo UI
+Bonobo Component Browser
+Shows available Bonobo components
+Open a new window
+Close the current window
+About this program...
+_Help
+General
+IID
+Location
+Details
+Detailed Information
+Active
+Type
+Component Details
+Bonobo Browser
+Copyright 2001, The GNOME Foundation
+Bonobo component browser
+translator-credits
+Component Browser
+All
+Inactive
+Child Item 1
+Hint for item 1
+Child Item 2
+Hint for item 2
+Credits
+Written by
+Documented by
+Translated by
+C_redits
+Program name
+The name of the program
+Program version
+The version of the program
+Copyright string
+Copyright information for the program
+Comments string
+Comments about the program
+Authors
+List of authors of the programs
+Author entry
+A single author entry
+Documenters
+List of people documenting the program
+Documenter entry
+A single documenter entry
+Translator credits
+Credits to the translators. This string should be marked as translatable
+Logo
+A logo for the about box
+About %s
+_File
+_File/
+_Edit
+_Edit/
+_View
+_View/
+_Settings
+_Settings/
+_New
+_New/
+Fi_les
+Fi_les/
+_Windows
+_Game
+_Help
+_Windows/
+_Open...
+Open a file
+_Save
+Save the current file
+Save _As...
+Save the current file with a different name
+_Print...
+Print the current file
+Print S_etup...
+Setup the page settings for your current printer
+_Close
+Close the current file
+_Quit
+Quit the application
+Cu_t
+Cut the selection
+_Copy
+Copy the selection
+_Paste
+Paste the clipboard
+C_lear
+Clear the selection
+_Undo
+Undo the last action
+_Redo
+Redo the undone action
+_Find...
+Search for a string
+Find Ne_xt
+Search again for the same string
+R_eplace...
+Replace a string
+_Properties
+Modify the file's properties
+Prefere_nces
+Configure the application
+_About
+About this application
+Select _All
+Select everything
+Create New _Window
+Create a new window
+_Close This Window
+Close the current window
+_New Game
+Start a new game
+_Pause Game
+Pause the game
+_Restart Game
+Restart the game
+_Undo Move
+Undo the last move
+_Redo Move
+Redo the undone move
+_Hint
+Get a hint for your next move
+_Scores...
+View the scores
+_End Game
+End the current game
+_Contents
+View help for this application
+Text Below Icons
+Icons Only
+Text Only
+Use Desktop Default (%s)
+(press return)
+ERROR:
+Warning:
+y
+yes
+n
+no
+(yes or no)
+- OK? (yes or no)
+Progress
+App ID
+The application ID string
+Has Progress
+Create a progress widget.
+Has Status
+Create a status widget.
+You must log in to access "%s". %s
+Authentication Required
+You must log in to access %s
+Specify session management ID
+ID
+Specify prefix of saved configuration
+PREFIX
+Disable connection to session manager
+Session management:
+Show session management options
+Session management
+Cancel Logout
+Received invalid color data
+Open a dialog to specify the color
+Pick a color
+Time
+The time currently selected
+DateEdit Flags
+Flags for how DateEdit looks
+Lower Hour
+Lower hour in the time popup selector
+Upper Hour
+Upper hour in the time popup selector
+Initial Time
+The initial time
+Date
+Select Date
+Select the date from a calendar
+Calendar
+Select Time
+Select the time from a list
+Title
+Title of the druid
+Logo image
+Top Watermark
+Watermark image for the top
+Title Foreground
+Foreground color of the title
+Title Foreground Color
+Foreground color of the title as a GdkColor
+Title Foreground color set
+Foreground color of the title is set
+Background Color
+Background color
+Background color as a GdkColor
+Background color set
+Background color is set
+Contents Background Color
+Contents Background color
+Contents Background color as a GdkColor
+Contents Background color set
+Contents Background color is set
+Logo Background Color
+Logo Background color
+Logo Background color as a GdkColor
+Logo Background color set
+Logo Background color is set
+Show Finish
+Show the 'Finish' button instead of the 'Next' button
+Show Help
+Show the 'Help' button
+History ID
+GTK entry
+The GTK entry
+Browse Dialog Title
+Title for the Browse file dialog.
+Directory Entry
+Modal
+Whether the Browse file window should be modal.
+Filename
+Filename that should be displayed in the file entry.
+Default Path
+Default path for the Browse file window.
+GnomeEntry
+GtkEntry
+Use GtkFileChooser
+GtkFileChooser Action
+Select file
+Path
+Path to file
+_Browse...
+sans 12
+Pick a Font
+The title of the selection dialog box
+Mode
+The mode of operation of the font picker
+Font name
+Name of the selected font
+Font
+The selected GtkFont
+Preview text
+Preview text shown in the dialog
+Use font in label
+Use font in the label in font info mode
+Font size for label
+Font size for label in font info mode
+Show size
+Show size in font info mode
+GNOME GConf UI Support
+_Details
+URL
+Text
+The text on the button
+End World Hunger
+Link color
+Color used to draw the link
+Title for the Browse icon dialog.
+Pixmap Directory
+Directory that will be searched for icons.
+Filename that should be displayed in the icon entry.
+Picker dialog
+Choose Icon
+Icon selection dialog
+Icon Selector
+Please pick the icon you want.
+This button will open a window to let you select an icon.
+Browse
+Icon path
+Loading Icons...
+Information
+Warning
+Error
+Question
+Message
+_Username:
+_Domain:
+_Password:
+_New password:
+Con_firm password:
+Password quality:
+Co_nnect
+Connect _anonymously
+Connect as u_ser:
+_Forget password immediately
+_Remember password until you logout
+_Remember forever
+Do Preview
+No Image
+Image Preview
+Preview
+Top Ten
+User
+Score
+%a %b %d %T %Y
+Sans 14
+Table Borders
+Table Fill
+Bulleted List
+Numbered List
+Indent
+About
+GNOME GUI Library:
+Show GNOME GUI options
+X display to use
+DISPLAY
+GNOME GUI Library
+Could not open link
+Exit the test
+XID
+X window ID of the group leader of an application to examine
+Alias of --window
+Make the window appear in pagers
+Make the window not appear in tasklists
+HEIGHT
+Conflicting options are present: windows of an application should be listed, but --%s has been used
+Conflicting options are present: class group "%s" should be interacted with, but --%s has been used
+Window cannot be moved to workspace %d: the workspace does not exist
+%d ("%s")
+%lu (%s)
+Group Name: %s
+set
+Name: %s
+PID: %s
+Geometry (x, y, width, height): %d, %d, %d, %d
+Session ID: %s
+Transient for: %lu
+%1$s%2$s%3$s
+skip pager
+Cannot interact with workspace %d: the workspace cannot be found
+undelete message
+Next
+esabfci
+eswabfc
+Requested fill size "%s" is invalid
+Connect to Server
+Saved search
+X
+Y
+Text
+The text of the label.
+Justification
+Line wrap
+If set, wrap lines if the text becomes too wide.
+Cursor Position
+The current position of the insertion cursor in chars.
+Selection Bound
+The position of the opposite end of the selection from the cursor in chars.
+Select All
+Show more _details
+You can stop this operation by clicking cancel.
+(invalid Unicode)
+Cut the selected text to the clipboard
+Copy the selected text to the clipboard
+Paste the text stored on the clipboard
+Select _All
+Move _Up
+Move Dow_n
+Use De_fault
+Name
+The name and icon of the file.
+Size
+The size of the file.
+Type
+Owner
+The owner of the file.
+Group
+The group of the file.
+Permissions
+The permissions of the file.
+MIME Type
+Location
+on the desktop
+If you want to unmount the volume, please use Unmount Volume in the popup menu of the volume.
+_Move Here
+_Copy Here
+_Link Here
+Set as _Background
+Cancel
+File not found
+Unable to rename desktop file
+Specified group '%s' doesn't exist
+? items
+? bytes
+Unknown
+unknown
+Image
+Video
+Link
+Size:
+Type:
+Reset
+_Skip
+S_kip All
+_Retry
+_Delete
+Delete _All
+_Replace
+Replace _All
+Another link to %s
+(copy)
+(another copy)
+%s (%'dth copy)%s
+%s (%'drd copy)%s
+(
+Empty _Trash
+Deleting files
+Error while deleting.
+Error while copying.
+Error while moving.
+Duplicating file %'d of %'d
+%S of %S
+Could not add application
+%s document
+_Add
+Search
+Show folders first in windows
+Desktop font
+Show mounted volumes on the desktop
+Width of the side pane
+Show location bar in new windows
+Quit Nautilus.
+[URI...]
+New _Window
+_Bookmarks
+Prefere_nces
+_Help
+_Run
+Remove
+_Manually
+By _Name
+By _Size
+By _Type
+Icon View
+This doesn't look like an address.
+C_onnect
+E_mpty Trash
+Change Desktop _Background
+Empty Trash
+Comment
+URL
+Description
+Command
+Desktop
+None
+Views
+Trash
+List View
+Display
+List Columns
+Preview
+By Name
+By Size
+By Type
+By Modification Date
+50%
+100%
+150%
+200%
+400%
+1 MB
+3 MB
+5 MB
+10 MB
+100 MB
+1 GB
+Copyright
+Date Taken
+Date Modified
+Software
+Keywords
+Creator
+(Empty)
+_Close
+Mo_ve to Trash
+Run in _Terminal
+_Display
+Are you sure you want to open all files?
+Close tab
+Properties
+%s Properties
+nothing
+unreadable
+(some contents unreadable)
+Contents:
+used
+free
+Filesystem type:
+Basic
+Link target:
+Location:
+Volume:
+Accessed:
+Modified:
+Free space:
+no
+list
+read
+create/delete
+write
+access
+List files only
+Access files
+Create and delete files
+Read-only
+Read and write
+Access:
+Folder access:
+File access:
+_Owner:
+Owner:
+_Group:
+Group:
+Others
+Execute:
+Others:
+Open With
+Creating Properties window.
+Select Custom Icon
+_Open
+File Type
+Documents
+Music
+Picture
+Text File
+Select type
+Any
+Restore selected items to their original position
+_Pattern:
+Save Search as
+Search _name:
+_Folder:
+(%s)
+Open Wit_h
+Open in New _Tab
+_Open Scripts Folder
+_Paste Into Folder
+Select all items in this window
+Rename selected item
+Move each selected item to the Trash
+_Restore
+_Undo
+Redo the last undone action
+_Mount
+Mount the selected volume
+_Unmount
+Unmount the selected volume
+_Stop
+Open File and Close window
+Sa_ve Search
+Save the edited search
+Save the current search as a file
+Open this folder in a new tab
+Move this folder to the Trash
+Delete this folder, without moving to the Trash
+Show _Hidden Files
+_Scripts
+_Connect
+Open in New _Window
+_Delete Permanently
+Delete the open folder permanently
+Move the open folder to the Trash
+_Properties
+Move Tab _Left
+Move Tab _Right
+_Close Tab
+translator-credits
+_File
+_Edit
+_View
+Go
+Close this folder
+Edit Nautilus preferences
+Open _Parent
+Open the parent folder
+Stop loading the current location
+_Reload
+Reload the current location
+_About
+Zoom _In
+Increase the view size
+Zoom _Out
+Decrease the view size
+Normal Si_ze
+_Home
+New _Tab
+Close _All Windows
+_Back
+Go to the previous visited location
+_Forward
+Go to the next visited location
+_Previous Tab
+Activate previous tab
+_Next Tab
+Activate next tab
+Move current tab to left
+Move current tab to right
+_Up
+Don't have permission to access the requested location.
+never
+%u Mb/s
+An application has crashed on your system (now or in the past)
+Details
+Ignore for now
+(C) 2009 Jonathan Thomas, (C) 2009-2013 Harald Sitter
+Software upgrade notifications are available
+Ignore
+System Notification Helper
+Hide
+Language support is incomplete, additional packages are required
+Install
+A system restart is needed to complete the update process
+Restart
+Proprietary drivers might be required to enable additional features
+Manage Drivers
+Google Talk support for Kopete
+register name used as immediate value
+%s: option '-W %s' requires an argument
+No previous regular expression
+^[yY]
+Packaged by %s
+Written by %s, %s, %s, %s, %s, %s, %s, %s, %s, and others.
+Error
+Account was not added
+New mail notifications
+Remember password
+Modify Account
+New Account
+Protocol:
+Password:
+Alias:
+Cancel
+Save
+Delete Account
+Delete
+Accounts
+Add
+Modify
+Add buddy to your list?
+Authorize
+Online: %d Total: %d
+Account: %s (%s)
+Last Seen: %s ago
+Error adding buddy
+Username
+Account
+Add Buddy
+Please enter buddy information.
+Chats
+Name
+Alias
+Group
+Auto-join
+Add Chat
+Error adding group
+Add Group
+Edit Chat
+Edit
+Get Info
+Add Buddy Pounce
+Send File
+Blocked
+Rename
+Remove
+Buddy List
+Nickname
+Idle
+New...
+Saved...
+Plugins
+Block
+Unblock
+OK
+New Instant Message
+Join a Chat
+Join
+Please enter the username or alias of the person whose log you would like to view.
+Options
+Send IM...
+Alphabetically
+Chat
+Info
+Close
+%s (%s)
+%s disconnected.
+Re-enable Account
+%s (%s -- %s)
+%s [%s]
+Logging started. Future messages in this conversation will be logged.
+Logging stopped. Future messages in this conversation will not be logged.
+Show Timestamps
+Debug Window
+Clear
+Pause
+File Transfers
+Progress
+Filename
+Size
+Remaining
+Status
+Cancelled
+Failed
+Finished
+%B %Y
+Conversations with %s
+System Log
+Reject
+Emails
+You have mail!
+Subject
+New Mail
+Info for %s
+Buddy Information
+Continue
+IM
+Invite
+(none)
+Name: %s Version: %s Description: %s Author: %s Website: %s Filename: %s
+Configure Plugin
+Preferences
+New Buddy Pounce
+Edit Buddy Pounce
+Account:
+Buddy name:
+Pounce When Buddy...
+Sends a message
+Action
+Recurring
+Buddy Pounces
+%s has signed on (%s)
+%s has returned from being away (%s)
+%s has signed off (%s)
+%s has gone away. (%s)
+Never
+Conversations
+Logging
+Save File...
+Open File...
+Room List
+Automatic
+Sound Options
+Always
+Test
+Choose...
+Message
+Use
+Status:
+Message:
+Save & Use
+Sounds
+Statuses
+%s just signed on
+%s just signed off
+Conversation with %s on %s:
+Online
+Offline
+Lastlog
+accounts
+Connection Error
+New password
+New password (again)
+Change password for %s
+Change user information for %s
+Set User Info
+Unknown
+Buddies
+buddy list
+The certificate has expired and should not be considered valid. Check that your computer's date and time are accurate.
+Registration Error
++++ %s signed on
++++ %s signed off
+The message is too large.
+Send Message
+_Send Message
+No name
+File transfer complete
+File transfer cancelled
+HTML
+Logging of this conversation failed.
+XML
+_Save
+_Cancel
+Ask
+Notes
+Edit Notes...
+Buddy Notes
+Cipher Test
+Minutes
+I'dle Mak'er
+Set Account Idle Time
+_Set
+Unset Account Idle Time
+Set Idle Time for All Accounts
+Unset Idle Time for All Idled Accounts
+(UTC)
+User is offline.
+%s has signed off.
+Adium
+Fire
+Messenger Plus!
+MSN Messenger
+Trillian
+New Line
+Offline Message
+Yes
+No
+Signals Test
+Simple Plugin
+GNUTLS
+NSS
+SSL
+%s is no longer away.
+%s has gone away.
+%s has become idle.
+%s is no longer idle.
+%s has signed on.
+Notify When
+Buddy Goes _Away
+Buddy Goes _Idle
+First name
+Last name
+Email
+AIM Account
+Bonjour Protocol Plugin
+Bonjour
+Load Buddylist...
+Save buddylist...
+City
+Year of birth
+Gender
+Male or female
+Male
+Female
+Only online
+Find buddies
+Add to chat...
+Available
+Chatty
+Away
+UIN
+First Name
+Birth Year
+Search results
+Connected
+Connection failed
+Add to chat
+Chat _name:
+Chat error
+Find buddies...
+current topic is: %s
+No topic is set
+File Transfer Failed
+MOTD for %s
+View MOTD
+_Channel:
+_Password:
+Unable to connect
+Users
+Topic
+Server
+Encodings
+Real name
+Use SSL
+Nick
+Idle for
+Online since
+%s has cleared the topic.
+The topic for %s is: %s
+No such channel
+no such channel
+Invalid nickname
+PONG
+Disconnected.
+Server requires plaintext authentication over an unencrypted stream
+Resource Constraint
+URL
+Region
+Postal Code
+Country
+Job Title
+Birthday
+Description
+Resource
+Address
+Photo
+Initiate _Chat
+Email Address
+Search for XMPP users
+Search
+_Room:
+_Server:
+%s is not a valid room name
+Invalid Room Name
+%s is not a valid server name
+Postal code
+Already Registered
+Password
+Register
+Mood
+From
+None
+Set User Info...
+Change Password...
+Search for Users...
+Incorrect encoding in authorization
+Temporary Authentication Failure
+Authentication Failure
+Resource Conflict
+Invalid ID
+Invalid XML
+Remote Connection Failed
+Unsupported Encoding
+register: Register with a chat room.
+Extended Away
+Connect server
+%s has set the topic to: %s
+The topic is: %s
+Angry
+Anxious
+Ashamed
+Bored
+Excited
+Happy
+Invincible
+Jealous
+Sad
+Sleepy
+Cannot remove group zero
+Server unavailable
+Authentication failed
+Unknown Error Code %d
+You can sign out from other locations here
+Allow
+Has you
+Be Right Back
+Set Friendly Name...
+Set Home Phone Number...
+Set Work Phone Number...
+Set Mobile Phone Number...
+Allow/Disallow Mobile Pages...
+Open Hotmail Inbox
+General
+Age
+Occupation
+Location
+Humor
+Contact Info
+Personal
+Home Phone
+Home Phone 2
+Home Address
+Personal Mobile
+Personal Email
+Work
+Company
+Profession
+Work Phone
+Work Phone 2
+Work Address
+Work Mobile
+Work Email
+Start Date
+Homepage
+Unable to add user
+Connection error from %s server: %s
+Away From Computer
+Profile Update Error
+Profile
+Verify PIN
+_Search
+Re-Invite
+In Love
+Zapping %s...
+Whacking %s...
+Torching %s...
+Hugging %s...
+Slapping %s...
+High-fiving %s...
+Error communicating with server
+User ID
+Full name
+Server address
+_OK
+Surfing
+Mobile
+AIM Protocol Plugin
+Encoding
+Web Aware
+Invisible
+_Add
+_Decline
+Your AIM connection may be lost.
+You have been disconnected from chat room %s.
+Error Changing Account Info
+The email address for %s is %s
+Account Info
+Unable to set AIM profile.
+Away message too long.
+Orphans
+(no name)
+_Exchange:
+Buddy Comment for %s
+Buddy Comment:
+C_onnect
+Get AIM Info
+Edit Buddy Comment
+Direct IM
+Set Privacy Options...
+Confirm Account
+Display Currently Registered Email Address
+Change Currently Registered Email Address...
+Show Buddies Awaiting Authorization
+Search for Buddy by Email Address...
+Buddy Icon
+AIM Direct IM
+Games
+ICQ RTF
+ICQ UTF8
+User information not available: %s
+Mobile Phone
+Personal Web Page
+Additional Information
+Zip Code
+Work Information
+Division
+Position
+Web Page
+Online Since
+Appear Online
+Appear Offline
+Info for Group %s
+Login Acknowledged
+File Transfer
+Supports
+External User
+Create conference with user
+New Conference
+Create
+Available Conferences
+Create New Conference...
+Invite user to a conference
+Invite to Conference
+Invite to Conference...
+Topic:
+Unknown (0x%04x)
+User Name
+Select User
+Error reading file %s: %s
+A group named '%s' already exists in your buddy list.
+Unable to add group
+Search Results
+User Search...
+Set IM Password
+User Information
+The %s buddy is not present in the network
+_Import...
+Select correct user
+Detached
+Wake Me Up
+Robot
+User Modes
+Preferred Contact
+Preferred Language
+Device
+IM with Password
+Kill User
+Draw On Whiteboard
+_Passphrase:
+Channel Information
+Channel Cipher: %s
+Channel HMAC: %s
+Channel Topic:%s
+Channel Passphrase
+Add / Remove
+Group Name
+Passphrase
+User Limit
+Secure File Transfer
+Error during file transfer
+File transfer already started
+Cannot send file
+Killed by %s (%s)
+Personal Information
+Birth Day
+Job Role
+Organization
+Note
+Join Chat
+Real Name
+Status Text
+_More...
+Cannot set topic
+Roomlist
+Server Information
+Ping
+Ping failed
+Passphrase required
+_View...
+Disconnected by server
+SMS
+MMS
+Online Services
+Message of the Day
+No Message of the Day available
+There is no Message of the Day associated with this connection
+Online Status
+Topic too long
+channel %s not found
+topic [lt;new topicgt;]: View or change the topic
+motd: View the server's Message Of The Day
+ping: Send PING to the connected server
+Network
+Cipher
+HMAC
+Real Name: \t%s
+User Name: \t%s
+Email: \t\t%s
+Organization: \t%s
+Country: \t%s
+Computer
+Whiteboard
+Use UDP
+Use proxy
+Proxy
+Auth User
+doodle: Request user to start a Doodle session
+File transfer server
+Chat room list URL
+Yahoo! system message for %s:
+Add buddy rejected
+Failed Yahoo! Authentication
+Not at Home
+Not at Desk
+Not in Office
+Stepped Out
+Not on server list
+Appear Permanently Offline
+Presence
+Don't Appear Permanently Offline
+Join in Chat
+Initiate Conference
+Presence Settings
+Start Doodling
+Join whom in chat?
+Activate ID...
+Join User in Chat...
+Sent Doodle request.
+Unable to connect.
+Write Error
+Yahoo! Japan Profile
+Yahoo! Profile
+Yahoo! ID
+Hobbies
+Home Page
+Failed to join chat
+Unknown room
+Maybe the room is full
+Not available
+You are now chatting in %s.
+Fetching the room list failed.
+Voices
+Connection problem
+User Rooms
+Anyone
+_Class:
+HTTP proxy connection error %d
+_Yes
+_No
+_Accept
+I'm not here right now
+saved statuses
+%s became idle
+%s became unidle
++++ %s became idle
++++ %s became unidle
+%x %X
+Calculating...
+Unknown.
+Unable to connect to %s
+Error writing to %s: %s
+Unable to connect to %s: %s
+Error Reading %s
+Internet Messenger
+Login Options
+_Username:
+User Options
+No Proxy
+SOCKS 4
+SOCKS 5
+HTTP
+Proxy _type:
+Pa_ssword:
+Add Account
+_Basic
+Protocol
+_Block
+Get _Info
+I_M
+View _Log
+_Alias...
+_Remove
+Remove Custom Icon
+_Rename
+_Join
+_Expand
+/Tools/Mute Sounds
+Edit User Mood
+/_Buddies
+/Buddies/New Instant _Message...
+/Buddies/Join a _Chat...
+/Buddies/Get User _Info...
+/Buddies/View User _Log...
+/Buddies/_Sort Buddies
+/Buddies/_Add Buddy...
+/Buddies/Add C_hat...
+/Buddies/Add _Group...
+/Buddies/_Quit
+/_Accounts
+/_Tools
+/Tools/Buddy _Pounces
+/Tools/Plu_gins
+/Tools/Pr_eferences
+/Tools/Pr_ivacy
+/Tools/_File Transfers
+/Tools/R_oom List
+/Tools/System _Log
+/Tools/Mute _Sounds
+/_Help
+/Help/Online _Help
+/Help/_Debug Window
+/Help/_About
+Buddy Alias
+Logged In
+Last Seen
+Awesome
+Idle %dh %02dm
+Idle %dm
+/Buddies/New Instant Message...
+/Buddies/Join a Chat...
+/Buddies/Get User Info...
+/Buddies/Add Buddy...
+/Buddies/Add Chat...
+/Buddies/Add Group...
+/Tools/Privacy
+/Tools/Room List
+Manually
+By status
+%s disconnected
+Username:
+Password:
+_Login
+/Accounts
+_Group:
+Enable Account
+_Edit Account
+No actions available
+_Disable
+/Tools
+/Buddies/Sort Buddies
+Invite Buddy Into Chat Room
+_Buddy:
+_Message:
+Conversation with %s
+Save Conversation
+Get Away Message
+Save Icon
+Hide Icon
+Save Icon As...
+Set Custom Icon...
+/_Conversation
+/Conversation/New Instant _Message...
+/Conversation/_Find...
+/Conversation/View _Log
+/Conversation/_Save As...
+/Conversation/Se_nd File...
+/Conversation/Add Buddy _Pounce...
+/Conversation/_Get Info
+/Conversation/M_ore
+/Conversation/Al_ias...
+/Conversation/_Block...
+/Conversation/_Add...
+/Conversation/_Remove...
+/Conversation/Insert Lin_k...
+/Conversation/Insert Imag_e...
+/Conversation/_Close
+/_Options
+/Options/Enable _Logging
+/Options/Enable _Sounds
+/Options/Show Ti_mestamps
+/Conversation/More
+/Conversation
+/Conversation/Send File...
+/Conversation/Add Buddy Pounce...
+/Conversation/Get Info
+/Conversation/Alias...
+/Conversation/Block...
+/Conversation/Add...
+/Conversation/Remove...
+/Conversation/Insert Link...
+/Conversation/Insert Image...
+/Options/Enable Logging
+/Options/Enable Sounds
+/Options/Show Timestamps
+_Send
+0 people in room
+Unread Messages
+Confirm close
+New window
+By group
+By account
+Find
+_Search for:
+_Icon Only
+_Both Icon & Text
+Level
+All
+Misc
+Warning
+Error
+Fatal Error
+libfaim maintainer
+Arabic
+Bulgarian
+Bengali
+German
+Greek
+Persian
+French
+Galician
+Gujarati
+Hebrew
+Hindi
+Italian
+Japanese
+Korean
+Kurdish
+Nepali
+Portuguese
+Romanian
+Russian
+Tamil
+Vietnamese
+Turkish
+_Name
+_Account
+Get User Info
+View User Log
+Alias Contact
+Alias Buddy
+Alias Chat
+Remove Contact
+_Remove Contact
+Remove Group
+_Remove Group
+Remove Buddy
+_Remove Buddy
+Remove Chat
+_Remove Chat
+Not started
+Receiving From:
+Sending As:
+Filename:
+Local File:
+Speed:
+Time Remaining:
+C_lear finished transfers
+File transfer _details
+Save Image
+_Save Image...
+Select Font
+_URL
+_Description
+Insert Link
+Insert Image
+Smile!
+Italic
+Underline
+Conversation with %s on %s
+_Pause
+Open All Messages
+You have mail!
+New Pounces
+Plugin Details
+Modify Buddy Pounce
+Pounce on Whom
+_Account:
+_Buddy name:
+Si_gns on
+Signs o_ff
+Goes a_way
+Ret_urns from away
+Becomes _idle
+Sends a _message
+Ope_n an IM window
+Send a _message
+_Recurring
+Pounce Target
+System Tray Icon
+_Show system tray icon:
+On unread messages
+When away
+_Placement:
+Top
+Bottom
+Left
+Right
+N_ew conversations:
+ST_UN server:
+Example: stunserver.org
+Seamonkey
+Opera
+Netscape
+Mozilla
+Konqueror
+Galeon
+Firefox
+Firebird
+Epiphany
+Chromium (chromium-browser)
+_Open link in:
+Proxy Server
+No proxy
+Log all _instant messages
+Log all c_hats
+Log all _status changes to system log
+_Report idle time:
+_Auto-reply:
+When both away and idle
+Interface
+Status / Idle
+Privacy
+Permit User
+_Permit
+Block User
+Block %s?
+Choose New Name
+_Get List
+_Add Chat
+_Status:
+Sa_ve & Use
+Status for %s
+Set as buddy icon
+Send image file
+You can insert this image into this message, or use it as the buddy icon for this user
+Icon Error
+Could not set icon
+_Copy Link Location
+Save File
+Select color
+_Alias
+_Get Info
+_Invite
+_Open Mail
+minutes
+Buddy is idle
+Buddy is away
+Buddy is "extended" away
+Buddy is mobile
+Buddy is offline
+Contact Priority
+System Messages
+Sent Messages
+Received Messages
+Apply in IMs
+Other
+By conversation count
+Conversation Placement
+Right mouse button
+Group:
+New Person
+Select Buddy
+User _details
+Send Email
+Account type:
+First name:
+Last name:
+Email:
+History
+Iconify on Away
+_IM windows
+C_hat windows
+The Music Messaging Plugin allows a number of users to simultaneously work on a piece of music by editing a common score in real-time.
+Notify For
+_Focused windows
+_Present conversation window
+Select Interface Font
+Fonts
+Raw
+Display Timestamps Every
+Always on top
+Buddy List Window
+Account:
+An instance of Pidgin is currently running. Please exit Pidgin and try again.
+Next >
+List of valid formats:
+guide: Gentoo Linux's XML documentation format.
+Write files and return to main menu.
+Server for %s
+Recently Added
+Recently Played
+My Top Rated
+Rhythmbox
+Music Player
+Rhythmbox Music Player
+Play and organize your music collection
+_View
+_Tools
+_Help
+_About
+_Quit
+_Playlist
+_Delete
+Pr_operties
+_Close
+_Edit
+Cu_t
+_Copy
+_Paste
+Select _All
+D_eselect All
+Add _to Play Queue
+_New Playlist
+_Move to Trash
+Prefere_nces
+Side _Pane
+_Control
+_Play
+Pre_vious
+_Next
+_Increase Volume
+_Decrease Volume
+_Repeat
+_Contents
+songs
+MB
+GB
+Minutes
+_When sorted by:
+Browser Views
+_Artists and albums
+_Genres and artists
+G_enres, artists and albums
+Visible Columns
+Track _number
+_Artist
+A_lbum
+_Year
+_Last played
+_Genre
+Da_te added
+_Play count
+_Rating
+Ti_me
+_Quality
+_Remove
+_Browse...
+_Watch my library for new files
+_File name:
+_Preferred format:
+Artist/Artist - Album/Artist (Album) - 01 - Title.ogg
+Basic
+_Properties
+_Edit...
+_Rename
+_Queue All Tracks
+_Save to File...
+By extension
+Save Playlist
+Select playlist format:
+Title:
+Author:
+Last updated:
+Description:
+Last episode:
+Source:
+Language:
+Copyright:
+Details
+_Download location:
+Check for _new episodes:
+Feed:
+Date:
+_Rating:
+Play count:
+Last played:
+Duration:
+Download location:
+Add
+_Artist:
+_Genre:
+_Year:
+_Disc number:
+_Title:
+Error message
+File name:
+Location:
+File size:
+Date added:
+Never
+Today %I:%M %p
+Yesterday %I:%M %p
+%a %I:%M %p
+%b %d %I:%M %p
+%b %d %Y
+Unknown
+%d:%02d
+%d:%02d:%02d
+%d:%02d of %d:%02d remaining
+%d:%02d:%02d of %d:%02d:%02d remaining
+%d:%02d of %d:%02d
+%d:%02d:%02d of %d:%02d:%02d
+Track %u
+Status:
+Tracks submitted:
+Disabled
+OK
+Logging in
+Request failed
+%s plays
+Recommendations for User:
+%s's Library
+%s's Neighbourhood
+%s's Recommended Radio
+%s's Mix Radio
+%s Group Radio
+Invalid station URL
+Not enough content to play station
+Error tuning station: invalid response
+Audio CD Recorder
+Albums
+_Share my music
+Require _password:
+New DAAP share
+Could not connect to shared music
+Artists
+Playlists
+FM Radio
+New FM Radio Station
+Frequency of radio station
+_Name:
+Podcasts
+Internet Radio
+Remove
+Genre
+Radio
+New Internet Radio Station
+URL of internet radio station:
+%s Properties
+%lu kbps
+L_ocation:
+Browse...
+Searching for lyrics...
+http://www.magnatune.com/
+Preferred audio _format:
+http://www.magnatune.com/info/
+Error
+Notification
+by %s
+from %s
+Not Playing
+Power Manager
+Playing
+Fullscreen
+Quality
+Title
+Episodes
+Date
+Downloading podcast
+Finished downloading podcast
+New updates available from
+Error in podcast
+Invalid URL
+URL already added
+Podcast
+Not Downloaded
+Delete _Feed Only
+_Delete Feed And Files
+Downloaded
+Failed
+Waiting
+Feed
+Status
+Search all fields
+Search podcast feeds
+Search podcast episodes
+Quit Rhythmbox
+Jump to next song
+Jump to previous song
+Toggle play/pause mode
+Print the current playback volume
+Not playing
+Playback volume is %f.
+Empty file
+%s, %s and %s
+%s and %s
+All
+Python Sample Plugin
+Python Source
+Sample Plugin
+Configure Plugins
+translator-credits
+Maintainers:
+Former Maintainers:
+Contributors:
+Rhythmbox Website
+Couldn't display help
+Untitled Playlist
+New Playlist
+Couldn't read playlist
+Load Playlist
+Couldn't save playlist
+Unsupported file extension given.
+Playlist %s already exists
+Unknown playlist: %s
+Playlist %s is an automatic playlist
+Stop playback
+Start playback
+Unknown song URI: %s
+Unknown property %s
+Playlist was empty
+Not currently playing
+No previous song
+No next song
+Couldn't stop playback
+Couldn't start playback
+General
+Playback
+_Cancel
+Search artists
+Search albums
+Search titles
+Library
+Stores
+Devices
+Shared
+Import Errors
+Artist/Artist - Album
+Artist/Album
+Artist - Album
+Album
+Number - Title
+Artist - Title
+Artist - Number - Title
+Artist (Album) - Number - Title
+Number. Artist - Title
+Music
+Choose Library Location
+Multiple locations set
+Example Path:
+Missing Files
+Play Queue
+from
+by
+Connecting
+Track
+Composer
+Comment
+Time
+000 kbps
+Last Seen
+Location
+Now Playing
+Playback Error
+%s (%d)
+Create Automatic Playlist
+Edit Automatic Playlist
+Album Artist
+Path
+Disc Number
+Bitrate
+Time of Last Play
+Time Added to Library
+_In reverse alphabetical order
+W_ith more highly rated tracks first
+W_ith more often played songs first
+W_ith newer tracks first
+W_ith longer tracks first
+_In decreasing order
+W_ith more recently played tracks first
+W_ith more recently added tracks first
+contains
+does not contain
+equals
+starts with
+ends with
+at least
+in
+after
+before
+in the last
+not in the last
+seconds
+minutes
+hours
+days
+weeks
+_Search:
+Song Properties
+Multiple Song Properties
+Unknown file name
+On the desktop
+Unknown location
+Shockwave Flash file
+failed to return to initial working directory
+%s (%s)
+Root object must be a transaction root
+File is not mutable: filesystem '%s', revision %ld, path '%s'
+'%s' is not a directory in filesystem '%s'
+'%s' is not a file in filesystem '%s'
+Path '%s' is already locked by user '%s' in filesystem '%s'
+No lock on path '%s' in filesystem '%s'
+Lock has expired: lock-token '%s' in filesystem '%s'
+No username is currently associated with filesystem '%s'
+PowerPC 64-bit
+ext3
+Device/ Partition Number
+failed to return to initial working directory
+'
+^[yY]
+Packaged by %s
+Written by %s, %s, %s, %s, %s, %s, %s, %s, %s, and others.
+read
+Write checkpoint %u
+Failed to mount %s.
+No media in drive for device '%s'.
+Please check that a disc is present in the drive.
+Audio CD
+Video CD
+DVD
+Digital Television
+Stopped
+Paused
+Playing
+Totem Movie Player
+_Open with "%s"
+An error occurred
+No playlist or playlist empty
+Leave Fullscreen
+Time:
+Subtitle font
+_Remove
+Remove file from playlist
+_Copy Location
+Copy the location to the clipboard
+Add...
+Remove
+Save Playlist...
+Move Up
+Move Down
+Large
+Extra Large
+Totem Preferences
+_Font:
+General
+Display
+Disable screensaver when playing
+Video
+_Brightness:
+Audio Output
+_Audio output type:
+Audio
+Title:
+Artist:
+Duration:
+Year:
+Album:
+Comment:
+Dimensions:
+Channels:
+Videos
+Play/Pause
+Next
+Previous
+_Movie
+_Open...
+Open a file
+Open _Location...
+_Eject
+_Properties
+Play / P_ause
+Play or pause the movie
+_Quit
+Quit the program
+_Edit
+_Clear Playlist
+Clear the playlist
+Prefere_nces
+Plugins...
+_View
+_Fullscreen
+Fit Window to Movie
+_Go
+_DVD Menu
+Go to the DVD menu
+_Title Menu
+Go to the title menu
+A_udio Menu
+Go to the audio menu
+_Chapter Menu
+Go to the chapter menu
+_Next Chapter/Movie
+Next chapter or movie
+_Previous Chapter/Movie
+Previous chapter or movie
+_Sound
+Volume _Up
+Volume _Down
+_Help
+_Contents
+Help contents
+_About
+Show _Controls
+Show controls
+S_idebar
+Show or hide the sidebar
+S_ubtitles
+_Languages
+Zoom In
+Zoom in
+Mono
+Not a launchable item
+By Extension
+File Format
+Extension(s)
+FILE
+ID
+Session management options:
+Show session management options
+%d:%02d:%02d
+%d:%02d
+Unknown
+%s %s %s
+0 seconds
+_Play Now
+_Add to Playlist
+Cancel
+No File
+The file does not exist.
+Totem contains an exception to allow the use of proprietary GStreamer plugins.
+None
+translator-credits
+Totem Website
+Configure Plugins
+Pause
+Play
+Play / Pause
+No reason.
+Open Location...
+Volume Up
+Volume Down
+Quit
+XML Shareable Playlist
+Title %d
+Save Playlist
+Playlist
+Playlist error
+Preferences
+Select Subtitle Font
+Audio/Video
+%d kbps
+%d Hz
+0:00 / 0:00
+%s / %s
+%s, %s
+Current Locale
+Arabic
+Armenian
+Baltic
+Central European
+Chinese Simplified
+Chinese Traditional
+Croatian
+Cyrillic
+Cyrillic/Russian
+Cyrillic/Ukrainian
+Greek
+Gujarati
+Gurmukhi
+Hindi
+Icelandic
+Japanese
+Korean
+Persian
+Romanian
+South European
+Thai
+Turkish
+Unicode
+Western
+Vietnamese
+All files
+Supported files
+Audio files
+Video files
+Subtitle files
+Select Text Subtitles
+Select Movies or Playlists
+Add Directory
+%s: %s %s: %d×%d %s: %s
+Filename
+Resolution
+Duration
+Subtitles
+Format
+Subtitle _language:
+_Play with Subtitle
+Properties
+Number of screenshots:
+Save Gallery
+Creating Gallery...
+Saving gallery as "%s"
+Take a screenshot
+Create Screenshot _Gallery...
+Create a gallery of screenshots
+_Skip to:
+Server for %s
+File %s of %s
+Please insert '%s' into the drive '%s'
+%(str_days)s %(str_hours)s
+Details [d]
+y
+n
+x
+Power
+Colorspace fallback
+Colorspace fallback
+Colorspace fallback
+Device kind
+Device kind
+Device kind
+Device kind
+Device kind
+Zoom Grayscale
+display panel, rotation
+display panel, rotation
+display panel, rotation
+MirroredPantallas en EspejoMirroredPantallas en Espejo
+64-bit" or "32-bit
+translation
+Distance
+Page SetupPrinter Option Group
+Wifi security
+Wacom action-type
+Signal strength
+Password strength
+Signal strength
+Password strength
+proxy method
+proxy method
+1 hour 5 minutes
+1 hour 5 minutes
+Battery power
+Battery power
+1 hour 5 minutes
+Battery power
+Battery power
+Developer
+Developer
+marker
+marker
+printer state
+printer state
+printer state
+printer state
+printer state
+print job
+print job
+printer state
+Two Sided
+Two Sided
+Two Sided
+Orientation
+Orientation
+Orientation
+Orientation
+print job
+print job
+print job
+print job
+print job
+GeneralPrinter Option Group
+Installable OptionsPrinter Option Group
+JobPrinter Option Group
+Image QualityPrinter Option Group
+ColorPrinter Option Group
+AdvancedPrinter Option Group
+MyPrinter Options
+Paper Source
+Paper SourceResolution
+GhostScript
+GhostScript
+GhostScript
+GhostScript
+balance
+balance
+balance
+balance
+balance
+balance
+volume
+universal access, text size
+universal access, contrast
+universal access, text size
+universal access, text size
+universal access, text size
+universal access, zoom
+Beep when a key is
+Beep when a key is
+Beep when a key is
+Distance
+Distance
+Distance
+Distance
+Zoom Grayscale
+Account type
+Account type
+Password strength
+Password strength
+Password strength
+Password strength
+Could you not access "Digital Persona U.are.U 4000/4000B
+Could you not access "Digital Persona U.are.U 4000/4000B
+Feb 18Feb 24login history week label
+Feb 24, 2013
+22:58login date-time
+login date-time
+Password mode
+Password mode
+Password mode
+Feb 24
+Wacom action-type
+Wacom action-type
+Wacom action-type
+Wacom tablet button
+Wacom tablet button
+left-ring-mode-1
+right-ring-mode-1
+left-strip-mode-1
+right-strip-mode-1
+The software on this computer is up to date.
+Upgrade…
+Software updates are no longer provided for %s %s.
+The computer also needs to restart to finish installing previous updates.
+%s base
+(waiting)
+------ Shared Memory Status --------
+E603: :catch without :try
+E606: :finally without :try
+GNOME Desktop Sharing
+vino-mdns:showusername
+translator-credits
+Attempt to set invalid NRC map '%c'.
+Charset Settings
+%s: option '-W %s' requires an argument
+%s (system)
+Invalid dot style specification %s; leaving unchanged.
+translator-credits
+Update standard folders to current language?
+You have logged in in a new language. You can automatically update the names of some standard folders in your home folder to match this language. The update would change the following folders:
+_Keep Old Names
+_Update Names
+Current folder name
+New folder name
+Note that existing content will not be moved.
+_Don't ask me this again
+There was an error updating the folders
+User folders update
+Update common folders names to match current locale
+Applications
+applications
+Desktop
+desktop
+Documents
+documents
+Download
+download
+Movies
+movies
+Music
+music
+Photos
+photos
+Pictures
+pictures
+Projects
+projects
+Public
+public
+Share
+share
+Templates
+templates
+Videos
+videos
+Tiled tiles
+Environmental viscosity
+Trail length
+10 seconds
+Flaming torches
+Image opacity
+translator-credits
+Calendar selection
+Select a date from below.
+C_alendar:
+Add a new entry
+_Enter new text:
+Error
+An error has occurred.
+Information
+All updates are complete.
+Progress
+Running...
+Question
+Are you sure you want to proceed?
+Adjust the scale value
+Text View
+Select items from the list
+Select items from the list below.
+Warning
+Set the dialog title
+TITLE
+Set the window icon
+Set the width
+WIDTH
+Set the height
+HEIGHT
+TEXT
+Display calendar dialog
+Set the dialog text
+Set the calendar day
+DAY
+Set the calendar month
+MONTH
+Set the calendar year
+YEAR
+PATTERN
+Set the entry text
+Hide the entry text
+Display error dialog
+Display info dialog
+Set the filename
+FILENAME
+SEPARATOR
+Display list dialog
+Set the column header
+COLUMN
+NUMBER
+Hide a specific column
+Display notification
+PERCENTAGE
+Display question dialog
+Open file
+Display warning dialog
+Display scale dialog
+Set initial value
+VALUE
+Hide value
+About zenity
+Print version
+General options
+Show general options
+Calendar options
+Show calendar options
+Text entry options
+Error options
+Show error options
+Info options
+Show info options
+File selection options
+List options
+Show list options
+Progress options
+Show progress options
+Question options
+Show question options
+Warning options
+Show warning options
+Scale options
+Show scale options
+Miscellaneous options
+Show miscellaneous options
